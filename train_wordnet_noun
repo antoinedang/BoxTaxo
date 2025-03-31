@@ -14,6 +14,6 @@ conda activate boxtaxo
 cd src
 echo ""
 echo "TRAIN NOUN:"
-python main.py --dataset wordnet_noun
+python main.py --dataset SemEval-Noun
 echo "ERROR CODE: $?"
 

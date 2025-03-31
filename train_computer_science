@@ -14,6 +14,6 @@ conda activate boxtaxo
 cd src
 echo ""
 echo "TRAIN CS:"
-python main.py --dataset computer_science
+python main.py --dataset MAG-CS-Wiki
 echo "ERROR CODE: $?"
 
