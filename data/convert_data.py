@@ -18,13 +18,16 @@ def convert_dataset(dataset_name, directory):
 
     # Load term definitions from term2def.csv
     dic = {}
+    id2term = {}
     with open(term2def_path, newline="", encoding="utf-8") as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
             if len(row) == 4:
+                term_id = row[1].strip()
                 term = row[2].strip()
                 definition = row[3].strip()
                 dic[term] = [definition]
+                id2term[term_id] = term
             else:
                 term = row[0].strip()
                 definition = row[2].strip()
@@ -39,18 +42,25 @@ def convert_dataset(dataset_name, directory):
             if len(parts) >= 2:
                 child_term = parts[0].strip()
                 parent_term = parts[1].strip()
+                try:
+                    child_term = id2term[child_term]
+                    parent_term = id2term[parent_term]
+                except:
+                    pass
                 reverse_taxonomy[child_term] = reverse_taxonomy.get(child_term, []) + [
                     parent_term
                 ]
                 taxonomy[parent_term] = taxonomy.get(parent_term, []) + [child_term]
 
     # store nodes with no parents (roots)
-    roots = [k for k, v in reverse_taxonomy.items() if len(v) == 0]
+    roots = [term for term in dic.keys() if len(reverse_taxonomy.get(term, [])) == 0]
     taxonomy[dataset_name] = roots
     for root in roots:
-        reverse_taxonomy[root] = reverse_taxonomy[root] + [dataset_name]
+        reverse_taxonomy[root] = [dataset_name]
     # find nodes with a single parent to use as evaluation set
-    eval_terms = [k for k, v in reverse_taxonomy.items() if len(v) == 1]
+    eval_terms = [
+        k for k, v in reverse_taxonomy.items() if len(v) == 1 and v[0] != dataset_name
+    ]
     random.shuffle(eval_terms)
     eval_terms = eval_terms[: int(len(eval_terms) // 5)]
 
