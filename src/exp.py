@@ -149,6 +149,9 @@ class Experiments(object):
                 )
 
         #Use the model in final epoch
+        # make folder if it doesnt exist
+        if not os.path.exists(os.path.join("../result",self.args.dataset,"model")):
+            os.makedirs(os.path.join("../result",self.args.dataset,"model"))
         torch.save(self.model.state_dict(), os.path.join("../result",self.args.dataset,"model","exp_model_"+self.exp_setting+".checkpoint"))            
 
             
@@ -326,9 +329,15 @@ class Experiments(object):
         self.tosave_box["center"] = center
         self.tosave_box["delta"] = delta
 
+        # make folder if it doesnt exist
+        if not os.path.exists(os.path.join("../result",self.args.dataset,"box")):
+            os.makedirs(os.path.join("../result",self.args.dataset,"box"))
         with open(os.path.join("../result",self.args.dataset,"box","exp_box_"+self.exp_setting+".pkl"),"wb") as f:
             pkl.dump(self.tosave_box,f)
 
+        # make folder if it doesnt exist
+        if not os.path.exists(os.path.join("../result",self.args.dataset,"prediction")):
+            os.makedirs(os.path.join("../result",self.args.dataset,"prediction"))
         with open(os.path.join("../result",self.args.dataset,"prediction","exp_pred_"+self.exp_setting+".pkl"),"wb") as f:
             pkl.dump(self.tosave_pred,f)
         

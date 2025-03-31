@@ -35,7 +35,7 @@ parser.add_argument('--optim', type=str, default="adamw", help='Optimizer')
 
 ## Others
 parser.add_argument('--cuda', type=bool, default=True, help='use cuda for training')
-parser.add_argument('--gpu_id', type=int, default=2, help='which gpu')
+parser.add_argument('--gpu_id', type=int, default=0, help='which gpu')
 
 
 

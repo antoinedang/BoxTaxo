@@ -1,0 +1,19 @@
+#!/bin/bash
+#SBATCH --job-name=boxtaxo_verb
+#SBATCH --output=boxtaxo_verb_out.txt
+#SBATCH --error=boxtaxo_verb_err.txt
+#SBATCH --ntasks=1
+#SBATCH --time=400:00
+#SBATCH --mem=100Gb
+#SBATCH --gres=gpu:1
+
+source ~/.bashrc
+module load miniconda/3
+module load cuda/11.1
+conda activate boxtaxo
+cd src
+echo ""
+echo "TRAIN VERB:"
+python main.py --dataset wordnet_verb
+echo "ERROR CODE: $?"
+

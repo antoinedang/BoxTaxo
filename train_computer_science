@@ -1,0 +1,19 @@
+#!/bin/bash
+#SBATCH --job-name=boxtaxo_cs
+#SBATCH --output=boxtaxo_cs_out.txt
+#SBATCH --error=boxtaxo_cs_err.txt
+#SBATCH --ntasks=1
+#SBATCH --time=400:00
+#SBATCH --mem=100Gb
+#SBATCH --gres=gpu:1
+
+source ~/.bashrc
+module load miniconda/3
+module load cuda/11.1
+conda activate boxtaxo
+cd src
+echo ""
+echo "TRAIN CS:"
+python main.py --dataset computer_science
+echo "ERROR CODE: $?"
+

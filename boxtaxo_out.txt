@@ -1,0 +1,534 @@
+
+TRAIN:
+Start time at : 
+Pacific time 2025-03-24T16:46:24.631829-07:00
+ERROR CODE: 1
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Mon Mar 24 19:46:25 2025
+Driver Version                            : 560.35.03
+CUDA Version                              : 12.6
+
+Attached GPUs                             : 1
+GPU 00000000:A3:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes                   : None
+
+Mon Mar 24 19:46:25 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 560.35.03              Driver Version: 560.35.03      CUDA Version: 12.6     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Quadro RTX 8000                On  |   00000000:A3:00.0 Off |                    0 |
+| 34%   36C    P8             25W /  235W |       1MiB /  46080MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+TRAIN:
+Start time at : 
+Pacific time 2025-03-24T16:52:26.333067-07:00
+Namespace(dataset='environment', pre_train='bert', hidden=64, embed_size=12, dropout=0.05, margin=0.05, epsilon=-0.03, size=0.03, alpha=1.0, beta=1.0, gamma=1.0, extra=0.1, expID=0, epochs=100, batch_size=100, lr=2e-05, lr_projection=0.001, eps=1e-08, optim='adamw', cuda=True, gpu_id=0)
+loading training data
+loading testing data
+Waitfing for preprocess data....
+Done!
+Waitfing for saving processed data....
+Done!
+From processed data, there are :14286 training instances
+From processed data, there are :52 test instances
+Dataset: environment
+Training samples: 14286
+train 14286
+Dataset: environment
+test 209
+{'pre_train': 'bert', 'dataset': 'environment', 'expID': 0, 'epochs': 100, 'embed_size': 12, 'batch_size': 100, 'margin': 0.05, 'epsilon': -0.03, 'size': 0.03, 'alpha': 1.0, 'beta': 1.0, 'gamma': 1.0, 'extra': 0.1}
+Epoch: 0001  train_loss:0.09474 acc:0.03846 mrr:0.15218 wu_p:0.43095  epoch_time:181.7s  remain_time:17983.4s
+Epoch: 0002  train_loss:0.01268 acc:0.11538 mrr:0.23124 wu_p:0.54151  epoch_time:184.1s  remain_time:17920.7s
+Epoch: 0003  train_loss:0.00967 acc:0.15385 mrr:0.27618 wu_p:0.56496  epoch_time:184.2s  remain_time:17780.8s
+Epoch: 0004  train_loss:0.00763 acc:0.17308 mrr:0.29246 wu_p:0.58193  epoch_time:184.2s  remain_time:17619.2s
+Epoch: 0005  train_loss:0.00584 acc:0.09615 mrr:0.26182 wu_p:0.55807  epoch_time:184.3s  remain_time:17449.9s
+Epoch: 0006  train_loss:0.00506 acc:0.19231 mrr:0.33954 wu_p:0.60998  epoch_time:184.3s  remain_time:17276.2s
+Epoch: 0007  train_loss:0.00446 acc:0.26923 mrr:0.38221 wu_p:0.65316  epoch_time:184.2s  remain_time:17098.0s
+Epoch: 0008  train_loss:0.00535 acc:0.17308 mrr:0.31561 wu_p:0.60778  epoch_time:184.1s  remain_time:16917.1s
+Epoch: 0009  train_loss:0.00439 acc:0.25000 mrr:0.36840 wu_p:0.66444  epoch_time:184.2s  remain_time:16736.1s
+Epoch: 0010  train_loss:0.00383 acc:0.28846 mrr:0.40429 wu_p:0.68271  epoch_time:184.1s  remain_time:16554.3s
+Epoch: 0011  train_loss:0.00511 acc:0.11538 mrr:0.25381 wu_p:0.62924  epoch_time:184.1s  remain_time:16371.5s
+Epoch: 0012  train_loss:0.00539 acc:0.17308 mrr:0.34319 wu_p:0.66203  epoch_time:184.3s  remain_time:16190.3s
+Epoch: 0013  train_loss:0.00378 acc:0.26923 mrr:0.37937 wu_p:0.67372  epoch_time:184.2s  remain_time:16007.7s
+Epoch: 0014  train_loss:0.00387 acc:0.28846 mrr:0.40844 wu_p:0.68800  epoch_time:184.1s  remain_time:15824.1s
+Epoch: 0015  train_loss:0.00342 acc:0.25000 mrr:0.36967 wu_p:0.68536  epoch_time:184.1s  remain_time:15640.6s
+Epoch: 0016  train_loss:0.00358 acc:0.30769 mrr:0.40241 wu_p:0.67778  epoch_time:184.1s  remain_time:15456.8s
+Epoch: 0017  train_loss:0.00308 acc:0.25000 mrr:0.36845 wu_p:0.65354  epoch_time:184.1s  remain_time:15273.3s
+Epoch: 0018  train_loss:0.00281 acc:0.28846 mrr:0.38989 wu_p:0.68605  epoch_time:184.3s  remain_time:15090.6s
+Epoch: 0019  train_loss:0.00347 acc:0.25000 mrr:0.34255 wu_p:0.69083  epoch_time:184.2s  remain_time:14907.3s
+Epoch: 0020  train_loss:0.00377 acc:0.19231 mrr:0.33018 wu_p:0.58399  epoch_time:184.0s  remain_time:14723.2s
+Epoch: 0021  train_loss:0.00473 acc:0.17308 mrr:0.33169 wu_p:0.65290  epoch_time:184.0s  remain_time:14538.9s
+Epoch: 0022  train_loss:0.00608 acc:0.23077 mrr:0.36885 wu_p:0.63086  epoch_time:184.6s  remain_time:14357.0s
+Epoch: 0023  train_loss:0.00378 acc:0.26923 mrr:0.39214 wu_p:0.67598  epoch_time:184.1s  remain_time:14173.0s
+Epoch: 0024  train_loss:0.00333 acc:0.21154 mrr:0.35245 wu_p:0.62401  epoch_time:184.0s  remain_time:13988.9s
+Epoch: 0025  train_loss:0.00269 acc:0.28846 mrr:0.38754 wu_p:0.66387  epoch_time:184.1s  remain_time:13804.8s
+Epoch: 0026  train_loss:0.00430 acc:0.34615 mrr:0.45613 wu_p:0.69374  epoch_time:183.7s  remain_time:13619.7s
+Epoch: 0027  train_loss:0.00304 acc:0.30769 mrr:0.43888 wu_p:0.69110  epoch_time:183.8s  remain_time:13435.0s
+Epoch: 0028  train_loss:0.00253 acc:0.26923 mrr:0.40459 wu_p:0.65353  epoch_time:183.9s  remain_time:13250.7s
+Epoch: 0029  train_loss:0.00266 acc:0.26923 mrr:0.37713 wu_p:0.67308  epoch_time:184.0s  remain_time:13066.5s
+Epoch: 0030  train_loss:0.00380 acc:0.15385 mrr:0.29570 wu_p:0.55997  epoch_time:184.0s  remain_time:12882.3s
+Epoch: 0031  train_loss:0.00300 acc:0.38462 mrr:0.46030 wu_p:0.72060  epoch_time:183.9s  remain_time:12698.0s
+Epoch: 0032  train_loss:0.00253 acc:0.30769 mrr:0.39932 wu_p:0.69837  epoch_time:183.9s  remain_time:12513.7s
+Epoch: 0033  train_loss:0.00234 acc:0.30769 mrr:0.40981 wu_p:0.70864  epoch_time:184.0s  remain_time:12329.5s
+Epoch: 0034  train_loss:0.00217 acc:0.28846 mrr:0.40951 wu_p:0.66542  epoch_time:184.0s  remain_time:12145.5s
+Epoch: 0035  train_loss:0.00254 acc:0.25000 mrr:0.35001 wu_p:0.68423  epoch_time:184.0s  remain_time:11961.5s
+Epoch: 0036  train_loss:0.00225 acc:0.23077 mrr:0.34431 wu_p:0.63597  epoch_time:184.0s  remain_time:11777.5s
+Epoch: 0037  train_loss:0.00259 acc:0.34615 mrr:0.41907 wu_p:0.73046  epoch_time:184.2s  remain_time:11593.8s
+Epoch: 0038  train_loss:0.00228 acc:0.28846 mrr:0.39405 wu_p:0.68042  epoch_time:184.1s  remain_time:11409.9s
+Epoch: 0039  train_loss:0.00293 acc:0.30769 mrr:0.42249 wu_p:0.68793  epoch_time:184.0s  remain_time:11225.8s
+Epoch: 0040  train_loss:0.00253 acc:0.32692 mrr:0.43180 wu_p:0.68811  epoch_time:184.0s  remain_time:11041.8s
+Epoch: 0041  train_loss:0.00216 acc:0.26923 mrr:0.37295 wu_p:0.64481  epoch_time:184.7s  remain_time:10858.7s
+Epoch: 0042  train_loss:0.00250 acc:0.34615 mrr:0.42231 wu_p:0.71284  epoch_time:184.1s  remain_time:10674.7s
+Epoch: 0043  train_loss:0.00231 acc:0.28846 mrr:0.41409 wu_p:0.68260  epoch_time:184.1s  remain_time:10490.7s
+Epoch: 0044  train_loss:0.00235 acc:0.36538 mrr:0.45681 wu_p:0.69565  epoch_time:184.0s  remain_time:10306.6s
+Epoch: 0045  train_loss:0.00243 acc:0.32692 mrr:0.41874 wu_p:0.69324  epoch_time:184.1s  remain_time:10122.7s
+Epoch: 0046  train_loss:0.00252 acc:0.36538 mrr:0.43789 wu_p:0.70716  epoch_time:184.1s  remain_time:9938.7s
+Epoch: 0047  train_loss:0.00243 acc:0.25000 mrr:0.33216 wu_p:0.64559  epoch_time:184.2s  remain_time:9754.8s
+Epoch: 0048  train_loss:0.00252 acc:0.25000 mrr:0.36861 wu_p:0.64202  epoch_time:184.2s  remain_time:9570.9s
+Epoch: 0049  train_loss:0.00230 acc:0.30769 mrr:0.39902 wu_p:0.65972  epoch_time:184.1s  remain_time:9386.8s
+Epoch: 0050  train_loss:0.00229 acc:0.25000 mrr:0.38155 wu_p:0.65876  epoch_time:184.2s  remain_time:9202.9s
+Epoch: 0051  train_loss:0.00247 acc:0.28846 mrr:0.38211 wu_p:0.65612  epoch_time:183.8s  remain_time:9018.6s
+Epoch: 0052  train_loss:0.00316 acc:0.25000 mrr:0.37194 wu_p:0.68019  epoch_time:183.8s  remain_time:8834.3s
+Epoch: 0053  train_loss:0.00271 acc:0.32692 mrr:0.44544 wu_p:0.73422  epoch_time:183.9s  remain_time:8650.2s
+Epoch: 0054  train_loss:0.00230 acc:0.26923 mrr:0.43221 wu_p:0.65798  epoch_time:184.0s  remain_time:8466.1s
+Epoch: 0055  train_loss:0.00266 acc:0.30769 mrr:0.37577 wu_p:0.71087  epoch_time:183.9s  remain_time:8281.9s
+Epoch: 0056  train_loss:0.00287 acc:0.28846 mrr:0.41336 wu_p:0.69518  epoch_time:183.7s  remain_time:8097.6s
+Epoch: 0057  train_loss:0.00201 acc:0.28846 mrr:0.40182 wu_p:0.66190  epoch_time:183.8s  remain_time:7913.4s
+Epoch: 0058  train_loss:0.00188 acc:0.25000 mrr:0.37306 wu_p:0.64101  epoch_time:183.8s  remain_time:7729.2s
+Epoch: 0059  train_loss:0.00174 acc:0.23077 mrr:0.36093 wu_p:0.65577  epoch_time:183.9s  remain_time:7545.1s
+Epoch: 0060  train_loss:0.00165 acc:0.30769 mrr:0.39072 wu_p:0.70064  epoch_time:183.9s  remain_time:7361.0s
+Epoch: 0061  train_loss:0.00251 acc:0.30769 mrr:0.41513 wu_p:0.70093  epoch_time:183.9s  remain_time:7176.9s
+Epoch: 0062  train_loss:0.00253 acc:0.21154 mrr:0.37624 wu_p:0.64464  epoch_time:184.0s  remain_time:6992.8s
+Epoch: 0063  train_loss:0.00208 acc:0.32692 mrr:0.44403 wu_p:0.71706  epoch_time:184.2s  remain_time:6808.9s
+Epoch: 0064  train_loss:0.00202 acc:0.30769 mrr:0.41197 wu_p:0.67537  epoch_time:184.2s  remain_time:6625.0s
+Epoch: 0065  train_loss:0.00292 acc:0.34615 mrr:0.45057 wu_p:0.71000  epoch_time:184.1s  remain_time:6441.0s
+Epoch: 0066  train_loss:0.00216 acc:0.26923 mrr:0.36309 wu_p:0.68300  epoch_time:184.2s  remain_time:6257.0s
+Epoch: 0067  train_loss:0.00179 acc:0.30769 mrr:0.41510 wu_p:0.68091  epoch_time:184.1s  remain_time:6073.1s
+Epoch: 0068  train_loss:0.00210 acc:0.34615 mrr:0.42009 wu_p:0.72418  epoch_time:184.1s  remain_time:5889.1s
+Epoch: 0069  train_loss:0.00187 acc:0.28846 mrr:0.41231 wu_p:0.68666  epoch_time:184.3s  remain_time:5705.1s
+Epoch: 0070  train_loss:0.00163 acc:0.28846 mrr:0.39752 wu_p:0.71267  epoch_time:184.8s  remain_time:5521.4s
+Epoch: 0071  train_loss:0.00158 acc:0.25000 mrr:0.33864 wu_p:0.69823  epoch_time:184.5s  remain_time:5337.6s
+Epoch: 0072  train_loss:0.00245 acc:0.26923 mrr:0.35908 wu_p:0.70711  epoch_time:184.4s  remain_time:5153.6s
+Epoch: 0073  train_loss:0.00206 acc:0.32692 mrr:0.44249 wu_p:0.72106  epoch_time:184.5s  remain_time:4969.7s
+Epoch: 0074  train_loss:0.00196 acc:0.30769 mrr:0.39078 wu_p:0.71737  epoch_time:184.5s  remain_time:4785.8s
+Epoch: 0075  train_loss:0.00204 acc:0.30769 mrr:0.40595 wu_p:0.71294  epoch_time:184.5s  remain_time:4601.9s
+Epoch: 0076  train_loss:0.00256 acc:0.23077 mrr:0.37189 wu_p:0.64576  epoch_time:184.7s  remain_time:4418.0s
+Epoch: 0077  train_loss:0.00223 acc:0.40385 mrr:0.48085 wu_p:0.72604  epoch_time:184.4s  remain_time:4234.0s
+Epoch: 0078  train_loss:0.00185 acc:0.36538 mrr:0.43563 wu_p:0.74765  epoch_time:184.4s  remain_time:4050.0s
+Epoch: 0079  train_loss:0.00164 acc:0.28846 mrr:0.41359 wu_p:0.70574  epoch_time:184.5s  remain_time:3866.1s
+Epoch: 0080  train_loss:0.00194 acc:0.30769 mrr:0.38707 wu_p:0.70253  epoch_time:184.7s  remain_time:3682.1s
+Epoch: 0081  train_loss:0.00209 acc:0.36538 mrr:0.44732 wu_p:0.71563  epoch_time:186.2s  remain_time:3498.5s
+Epoch: 0082  train_loss:0.00193 acc:0.34615 mrr:0.45606 wu_p:0.71416  epoch_time:185.5s  remain_time:3314.7s
+Epoch: 0083  train_loss:0.00189 acc:0.32692 mrr:0.41802 wu_p:0.72689  epoch_time:185.6s  remain_time:3130.8s
+Epoch: 0084  train_loss:0.00161 acc:0.34615 mrr:0.44745 wu_p:0.69826  epoch_time:185.9s  remain_time:2947.0s
+Epoch: 0085  train_loss:0.00151 acc:0.36538 mrr:0.44696 wu_p:0.68837  epoch_time:186.1s  remain_time:2763.1s
+Epoch: 0086  train_loss:0.00156 acc:0.30769 mrr:0.40582 wu_p:0.68959  epoch_time:186.2s  remain_time:2579.2s
+Epoch: 0087  train_loss:0.00168 acc:0.32692 mrr:0.45646 wu_p:0.69985  epoch_time:185.7s  remain_time:2395.2s
+Epoch: 0088  train_loss:0.00173 acc:0.32692 mrr:0.44458 wu_p:0.70641  epoch_time:185.9s  remain_time:2211.2s
+Epoch: 0089  train_loss:0.00201 acc:0.34615 mrr:0.41345 wu_p:0.72712  epoch_time:185.8s  remain_time:2027.1s
+Epoch: 0090  train_loss:0.00161 acc:0.46154 mrr:0.52268 wu_p:0.76780  epoch_time:185.8s  remain_time:1843.0s
+Epoch: 0091  train_loss:0.00150 acc:0.38462 mrr:0.48055 wu_p:0.74713  epoch_time:185.8s  remain_time:1658.9s
+Epoch: 0092  train_loss:0.00157 acc:0.38462 mrr:0.46610 wu_p:0.73281  epoch_time:185.5s  remain_time:1474.7s
+Epoch: 0093  train_loss:0.00179 acc:0.30769 mrr:0.43730 wu_p:0.71339  epoch_time:185.9s  remain_time:1290.4s
+Epoch: 0094  train_loss:0.00209 acc:0.26923 mrr:0.37894 wu_p:0.69367  epoch_time:185.9s  remain_time:1106.2s
+Epoch: 0095  train_loss:0.00245 acc:0.40385 mrr:0.48111 wu_p:0.76847  epoch_time:185.7s  remain_time:921.9s
+Epoch: 0096  train_loss:0.00239 acc:0.32692 mrr:0.41154 wu_p:0.73822  epoch_time:185.7s  remain_time:737.6s
+Epoch: 0097  train_loss:0.00177 acc:0.30769 mrr:0.40820 wu_p:0.73117  epoch_time:185.3s  remain_time:553.2s
+Epoch: 0098  train_loss:0.00158 acc:0.36538 mrr:0.46477 wu_p:0.74554  epoch_time:185.4s  remain_time:368.8s
+Epoch: 0099  train_loss:0.00155 acc:0.36538 mrr:0.45027 wu_p:0.73405  epoch_time:185.2s  remain_time:184.4s
+Epoch: 0100  train_loss:0.00205 acc:0.32692 mrr:0.44266 wu_p:0.70977  epoch_time:185.5s  remain_time:0.0s
+ERROR CODE: 1
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Tue Mar 25 01:00:13 2025
+Driver Version                            : 560.35.03
+CUDA Version                              : 12.6
+
+Attached GPUs                             : 1
+GPU 00000000:C3:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 975947
+            GPU Utilization               : 99 %
+            Memory Utilization            : 46 %
+            Max memory usage              : 16926 MiB
+            Time                          : 18466475 ms
+            Is Running                    : 0
+
+Tue Mar 25 01:00:13 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 560.35.03              Driver Version: 560.35.03      CUDA Version: 12.6     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Quadro RTX 8000                On  |   00000000:C3:00.0 Off |                    0 |
+| 69%   81C    P2            159W /  235W |       1MiB /  46080MiB |    100%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+TRAIN:
+Start time at : 
+Pacific time 2025-03-25T06:48:17.855600-07:00
+Namespace(dataset='environment', pre_train='bert', hidden=64, embed_size=12, dropout=0.05, margin=0.05, epsilon=-0.03, size=0.03, alpha=1.0, beta=1.0, gamma=1.0, extra=0.1, expID=0, epochs=100, batch_size=100, lr=2e-05, lr_projection=0.001, eps=1e-08, optim='adamw', cuda=True, gpu_id=0)
+loading training data
+loading testing data
+Waitfing for preprocess data....
+Done!
+Waitfing for saving processed data....
+Done!
+From processed data, there are :14286 training instances
+From processed data, there are :52 test instances
+Dataset: environment
+Training samples: 14286
+train 14286
+Dataset: environment
+test 209
+{'pre_train': 'bert', 'dataset': 'environment', 'expID': 0, 'epochs': 100, 'embed_size': 12, 'batch_size': 100, 'margin': 0.05, 'epsilon': -0.03, 'size': 0.03, 'alpha': 1.0, 'beta': 1.0, 'gamma': 1.0, 'extra': 0.1}
+Epoch: 0001  train_loss:0.09475 acc:0.05769 mrr:0.13383 wu_p:0.39473  epoch_time:174.6s  remain_time:17285.9s
+Epoch: 0002  train_loss:0.01409 acc:0.15385 mrr:0.25353 wu_p:0.48083  epoch_time:175.3s  remain_time:17146.7s
+Epoch: 0003  train_loss:0.01031 acc:0.17308 mrr:0.27375 wu_p:0.55038  epoch_time:175.9s  remain_time:17001.8s
+Epoch: 0004  train_loss:0.00906 acc:0.07692 mrr:0.23332 wu_p:0.48397  epoch_time:176.2s  remain_time:16848.0s
+Epoch: 0005  train_loss:0.00721 acc:0.26923 mrr:0.36944 wu_p:0.61384  epoch_time:175.8s  remain_time:16677.9s
+Epoch: 0006  train_loss:0.00566 acc:0.25000 mrr:0.36386 wu_p:0.64045  epoch_time:175.5s  remain_time:16501.8s
+Epoch: 0007  train_loss:0.00581 acc:0.15385 mrr:0.31561 wu_p:0.57941  epoch_time:175.8s  remain_time:16330.2s
+Epoch: 0008  train_loss:0.00519 acc:0.26923 mrr:0.39698 wu_p:0.64860  epoch_time:178.9s  remain_time:16192.7s
+Epoch: 0009  train_loss:0.00453 acc:0.15385 mrr:0.27448 wu_p:0.61149  epoch_time:177.0s  remain_time:16027.1s
+Epoch: 0010  train_loss:0.00429 acc:0.21154 mrr:0.35550 wu_p:0.56702  epoch_time:177.5s  remain_time:15863.5s
+Epoch: 0011  train_loss:0.00418 acc:0.19231 mrr:0.29858 wu_p:0.60145  epoch_time:177.1s  remain_time:15694.4s
+Epoch: 0012  train_loss:0.00449 acc:0.17308 mrr:0.32024 wu_p:0.60876  epoch_time:176.8s  remain_time:15521.3s
+Epoch: 0013  train_loss:0.00392 acc:0.17308 mrr:0.32752 wu_p:0.64177  epoch_time:176.5s  remain_time:15345.5s
+Epoch: 0014  train_loss:0.00307 acc:0.26923 mrr:0.38691 wu_p:0.66940  epoch_time:176.5s  remain_time:15169.8s
+Epoch: 0015  train_loss:0.00327 acc:0.11538 mrr:0.28630 wu_p:0.57338  epoch_time:176.9s  remain_time:14996.4s
+Epoch: 0016  train_loss:0.00342 acc:0.26923 mrr:0.39874 wu_p:0.66748  epoch_time:177.2s  remain_time:14823.8s
+Epoch: 0017  train_loss:0.00375 acc:0.17308 mrr:0.30867 wu_p:0.61067  epoch_time:177.2s  remain_time:14650.8s
+Epoch: 0018  train_loss:0.00351 acc:0.15385 mrr:0.30088 wu_p:0.60461  epoch_time:177.4s  remain_time:14478.4s
+Epoch: 0019  train_loss:0.00365 acc:0.17308 mrr:0.31507 wu_p:0.64597  epoch_time:177.2s  remain_time:14304.6s
+Epoch: 0020  train_loss:0.00415 acc:0.23077 mrr:0.35245 wu_p:0.62366  epoch_time:177.0s  remain_time:14129.8s
+Epoch: 0021  train_loss:0.00326 acc:0.23077 mrr:0.36245 wu_p:0.66348  epoch_time:177.1s  remain_time:13954.9s
+Epoch: 0022  train_loss:0.00356 acc:0.19231 mrr:0.30396 wu_p:0.61567  epoch_time:177.0s  remain_time:13779.5s
+Epoch: 0023  train_loss:0.00285 acc:0.17308 mrr:0.32006 wu_p:0.61476  epoch_time:177.2s  remain_time:13604.8s
+Epoch: 0024  train_loss:0.00292 acc:0.21154 mrr:0.31854 wu_p:0.61650  epoch_time:177.3s  remain_time:13430.1s
+Epoch: 0025  train_loss:0.00349 acc:0.13462 mrr:0.25850 wu_p:0.58799  epoch_time:177.5s  remain_time:13255.6s
+Epoch: 0026  train_loss:0.00514 acc:0.28846 mrr:0.38334 wu_p:0.69127  epoch_time:177.3s  remain_time:13080.3s
+Epoch: 0027  train_loss:0.00334 acc:0.26923 mrr:0.36540 wu_p:0.67039  epoch_time:177.6s  remain_time:12905.9s
+Epoch: 0028  train_loss:0.00263 acc:0.28846 mrr:0.38580 wu_p:0.66870  epoch_time:177.5s  remain_time:12730.9s
+Epoch: 0029  train_loss:0.00250 acc:0.32692 mrr:0.41621 wu_p:0.70162  epoch_time:177.5s  remain_time:12555.8s
+Epoch: 0030  train_loss:0.00254 acc:0.30769 mrr:0.40827 wu_p:0.66371  epoch_time:178.0s  remain_time:12381.8s
+Epoch: 0031  train_loss:0.00219 acc:0.25000 mrr:0.38071 wu_p:0.65759  epoch_time:178.0s  remain_time:12207.3s
+Epoch: 0032  train_loss:0.00255 acc:0.32692 mrr:0.41434 wu_p:0.67164  epoch_time:178.1s  remain_time:12033.0s
+Epoch: 0033  train_loss:0.00239 acc:0.32692 mrr:0.42286 wu_p:0.70336  epoch_time:178.1s  remain_time:11858.3s
+Epoch: 0034  train_loss:0.00284 acc:0.21154 mrr:0.36058 wu_p:0.63961  epoch_time:177.9s  remain_time:11683.2s
+Epoch: 0035  train_loss:0.00273 acc:0.30769 mrr:0.41532 wu_p:0.70012  epoch_time:178.0s  remain_time:11508.0s
+Epoch: 0036  train_loss:0.00257 acc:0.36538 mrr:0.43555 wu_p:0.72199  epoch_time:178.0s  remain_time:11332.6s
+Epoch: 0037  train_loss:0.00233 acc:0.30769 mrr:0.44573 wu_p:0.68458  epoch_time:178.3s  remain_time:11157.6s
+Epoch: 0038  train_loss:0.00249 acc:0.36538 mrr:0.43114 wu_p:0.72796  epoch_time:178.1s  remain_time:10982.1s
+Epoch: 0039  train_loss:0.00248 acc:0.26923 mrr:0.38405 wu_p:0.69014  epoch_time:177.9s  remain_time:10806.2s
+Epoch: 0040  train_loss:0.00284 acc:0.25000 mrr:0.38243 wu_p:0.63849  epoch_time:177.9s  remain_time:10630.1s
+Epoch: 0041  train_loss:0.00291 acc:0.23077 mrr:0.35809 wu_p:0.65797  epoch_time:177.8s  remain_time:10453.9s
+Epoch: 0042  train_loss:0.00236 acc:0.26923 mrr:0.40542 wu_p:0.68197  epoch_time:177.9s  remain_time:10277.7s
+Epoch: 0043  train_loss:0.00253 acc:0.17308 mrr:0.29849 wu_p:0.62506  epoch_time:178.0s  remain_time:10101.5s
+Epoch: 0044  train_loss:0.00527 acc:0.28846 mrr:0.38828 wu_p:0.67662  epoch_time:190.2s  remain_time:9940.8s
+Epoch: 0045  train_loss:0.00272 acc:0.30769 mrr:0.38386 wu_p:0.65360  epoch_time:177.2s  remain_time:9762.9s
+Epoch: 0046  train_loss:0.00223 acc:0.30769 mrr:0.40419 wu_p:0.64544  epoch_time:178.1s  remain_time:9586.1s
+Epoch: 0047  train_loss:0.00227 acc:0.28846 mrr:0.39321 wu_p:0.68265  epoch_time:178.3s  remain_time:9409.4s
+Epoch: 0048  train_loss:0.00202 acc:0.32692 mrr:0.43892 wu_p:0.69834  epoch_time:177.5s  remain_time:9231.9s
+Epoch: 0049  train_loss:0.00216 acc:0.28846 mrr:0.41676 wu_p:0.64110  epoch_time:177.2s  remain_time:9054.0s
+Epoch: 0050  train_loss:0.00222 acc:0.40385 mrr:0.49111 wu_p:0.72433  epoch_time:177.3s  remain_time:8876.3s
+Epoch: 0051  train_loss:0.00243 acc:0.32692 mrr:0.43154 wu_p:0.69013  epoch_time:177.2s  remain_time:8698.5s
+Epoch: 0052  train_loss:0.00291 acc:0.23077 mrr:0.35667 wu_p:0.67218  epoch_time:177.2s  remain_time:8520.7s
+Epoch: 0053  train_loss:0.00323 acc:0.25000 mrr:0.35623 wu_p:0.69940  epoch_time:177.3s  remain_time:8343.0s
+Epoch: 0054  train_loss:0.00273 acc:0.25000 mrr:0.37110 wu_p:0.64594  epoch_time:177.4s  remain_time:8165.4s
+Epoch: 0055  train_loss:0.00293 acc:0.21154 mrr:0.33192 wu_p:0.64145  epoch_time:177.3s  remain_time:7987.7s
+Epoch: 0056  train_loss:0.00274 acc:0.26923 mrr:0.39099 wu_p:0.66766  epoch_time:177.2s  remain_time:7810.0s
+Epoch: 0057  train_loss:0.00224 acc:0.34615 mrr:0.41878 wu_p:0.69287  epoch_time:177.2s  remain_time:7632.2s
+Epoch: 0058  train_loss:0.00182 acc:0.26923 mrr:0.38049 wu_p:0.70104  epoch_time:177.2s  remain_time:7454.6s
+Epoch: 0059  train_loss:0.00211 acc:0.28846 mrr:0.40794 wu_p:0.71824  epoch_time:177.3s  remain_time:7276.9s
+Epoch: 0060  train_loss:0.00229 acc:0.30769 mrr:0.39364 wu_p:0.68857  epoch_time:177.2s  remain_time:7099.3s
+Epoch: 0061  train_loss:0.00206 acc:0.28846 mrr:0.38775 wu_p:0.71322  epoch_time:177.3s  remain_time:6921.6s
+Epoch: 0062  train_loss:0.00219 acc:0.28846 mrr:0.42401 wu_p:0.69771  epoch_time:177.3s  remain_time:6744.0s
+Epoch: 0063  train_loss:0.00207 acc:0.28846 mrr:0.42142 wu_p:0.69684  epoch_time:177.4s  remain_time:6566.5s
+Epoch: 0064  train_loss:0.00218 acc:0.23077 mrr:0.37919 wu_p:0.68903  epoch_time:178.0s  remain_time:6389.3s
+Epoch: 0065  train_loss:0.00220 acc:0.23077 mrr:0.34952 wu_p:0.67309  epoch_time:177.2s  remain_time:6211.7s
+Epoch: 0066  train_loss:0.00189 acc:0.30769 mrr:0.41154 wu_p:0.70974  epoch_time:176.9s  remain_time:6033.9s
+Epoch: 0067  train_loss:0.00207 acc:0.28846 mrr:0.39838 wu_p:0.70606  epoch_time:176.9s  remain_time:5856.2s
+Epoch: 0068  train_loss:0.00172 acc:0.28846 mrr:0.39435 wu_p:0.67259  epoch_time:176.9s  remain_time:5678.5s
+Epoch: 0069  train_loss:0.00232 acc:0.34615 mrr:0.44151 wu_p:0.70826  epoch_time:176.9s  remain_time:5500.8s
+Epoch: 0070  train_loss:0.00194 acc:0.34615 mrr:0.45336 wu_p:0.74615  epoch_time:177.0s  remain_time:5323.1s
+Epoch: 0071  train_loss:0.00192 acc:0.26923 mrr:0.39189 wu_p:0.68530  epoch_time:177.3s  remain_time:5145.6s
+Epoch: 0072  train_loss:0.00247 acc:0.26923 mrr:0.39652 wu_p:0.64364  epoch_time:177.8s  remain_time:4968.3s
+Epoch: 0073  train_loss:0.00231 acc:0.36538 mrr:0.45795 wu_p:0.73399  epoch_time:177.4s  remain_time:4790.9s
+Epoch: 0074  train_loss:0.00230 acc:0.30769 mrr:0.43646 wu_p:0.67454  epoch_time:177.0s  remain_time:4613.3s
+Epoch: 0075  train_loss:0.00243 acc:0.32692 mrr:0.41902 wu_p:0.67700  epoch_time:176.9s  remain_time:4435.7s
+Epoch: 0076  train_loss:0.00256 acc:0.23077 mrr:0.37950 wu_p:0.65056  epoch_time:177.2s  remain_time:4258.2s
+Epoch: 0077  train_loss:0.00250 acc:0.32692 mrr:0.41592 wu_p:0.68961  epoch_time:177.0s  remain_time:4080.6s
+Epoch: 0078  train_loss:0.00178 acc:0.30769 mrr:0.41383 wu_p:0.70406  epoch_time:177.0s  remain_time:3903.1s
+Epoch: 0079  train_loss:0.00160 acc:0.23077 mrr:0.36710 wu_p:0.63829  epoch_time:177.0s  remain_time:3725.6s
+Epoch: 0080  train_loss:0.00190 acc:0.26923 mrr:0.36394 wu_p:0.66157  epoch_time:177.1s  remain_time:3548.1s
+Epoch: 0081  train_loss:0.00185 acc:0.30769 mrr:0.42186 wu_p:0.72106  epoch_time:177.0s  remain_time:3370.6s
+Epoch: 0082  train_loss:0.00187 acc:0.28846 mrr:0.40722 wu_p:0.68379  epoch_time:177.0s  remain_time:3193.1s
+Epoch: 0083  train_loss:0.00183 acc:0.32692 mrr:0.42726 wu_p:0.72685  epoch_time:176.9s  remain_time:3015.6s
+Epoch: 0084  train_loss:0.00227 acc:0.32692 mrr:0.42542 wu_p:0.73570  epoch_time:176.7s  remain_time:2838.1s
+Epoch: 0085  train_loss:0.00167 acc:0.26923 mrr:0.37679 wu_p:0.69992  epoch_time:176.7s  remain_time:2660.6s
+Epoch: 0086  train_loss:0.00176 acc:0.28846 mrr:0.41088 wu_p:0.65446  epoch_time:177.3s  remain_time:2483.2s
+Epoch: 0087  train_loss:0.00189 acc:0.23077 mrr:0.35823 wu_p:0.67672  epoch_time:176.6s  remain_time:2305.7s
+Epoch: 0088  train_loss:0.00196 acc:0.26923 mrr:0.40072 wu_p:0.67234  epoch_time:176.4s  remain_time:2128.2s
+Epoch: 0089  train_loss:0.00181 acc:0.25000 mrr:0.39539 wu_p:0.65238  epoch_time:176.7s  remain_time:1950.8s
+Epoch: 0090  train_loss:0.00195 acc:0.25000 mrr:0.39414 wu_p:0.65502  epoch_time:176.4s  remain_time:1773.4s
+Epoch: 0091  train_loss:0.00163 acc:0.30769 mrr:0.43794 wu_p:0.64973  epoch_time:176.4s  remain_time:1595.9s
+Epoch: 0092  train_loss:0.00168 acc:0.30769 mrr:0.42735 wu_p:0.67462  epoch_time:176.2s  remain_time:1418.5s
+Epoch: 0093  train_loss:0.00158 acc:0.38462 mrr:0.47189 wu_p:0.72570  epoch_time:176.3s  remain_time:1241.1s
+Epoch: 0094  train_loss:0.00195 acc:0.38462 mrr:0.45632 wu_p:0.73820  epoch_time:176.2s  remain_time:1063.7s
+Epoch: 0095  train_loss:0.00173 acc:0.32692 mrr:0.42887 wu_p:0.69202  epoch_time:176.3s  remain_time:886.4s
+Epoch: 0096  train_loss:0.00227 acc:0.28846 mrr:0.42253 wu_p:0.67044  epoch_time:176.3s  remain_time:709.1s
+Epoch: 0097  train_loss:0.00242 acc:0.26923 mrr:0.37432 wu_p:0.64654  epoch_time:176.2s  remain_time:531.8s
+Epoch: 0098  train_loss:0.00188 acc:0.30769 mrr:0.42183 wu_p:0.68387  epoch_time:176.3s  remain_time:354.5s
+Epoch: 0099  train_loss:0.00161 acc:0.23077 mrr:0.36071 wu_p:0.69026  epoch_time:176.3s  remain_time:177.2s
+Epoch: 0100  train_loss:0.00186 acc:0.28846 mrr:0.43959 wu_p:0.66252  epoch_time:176.4s  remain_time:0.0s
+Prediction starting.....
+(52, 209)
+score: acc: 0.28846 mrr:0.43959 wu_p:0.66252
+ERROR CODE: 1
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Tue Mar 25 14:44:15 2025
+Driver Version                            : 560.35.03
+CUDA Version                              : 12.6
+
+Attached GPUs                             : 1
+GPU 00000000:44:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 1140532
+            GPU Utilization               : 99 %
+            Memory Utilization            : 48 %
+            Max memory usage              : 16926 MiB
+            Time                          : 17757043 ms
+            Is Running                    : 0
+
+Tue Mar 25 14:44:15 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 560.35.03              Driver Version: 560.35.03      CUDA Version: 12.6     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Quadro RTX 8000                On  |   00000000:44:00.0 Off |                    0 |
+| 66%   77C    P2            138W /  235W |       1MiB /  46080MiB |    100%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+TRAIN:
+Start time at : 
+Pacific time 2025-03-25T13:41:33.281665-07:00
+Namespace(dataset='environment', pre_train='bert', hidden=64, embed_size=12, dropout=0.05, margin=0.05, epsilon=-0.03, size=0.03, alpha=1.0, beta=1.0, gamma=1.0, extra=0.1, expID=0, epochs=100, batch_size=100, lr=2e-05, lr_projection=0.001, eps=1e-08, optim='adamw', cuda=True, gpu_id=0)
+loading training data
+loading testing data
+Waitfing for preprocess data....
+Done!
+Waitfing for saving processed data....
+Done!
+From processed data, there are :14286 training instances
+From processed data, there are :52 test instances
+Dataset: environment
+Training samples: 14286
+train 14286
+Dataset: environment
+test 209
+{'pre_train': 'bert', 'dataset': 'environment', 'expID': 0, 'epochs': 100, 'embed_size': 12, 'batch_size': 100, 'margin': 0.05, 'epsilon': -0.03, 'size': 0.03, 'alpha': 1.0, 'beta': 1.0, 'gamma': 1.0, 'extra': 0.1}
+Epoch: 0001  train_loss:0.07638 acc:0.07692 mrr:0.22237 wu_p:0.49026  epoch_time:163.4s  remain_time:16173.5s
+Epoch: 0002  train_loss:0.01062 acc:0.17308 mrr:0.29804 wu_p:0.59008  epoch_time:165.6s  remain_time:16119.9s
+Epoch: 0003  train_loss:0.00839 acc:0.05769 mrr:0.21463 wu_p:0.51500  epoch_time:165.1s  remain_time:15976.8s
+Epoch: 0004  train_loss:0.00751 acc:0.17308 mrr:0.30436 wu_p:0.56128  epoch_time:163.7s  remain_time:15788.3s
+Epoch: 0005  train_loss:0.00640 acc:0.11538 mrr:0.25662 wu_p:0.57407  epoch_time:164.4s  remain_time:15623.2s
+Epoch: 0006  train_loss:0.00523 acc:0.25000 mrr:0.36132 wu_p:0.61941  epoch_time:164.3s  remain_time:15455.8s
+Epoch: 0007  train_loss:0.00480 acc:0.25000 mrr:0.35305 wu_p:0.59795  epoch_time:164.6s  remain_time:15294.0s
+Epoch: 0008  train_loss:0.00441 acc:0.25000 mrr:0.36634 wu_p:0.62482  epoch_time:164.9s  remain_time:15135.2s
+Epoch: 0009  train_loss:0.00423 acc:0.28846 mrr:0.39466 wu_p:0.67784  epoch_time:165.2s  remain_time:14977.5s
+Epoch: 0010  train_loss:0.00404 acc:0.26923 mrr:0.40171 wu_p:0.69473  epoch_time:165.7s  remain_time:14822.5s
+Epoch: 0011  train_loss:0.00431 acc:0.19231 mrr:0.32532 wu_p:0.64310  epoch_time:165.9s  remain_time:14667.6s
+Epoch: 0012  train_loss:0.00438 acc:0.15385 mrr:0.30037 wu_p:0.66143  epoch_time:164.7s  remain_time:14501.9s
+Epoch: 0013  train_loss:0.00429 acc:0.26923 mrr:0.36890 wu_p:0.62932  epoch_time:163.4s  remain_time:14327.6s
+Epoch: 0014  train_loss:0.00401 acc:0.25000 mrr:0.35266 wu_p:0.68373  epoch_time:163.3s  remain_time:14154.5s
+Epoch: 0015  train_loss:0.00336 acc:0.23077 mrr:0.35207 wu_p:0.67946  epoch_time:163.3s  remain_time:13982.7s
+Epoch: 0016  train_loss:0.00304 acc:0.34615 mrr:0.43432 wu_p:0.69603  epoch_time:163.3s  remain_time:13812.0s
+Epoch: 0017  train_loss:0.00322 acc:0.23077 mrr:0.35411 wu_p:0.68683  epoch_time:163.2s  remain_time:13641.8s
+Epoch: 0018  train_loss:0.00344 acc:0.30769 mrr:0.40007 wu_p:0.71558  epoch_time:163.3s  remain_time:13472.5s
+Epoch: 0019  train_loss:0.00316 acc:0.28846 mrr:0.42769 wu_p:0.73204  epoch_time:163.3s  remain_time:13303.8s
+Epoch: 0020  train_loss:0.00283 acc:0.28846 mrr:0.40315 wu_p:0.68031  epoch_time:163.2s  remain_time:13135.5s
+Epoch: 0021  train_loss:0.00302 acc:0.38462 mrr:0.45641 wu_p:0.75021  epoch_time:163.3s  remain_time:12967.8s
+Epoch: 0022  train_loss:0.00305 acc:0.30769 mrr:0.40685 wu_p:0.69307  epoch_time:163.2s  remain_time:12800.4s
+Epoch: 0023  train_loss:0.00261 acc:0.28846 mrr:0.37944 wu_p:0.73046  epoch_time:163.2s  remain_time:12633.3s
+Epoch: 0024  train_loss:0.00275 acc:0.23077 mrr:0.36616 wu_p:0.71258  epoch_time:163.5s  remain_time:12467.5s
+Epoch: 0025  train_loss:0.00347 acc:0.34615 mrr:0.45632 wu_p:0.73584  epoch_time:163.5s  remain_time:12301.8s
+Epoch: 0026  train_loss:0.00334 acc:0.38462 mrr:0.45831 wu_p:0.71937  epoch_time:163.3s  remain_time:12135.7s
+Epoch: 0027  train_loss:0.00282 acc:0.25000 mrr:0.35334 wu_p:0.65005  epoch_time:164.8s  remain_time:11973.8s
+Epoch: 0028  train_loss:0.00259 acc:0.36538 mrr:0.46472 wu_p:0.73903  epoch_time:165.9s  remain_time:11814.5s
+Epoch: 0029  train_loss:0.00302 acc:0.40385 mrr:0.48744 wu_p:0.73697  epoch_time:163.7s  remain_time:11649.5s
+Epoch: 0030  train_loss:0.00251 acc:0.36538 mrr:0.44897 wu_p:0.73335  epoch_time:164.2s  remain_time:11485.8s
+Epoch: 0031  train_loss:0.00270 acc:0.36538 mrr:0.45962 wu_p:0.75839  epoch_time:165.6s  remain_time:11325.1s
+Epoch: 0032  train_loss:0.00250 acc:0.36538 mrr:0.45902 wu_p:0.73358  epoch_time:165.9s  remain_time:11164.8s
+Epoch: 0033  train_loss:0.00228 acc:0.26923 mrr:0.39905 wu_p:0.67027  epoch_time:165.9s  remain_time:11004.2s
+Epoch: 0034  train_loss:0.00252 acc:0.34615 mrr:0.41767 wu_p:0.74692  epoch_time:165.9s  remain_time:10843.2s
+Epoch: 0035  train_loss:0.00251 acc:0.32692 mrr:0.43161 wu_p:0.72947  epoch_time:166.2s  remain_time:10682.5s
+Epoch: 0036  train_loss:0.00288 acc:0.34615 mrr:0.43888 wu_p:0.73092  epoch_time:165.9s  remain_time:10520.9s
+Epoch: 0037  train_loss:0.00248 acc:0.32692 mrr:0.43827 wu_p:0.74222  epoch_time:165.9s  remain_time:10359.2s
+Epoch: 0038  train_loss:0.00231 acc:0.32692 mrr:0.44313 wu_p:0.71911  epoch_time:166.1s  remain_time:10197.5s
+Epoch: 0039  train_loss:0.00233 acc:0.34615 mrr:0.44016 wu_p:0.73196  epoch_time:166.0s  remain_time:10035.4s
+Epoch: 0040  train_loss:0.00262 acc:0.30769 mrr:0.41181 wu_p:0.70740  epoch_time:165.4s  remain_time:9872.1s
+Epoch: 0041  train_loss:0.00226 acc:0.26923 mrr:0.39423 wu_p:0.67415  epoch_time:165.8s  remain_time:9709.5s
+Epoch: 0042  train_loss:0.00190 acc:0.38462 mrr:0.46564 wu_p:0.75794  epoch_time:165.9s  remain_time:9546.8s
+Epoch: 0043  train_loss:0.00259 acc:0.28846 mrr:0.38298 wu_p:0.69571  epoch_time:165.9s  remain_time:9383.9s
+Epoch: 0044  train_loss:0.00196 acc:0.36538 mrr:0.47533 wu_p:0.77851  epoch_time:165.9s  remain_time:9220.9s
+Epoch: 0045  train_loss:0.00282 acc:0.26923 mrr:0.41848 wu_p:0.70316  epoch_time:165.9s  remain_time:9057.8s
+Epoch: 0046  train_loss:0.00277 acc:0.25000 mrr:0.38188 wu_p:0.70612  epoch_time:165.9s  remain_time:8894.5s
+Epoch: 0047  train_loss:0.00221 acc:0.28846 mrr:0.40700 wu_p:0.74158  epoch_time:165.8s  remain_time:8731.0s
+Epoch: 0048  train_loss:0.00225 acc:0.34615 mrr:0.46335 wu_p:0.73709  epoch_time:165.8s  remain_time:8567.5s
+Epoch: 0049  train_loss:0.00243 acc:0.36538 mrr:0.45816 wu_p:0.75305  epoch_time:165.8s  remain_time:8403.8s
+Epoch: 0050  train_loss:0.00194 acc:0.32692 mrr:0.43900 wu_p:0.72940  epoch_time:166.0s  remain_time:8240.3s
+Epoch: 0051  train_loss:0.00205 acc:0.32692 mrr:0.43848 wu_p:0.72103  epoch_time:165.9s  remain_time:8076.5s
+Epoch: 0052  train_loss:0.00224 acc:0.32692 mrr:0.44675 wu_p:0.75409  epoch_time:165.9s  remain_time:7912.7s
+Epoch: 0053  train_loss:0.00302 acc:0.28846 mrr:0.38471 wu_p:0.71961  epoch_time:165.6s  remain_time:7748.4s
+Epoch: 0054  train_loss:0.00300 acc:0.28846 mrr:0.40040 wu_p:0.74860  epoch_time:165.8s  remain_time:7584.4s
+Epoch: 0055  train_loss:0.00234 acc:0.34615 mrr:0.45014 wu_p:0.76311  epoch_time:166.0s  remain_time:7420.4s
+Epoch: 0056  train_loss:0.00210 acc:0.23077 mrr:0.34678 wu_p:0.68619  epoch_time:166.0s  remain_time:7256.3s
+Epoch: 0057  train_loss:0.00206 acc:0.28846 mrr:0.40528 wu_p:0.73556  epoch_time:165.9s  remain_time:7092.2s
+Epoch: 0058  train_loss:0.00178 acc:0.26923 mrr:0.39376 wu_p:0.71644  epoch_time:165.8s  remain_time:6927.8s
+Epoch: 0059  train_loss:0.00171 acc:0.38462 mrr:0.46690 wu_p:0.75752  epoch_time:165.5s  remain_time:6763.3s
+Epoch: 0060  train_loss:0.00182 acc:0.36538 mrr:0.47814 wu_p:0.75176  epoch_time:165.6s  remain_time:6598.8s
+Epoch: 0061  train_loss:0.00196 acc:0.28846 mrr:0.40774 wu_p:0.71281  epoch_time:165.7s  remain_time:6434.3s
+Epoch: 0062  train_loss:0.00195 acc:0.34615 mrr:0.42957 wu_p:0.74612  epoch_time:165.8s  remain_time:6269.8s
+Epoch: 0063  train_loss:0.00190 acc:0.34615 mrr:0.46089 wu_p:0.75936  epoch_time:165.9s  remain_time:6105.4s
+Epoch: 0064  train_loss:0.00185 acc:0.42308 mrr:0.53016 wu_p:0.77804  epoch_time:165.9s  remain_time:5940.8s
+Epoch: 0065  train_loss:0.00172 acc:0.34615 mrr:0.47690 wu_p:0.76299  epoch_time:165.9s  remain_time:5776.3s
+Epoch: 0066  train_loss:0.00180 acc:0.36538 mrr:0.45032 wu_p:0.74393  epoch_time:165.8s  remain_time:5611.6s
+Epoch: 0067  train_loss:0.00155 acc:0.36538 mrr:0.48057 wu_p:0.74866  epoch_time:165.8s  remain_time:5446.9s
+Epoch: 0068  train_loss:0.00188 acc:0.32692 mrr:0.46009 wu_p:0.72184  epoch_time:165.8s  remain_time:5282.3s
+Epoch: 0069  train_loss:0.00147 acc:0.40385 mrr:0.50207 wu_p:0.75730  epoch_time:165.9s  remain_time:5117.5s
+Epoch: 0070  train_loss:0.00136 acc:0.34615 mrr:0.45644 wu_p:0.73990  epoch_time:165.7s  remain_time:4952.7s
+Epoch: 0071  train_loss:0.00150 acc:0.30769 mrr:0.44280 wu_p:0.70304  epoch_time:165.8s  remain_time:4787.9s
+Epoch: 0072  train_loss:0.00179 acc:0.28846 mrr:0.41488 wu_p:0.70221  epoch_time:165.8s  remain_time:4623.1s
+Epoch: 0073  train_loss:0.00163 acc:0.36538 mrr:0.47129 wu_p:0.72176  epoch_time:165.8s  remain_time:4458.3s
+Epoch: 0074  train_loss:0.00153 acc:0.32692 mrr:0.43008 wu_p:0.72506  epoch_time:165.8s  remain_time:4293.4s
+Epoch: 0075  train_loss:0.00177 acc:0.28846 mrr:0.43805 wu_p:0.73919  epoch_time:165.8s  remain_time:4128.5s
+Epoch: 0076  train_loss:0.00167 acc:0.38462 mrr:0.47724 wu_p:0.74081  epoch_time:166.0s  remain_time:3963.6s
+Epoch: 0077  train_loss:0.00151 acc:0.32692 mrr:0.45111 wu_p:0.76624  epoch_time:165.8s  remain_time:3798.7s
+Epoch: 0078  train_loss:0.00152 acc:0.36538 mrr:0.44849 wu_p:0.74979  epoch_time:165.2s  remain_time:3633.5s
+Epoch: 0079  train_loss:0.00153 acc:0.38462 mrr:0.48518 wu_p:0.75839  epoch_time:165.6s  remain_time:3468.5s
+Epoch: 0080  train_loss:0.00172 acc:0.38462 mrr:0.50377 wu_p:0.76480  epoch_time:165.8s  remain_time:3303.5s
+Epoch: 0081  train_loss:0.00155 acc:0.38462 mrr:0.48527 wu_p:0.78655  epoch_time:165.9s  remain_time:3138.5s
+Epoch: 0082  train_loss:0.00160 acc:0.40385 mrr:0.48151 wu_p:0.79136  epoch_time:165.8s  remain_time:2973.4s
+Epoch: 0083  train_loss:0.00162 acc:0.42308 mrr:0.50391 wu_p:0.80070  epoch_time:165.7s  remain_time:2808.3s
+Epoch: 0084  train_loss:0.00171 acc:0.36538 mrr:0.49517 wu_p:0.77822  epoch_time:165.8s  remain_time:2643.2s
+Epoch: 0085  train_loss:0.00143 acc:0.34615 mrr:0.48161 wu_p:0.73982  epoch_time:165.7s  remain_time:2478.1s
+Epoch: 0086  train_loss:0.00165 acc:0.30769 mrr:0.43156 wu_p:0.73002  epoch_time:165.8s  remain_time:2313.0s
+Epoch: 0087  train_loss:0.00150 acc:0.32692 mrr:0.44786 wu_p:0.77497  epoch_time:165.8s  remain_time:2147.9s
+Epoch: 0088  train_loss:0.00297 acc:0.28846 mrr:0.41127 wu_p:0.72595  epoch_time:165.8s  remain_time:1982.7s
+Epoch: 0089  train_loss:0.00206 acc:0.28846 mrr:0.42090 wu_p:0.72969  epoch_time:166.0s  remain_time:1817.6s
+Epoch: 0090  train_loss:0.00196 acc:0.40385 mrr:0.50299 wu_p:0.75609  epoch_time:165.8s  remain_time:1652.4s
+Epoch: 0091  train_loss:0.00153 acc:0.44231 mrr:0.54947 wu_p:0.77511  epoch_time:165.9s  remain_time:1487.2s
+Epoch: 0092  train_loss:0.00141 acc:0.28846 mrr:0.40698 wu_p:0.75398  epoch_time:165.8s  remain_time:1322.0s
+Epoch: 0093  train_loss:0.00167 acc:0.34615 mrr:0.45104 wu_p:0.76961  epoch_time:165.8s  remain_time:1156.8s
+Epoch: 0094  train_loss:0.00136 acc:0.32692 mrr:0.44249 wu_p:0.75690  epoch_time:165.4s  remain_time:991.6s
+Epoch: 0095  train_loss:0.00130 acc:0.36538 mrr:0.48558 wu_p:0.75348  epoch_time:165.7s  remain_time:826.3s
+Epoch: 0096  train_loss:0.00161 acc:0.38462 mrr:0.47793 wu_p:0.79264  epoch_time:165.7s  remain_time:661.1s
+Epoch: 0097  train_loss:0.00129 acc:0.34615 mrr:0.47841 wu_p:0.73545  epoch_time:165.8s  remain_time:495.8s
+Epoch: 0098  train_loss:0.00120 acc:0.44231 mrr:0.53197 wu_p:0.76259  epoch_time:165.8s  remain_time:330.6s
+Epoch: 0099  train_loss:0.00150 acc:0.38462 mrr:0.46397 wu_p:0.77315  epoch_time:165.8s  remain_time:165.3s
+Epoch: 0100  train_loss:0.00142 acc:0.34615 mrr:0.44643 wu_p:0.73603  epoch_time:165.9s  remain_time:0.0s
+Prediction starting.....
+(52, 209)
+score: acc: 0.34615 mrr:0.44643 wu_p:0.73603
+================================Save results done!================================
+Time used :16560.0s
+End time at : 
+Pacific time 2025-03-25T18:17:33.244273-07:00
+************END***************
+ERROR CODE: 0
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Tue Mar 25 21:17:34 2025
+Driver Version                            : 560.35.03
+CUDA Version                              : 12.6
+
+Attached GPUs                             : 1
+GPU 00000000:89:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 1292291
+            GPU Utilization               : 99 %
+            Memory Utilization            : 52 %
+            Max memory usage              : 16926 MiB
+            Time                          : 16560596 ms
+            Is Running                    : 0
+
+Tue Mar 25 21:17:34 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 560.35.03              Driver Version: 560.35.03      CUDA Version: 12.6     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Quadro RTX 8000                On  |   00000000:89:00.0 Off |                    0 |
+| 47%   67C    P2            136W /  260W |       1MiB /  46080MiB |     35%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
