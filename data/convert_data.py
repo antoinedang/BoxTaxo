@@ -79,7 +79,7 @@ def convert_dataset(dataset_name, directory):
     with open(train_taxo_path, "w", encoding="utf-8") as f:
         for parent, children in taxonomy.items():
             for child in children:
-                if child not in eval_terms:
+                if child not in eval_terms and parent not in eval_terms:
                     f.write(f"{parent}\t{child}\n")
 
     # Write {dataset}_eval.gt: list parent terms (one per line).

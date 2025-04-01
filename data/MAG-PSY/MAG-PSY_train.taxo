@@ -8,7 +8,6 @@ movement assessment	motor skill
 impaired fine motor skills	motor skill
 inferior frontal sulcus	intraparietal sulcus
 postcentral sulcus	intraparietal sulcus
-amitriptyline perphenazine	perphenazine
 social control theory	juvenile delinquency
 social control theory	social control
 communities that care	juvenile delinquency
@@ -55,8 +54,6 @@ suriclone	zopiclone
 suriclone	anxiolytic
 weapon focus	eyewitness identification
 microsleep	electroencephalography
-transcutaneous electric nerve stimulation	transcutaneous electrical nerve stimulation
-posterior triangle of the neck	accessory nerve
 lawyer supported mediation	dispute mechanism
 lawyer supported mediation	online dispute resolution
 lawyer supported mediation	mediation
@@ -95,6 +92,7 @@ psilocybe semilanceata	psilocin
 baeocystin	psilocin
 copelandia	psilocin
 superior vestibular nucleus	lateral vestibular nucleus
+superior vestibular nucleus	medial vestibular nucleus
 purkinje effect	scotopic vision
 purkinje effect	photopic vision
 duplex retina	scotopic vision
@@ -154,7 +152,6 @@ place cell	hippocampal formation
 place cell	hippocampus
 commissural fiber	hippocampal formation
 commissural fiber	stimulation
-commissural fiber	commissure
 commissural fiber	corpus callosum
 commissural fiber	hippocampus
 oasis maze	morris water navigation task
@@ -186,9 +183,6 @@ apical dendrite	pyramidal cell
 internal granular layer	granule cell
 internal granular layer	purkinje cell
 dendrodendritic synapse	granule cell
-golgi cell	granule cell
-golgi cell	granular layer
-golgi cell	purkinje cell
 unipolar brush cell	granule cell
 unipolar brush cell	granular layer
 unipolar brush cell	purkinje cell
@@ -204,6 +198,7 @@ cerebellar folium	granule cell
 cerebellar folium	somatosensory system
 cerebellar folium	purkinje cell
 rhinal sulcus	entorhinal cortex
+hippocampal replay	place cell
 hippocampal replay	memory consolidation
 english only movement	language policy
 english only movement	bilingual education
@@ -241,6 +236,7 @@ odorant receptor	sensory system
 odorant receptor	olfactory system
 chemosensory protein	odorant binding protein
 estratetraenol	androstadienone
+vuaa1	odorant receptor
 vuaa1	olfactory receptor
 reflex eye movement	vestibulo ocular reflex
 reflex eye movement	optokinetic reflex
@@ -297,6 +293,7 @@ carceral archipelago	discipline
 psychomotor education	psychomotor learning
 riddoch syndrome	blindsight
 united states invitational young physicists tournament	grammar school
+chondroplasty	foot and ankle surgery
 uh 232	dopamine antagonist
 uh 232	dopamine receptor d3
 uh 232	apomorphine
@@ -377,12 +374,12 @@ ucla loneliness scale	loneliness
 emotional isolation	loneliness
 extended mind thesis	extended cognition
 extended mind thesis	the extended mind
+auditory verbal agnosia	landau kleffner syndrome
 auditory verbal agnosia	visual agnosia
 auditory verbal agnosia	auditory agnosia
 drunkorexia	disordered eating
 female athlete triad	disordered eating
 forced compliance theory	self justification
-forced compliance theory	self perception theory
 problematic integration theory	forced compliance theory
 effort justification	forced compliance theory
 transitional bilingual education	bilingual education
@@ -448,6 +445,7 @@ international nonproprietary name	drug
 efficacy	drug
 drugbank	drug
 club drug	drug
+club drug	ecstasy
 synergy	drug
 pharmacogenomics	drug
 off label use	drug
@@ -666,7 +664,6 @@ data literacy	information literacy
 teacher librarian	information literacy
 web literacy	information literacy
 web literacy	literacy
-illusion of validity	representativeness heuristic
 illusion of validity	cognition
 corrective rape	sexual violence
 corrective rape	sexual orientation
@@ -684,6 +681,8 @@ triangulation	genogram
 intercultural therapy	social environment
 intercultural therapy	multiculturalism
 production artist	creative brief
+corticopontine fibers	pontine nuclei
+adafenoxate	meclofenoxate
 adafenoxate	striatum
 ap european history	social studies
 ap united states history	social studies
@@ -719,7 +718,6 @@ ventral medial prefrontal cortex	prefrontal cortex
 ventral medial prefrontal cortex	functional magnetic resonance imaging
 agranular insular cortex	prefrontal cortex
 agranular insular cortex	cortex
-agranular insular cortex	insular cortex
 agranular insula	orbitofrontal cortex
 agranular insula	amygdala
 straight gyrus	orbitofrontal cortex
@@ -806,18 +804,21 @@ creative city	creativity
 c k theory	creativity
 creative class	creativity
 improvisational theater	creativity
+statistical conclusion validity	external validity
 statistical conclusion validity	construct validity
 adaptive behavior	inclusive fitness
 adaptive behavior	social psychology
 adaptive behavior	psychiatry
 adaptive behavior	developmental psychology
 green beard effect	inclusive fitness
+green beard effect	competitive altruism
 cross cultural leadership	neuroleadership
 cross cultural leadership	situational leadership theory
 cross cultural leadership	strategic leadership
 vroom yetton decision model	neuroleadership
 vroom yetton decision model	situational leadership theory
 vroom yetton decision model	strategic leadership
+habenular nuclei	habenula
 dihydrokavain	methysticin
 dihydrokavain	yangonin
 dihydrokavain	kavain
@@ -838,6 +839,7 @@ reminiscence bump	episodic memory
 overgeneral autobiographical memory	autobiographical memory
 overgeneral autobiographical memory	rumination
 papaveretum	premedication
+biogenesis of lysosome related organelles complex 1	dysbindin
 hashimoto pritzker disease	congenital self healing reticulohistiocytosis
 cochran mantel haenszel statistics	differential item functioning
 retinohypothalamic tract	light effects on circadian rhythm
@@ -850,12 +852,14 @@ suprachiasmatic nucleus cells	light effects on circadian rhythm
 passive electrolocation in fish	gnathonemus
 passive electrolocation in fish	electrocommunication
 pollimyrus	gnathonemus
+ap environmental science	ap biology
 ap environmental science	advanced placement exams
 ap physics 1	ap environmental science
 ap physics 1	ap psychology
 orienting system	superior colliculus
 tectospinal tract	superior colliculus
 tectospinal tract	stimulation
+watercolor illusion	figure ground
 watercolor illusion	optical illusion
 organizational engineering	organizational studies
 organizational engineering	organizational behavior and human resources
@@ -866,7 +870,6 @@ imprinting	organizational engineering
 theory x and theory y	organizational engineering
 organizational information theory	organizational engineering
 behavioral systems analysis	organizational engineering
-behavioral systems analysis	organizational behavior management
 implicit cognition	implicit attitude
 implicit cognition	cognition
 implicit self esteem	implicit attitude
@@ -889,7 +892,6 @@ doors and people	recognition memory
 doors and people	verbal memory
 doors and people	visual memory
 episodic like memory	episodic memory
-episodic like memory	long term memory
 time based prospective memory	childhood memory
 source amnesia	childhood memory
 source amnesia	explicit memory
@@ -936,11 +938,10 @@ languages of the european union	first language
 plurilingualism	multilingualism
 multilingual education	multilingualism
 multilingual education	first language
-pornography addiction	exercise addiction
+velamen	exodermis
 paroxysmal kinesigenic choreoathetosis	choreoathetosis
 infantile convulsions and choreoathetosis	paroxysmal kinesigenic choreoathetosis
 icca syndrome	paroxysmal kinesigenic choreoathetosis
-vestibular membrane	spiral ganglion
 vestibular membrane	cochlear duct
 triflubazam	clobazam
 understanding by design	curriculum theory
@@ -949,6 +950,7 @@ curriculum based measurement	curriculum theory
 curriculum based measurement	curriculum mapping
 national survey of student engagement	student engagement
 national survey of student engagement	higher education
+psychogenic amnesia	retrograde amnesia
 intrinsically photosensitive retinal ganglion cells	retinal ganglion cell
 giant retinal ganglion cells	retinal ganglion cell
 mitochondrial optic neuropathies	retinal ganglion cell
@@ -983,6 +985,7 @@ isopropyl unoprostone	latanoprost
 tafluprost acid	latanoprost
 transpersonal anthropology	transpersonal
 transpersonal anthropology	consciousness
+transpersonal anthropology	transpersonal psychology
 accessory cuneate nucleus	vestibular nuclei
 accessory cuneate nucleus	reticular formation
 juxtarestiform body	vestibular nuclei
@@ -1004,7 +1007,7 @@ axon growth cone	growth cone
 axon growth cone	axon guidance
 crmp1	collapsin response mediator protein family
 lanthionine ketimine	collapsin response mediator protein family
-stereocilia	kinocilium
+pioneer neuron	pioneer axon
 kinetic depth effect	depth perception
 kinetic depth effect	motion perception
 kinetic depth effect	visual perception
@@ -1019,7 +1022,6 @@ abstinent alcoholic	abstinence
 theoretical sampling	grounded theory
 open coding	grounded theory
 axial coding	open coding
-queer pedagogy	queer theory
 oddball paradigm	event related potential
 p3b	event related potential
 n100	event related potential
@@ -1030,9 +1032,11 @@ lateralized readiness potential	event related potential
 n400	event related potential
 p600	n400
 early left anterior negativity	n400
+pleurobranchaea maculata	pleurobranchaea
 pleurobranchaea maculata	tetrodotoxin
 cross syndrome	williams syndrome
 hypersociability	williams syndrome
+hypersociability	neurodevelopmental disorder
 william syndrome	williams syndrome
 environmental adult education	environmental education
 outdoor education	environmental education
@@ -1060,7 +1064,6 @@ kinesics	nonverbal communication
 kinesics	gesture
 proxemics	nonverbal communication
 autoclitic	nonverbal communication
-autoclitic	tact
 autoclitic	mand
 nonverbal influence	nonverbal communication
 interpersonal deception theory	nonverbal communication
@@ -1076,7 +1079,6 @@ koniocellular cell	visual system
 lgn lateral geniculate nucleus	lateral geniculate nucleus
 cognitive neuropsychology	neuropsychology
 block design test	neuropsychology
-verbal fluency test	neuropsychology
 neurolinguistics	neuropsychology
 apa division of clinical neuropsychology	neuropsychology
 planning	neuropsychology
@@ -1091,7 +1093,6 @@ wechsler test of adult reading	wechsler adult intelligence scale
 wechsler test of adult reading	intelligence quotient
 chronic solvent induced encephalopathy	neuropsychology
 trail making test	neuropsychology
-wisconsin card sorting test	neuropsychology
 wechsler memory scale	neuropsychology
 wechsler memory scale	wechsler adult intelligence scale
 tower of london test	neuropsychology
@@ -1124,7 +1125,6 @@ positive neuroscience	social neuroscience
 the boston process approach	neuropsychological assessment
 nepsy	neuropsychological assessment
 test of memory malingering	neuropsychological test
-wcst wisconsin card sorting test	wisconsin card sorting test
 thyromental distance	laryngoscopy
 thyromental distance	tracheal intubation
 airtraq	laryngoscopy
@@ -1148,6 +1148,7 @@ graded salience hypothesis	cognition
 oecd ilibrary	open educational resources
 optic cup	optic cup
 optic cup	optic disc
+monosexuality	heterosexism
 monosexuality	biphobia
 rehabilitation counselors	rehabilitation counseling
 rehabilitation counselors	counselor education
@@ -1159,6 +1160,7 @@ olanzapine fluoxetine	atypical antipsychotic
 thienobenzodiazepine	atypical antipsychotic
 perospirone	atypical antipsychotic
 amperozide	atypical antipsychotic
+respiratory system of insects	discontinuous gas exchange
 brain asymmetry	lateralization of brain function
 girardinus falcatus	lateralization of brain function
 girardinus falcatus	laterality
@@ -1184,6 +1186,8 @@ golem effect	pygmalion effect
 vanillylmandelic acid	homovanillic acid
 hva homovanillic acid	homovanillic acid
 hva homovanillic acid	dopaminergic
+vanillyl mandelic acid	vanillylmandelic acid
+o desmethyltramadol	tramadol
 dissociative disorder not otherwise specified	dissociative experiences scale
 co rumination	rumination
 perseverative cognition	rumination
@@ -1229,8 +1233,6 @@ aversives	psychoanalysis
 aversives	psychotherapist
 aversives	social psychology
 pyrophilia	psychoanalysis
-defence mechanisms	psychoanalysis
-defence mechanisms	psychotherapist
 free association	psychoanalysis
 free association	psychotherapist
 free association	social psychology
@@ -1518,7 +1520,6 @@ flirting	social psychology
 exhibitionism	psychoanalysis
 exhibitionism	social psychology
 exhibitionism	psychiatry
-flushing	psychoanalysis
 adlerian	psychoanalysis
 adlerian	psychotherapist
 adlerian	clinical psychology
@@ -1623,7 +1624,6 @@ hypnoid state	psychoanalysis
 hypnoid state	psychotherapist
 hospitalism	psychoanalysis
 hospitalism	developmental psychology
-perversion	psychoanalysis
 dissociation	psychoanalysis
 dissociation	cognition
 dissociation	psychiatry
@@ -1743,7 +1743,6 @@ narcissistic abuse	social psychology
 sex life	psychoanalysis
 compulsive repetition	psychoanalysis
 ego integrity	id ego and super ego
-loevinger s stages of ego development	id ego and super ego
 ego ideal	id ego and super ego
 ego state therapy	id ego and super ego
 ego state therapy	hypnosis
@@ -1802,7 +1801,6 @@ adaptive unconscious	consciousness
 imaginary number	the imaginary
 imaginary unit	the imaginary
 imaginary audience	the imaginary
-imaginary audience	egocentrism
 body centred countertransference	countertransference
 projective module	projective test
 house tree person test	projective test
@@ -1836,7 +1834,6 @@ personality assessment inventory	personality
 holland codes	personality
 holland codes	vocational education
 biosocial theory	personality
-type d personality	personality
 psychopathy	personality
 boldness	personality
 self verification theory	personality
@@ -1879,7 +1876,6 @@ personality style	personality
 narcissistic personality inventory	personality
 narcissistic personality inventory	narcissism
 dependency need	personality
-alexithymia	personality
 big5	personality
 addictive personality	personality
 addictive personality	addiction
@@ -1890,7 +1886,6 @@ behavioural syndrome	personality
 emotionally unstable personality disorder	personality
 impulsive personality	personality
 impulsive personality	impulsivity
-grandiosity	narcissism
 collective narcissism	narcissism
 relational transgression	romance
 relational transgression	jealousy
@@ -1932,8 +1927,6 @@ sexual orientation discrimination	lesbian
 childhood gender nonconformity	sexual orientation
 childhood gender nonconformity	homosexuality
 childhood gender nonconformity	nonconformity
-harlequin syndrome	flushing
-queer theory	queer
 heteronormativity	queer
 compulsory heterosexuality	queer
 compulsory heterosexuality	lesbian
@@ -1951,7 +1944,6 @@ bem sex role inventory	gender role
 homohysteria	masculinity
 homohysteria	homosexuality
 male hysteria	masculinity
-hegemonic masculinity	masculinity
 homosociality	masculinity
 androgyny	masculinity
 virility	masculinity
@@ -1960,7 +1952,6 @@ effeminacy	masculinity
 men s studies	masculinity
 victorian masculinity	masculinity
 principle of individuation	individuation
-female perversion	perversion
 dissociative identity disorder	dissociation
 dissociative	dissociation
 female gaze	gaze
@@ -1989,7 +1980,8 @@ phensuximide	trimethadione
 pheneturide	primidone
 pheneturide	ethosuximide
 phenobarbital phenytoin	primidone
-katagelasticism	gelotophobia
+pomodoro technique	time management
+open mouth posture	mouth breathing
 standards for educational and psychological testing	education theory
 educational essentialism	education theory
 educational essentialism	philosophy of education
@@ -2036,7 +2028,6 @@ zemiology	harm
 left realism	critical criminology
 left realism	criminal justice
 naringin dihydrochalcone	acesulfame potassium
-rhinosporidium seeberi	rhinosporidiosis
 music semiology	philosophy of music
 music semiology	call and response
 music semiology	incidental music
@@ -2061,8 +2052,7 @@ sema domain	plexin
 sema4d	plexin
 westmead post traumatic amnesia scale	post traumatic amnesia
 career assessment	cognitive information processing
-lateral parabrachial nucleus	solitary tract
-medial parabrachial nucleus	lateral parabrachial nucleus
+scale for the assessment of negative symptoms	brief psychiatric rating scale
 alternative dispute resolution	mediation
 theory of mediation	mediation
 mediation function	mediation
@@ -2079,7 +2069,6 @@ collaborative law	alternative dispute resolution
 finger counting	numerical cognition
 approximate number system	numerical cognition
 glossophobia	public speaking
-periventricular hypothalamic nucleus	paraventricular hypothalamic nucleus
 dyslexia research	biological theories of dyslexia
 strephosymbolia	reading disability
 dcdc2	reading disability
@@ -2159,8 +2148,6 @@ addiction	neuroscience
 addiction	clinical psychology
 addiction	psychiatry
 neuroscience of multilingualism	neuroscience
-brain mapping	neuroscience
-brain mapping	developmental psychology
 ion channel	neuroscience
 silent talker lie detector	neuroscience
 silent talker lie detector	communication
@@ -2204,7 +2191,6 @@ basic science	applied psychology
 basic science	cognitive psychology
 interaction theory	neuroscience
 interaction theory	social psychology
-commissure	neuroscience
 hodgkin huxley model	neuroscience
 neuroanatomy	neuroscience
 neuroanatomy	psychiatry
@@ -2241,7 +2227,6 @@ spontaneous recovery	neuroscience
 spontaneous recovery	cognitive psychology
 ephaptic coupling	neuroscience
 fast mapping	neuroscience
-local field potential	neuroscience
 biological neural network	neuroscience
 memory prediction framework	neuroscience
 brain activity and meditation	neuroscience
@@ -2313,8 +2298,6 @@ equipotentiality	cognitive psychology
 accommodation	neuroscience
 sensory overload	neuroscience
 sensory overload	psychiatry
-emotional contagion	neuroscience
-emotional contagion	social psychology
 special senses	neuroscience
 special senses	psychiatry
 neurotrophic factors	neuroscience
@@ -2390,11 +2373,9 @@ vigilance	cognitive psychology
 gating	neuroscience
 bursting	neuroscience
 length constant	neuroscience
-slit	neuroscience
 olfactory system	neuroscience
 olfactory system	psychiatry
 hyperconnectivity	neuroscience
-neuroinformatics	neuroscience
 functionalism	neuroscience
 functionalism	cognitive science
 en passant	neuroscience
@@ -2691,7 +2672,6 @@ passive review	neuroscience
 passive review	cognitive psychology
 tabes dorsalis	neuroscience
 tabes dorsalis	psychiatry
-sulcus	neuroscience
 yoga for movement disorders	neuroscience
 yoga for movement disorders	psychiatry
 yawn	neuroscience
@@ -3107,9 +3087,7 @@ verucerfont	neuroscience
 mirror box	neuroscience
 mirror box	psychiatry
 spino olivary tract	neuroscience
-accessory nerve	neuroscience
 retinal summation	neuroscience
-wakefulness	neuroscience
 distal spinal muscular atrophy type 1	neuroscience
 distal spinal muscular atrophy type 1	psychiatry
 sex differences in psychology	neuroscience
@@ -3238,7 +3216,6 @@ posterolateral tract	psychiatry
 anterior white commissure	neuroscience
 anterior white commissure	psychiatry
 adrenal gland disorder	neuroscience
-coactivation	neuroscience
 absent mindedness	neuroscience
 absent mindedness	social psychology
 absent mindedness	cognitive psychology
@@ -3335,8 +3312,6 @@ palinopsia	cognitive psychology
 olfactory foramina	neuroscience
 sludge syndrome	neuroscience
 hypoalgesic effect of swearing	neuroscience
-insular cortex	neuroscience
-insular cortex	psychiatry
 racine stages	neuroscience
 extensor digitorum reflex	neuroscience
 hapln2	neuroscience
@@ -3551,6 +3526,7 @@ physiological tremor	neuroscience
 nerve motor	neuroscience
 brain stem auditory evoked potentials	neuroscience
 neuroblast	neurogenesis
+osphradium	mantle
 aftertaste	taste
 supertaster	taste
 lingual papilla	taste
@@ -3564,7 +3540,6 @@ umami	taste
 glossopharyngeal nerve	taste
 acesulfame potassium	taste
 taste bud	taste
-hypogeusia	taste
 gustatory cortex	taste
 gustatory cortex	cortex
 gustatory cortex	sensory system
@@ -3592,15 +3567,13 @@ physostigmine	cholinergic
 hemicholinium 3	cholinergic
 machine olfaction	electronic nose
 machine olfaction	odor
+recovered memory therapy	repressed memory
 recovered memory therapy	suicide prevention
 electroneurogram	stimulation
 chronic electrode implants	stimulation
 h reflex	stimulation
 h reflex	reflex
 chronaxie	stimulation
-sensory stimulation therapy	stimulation
-sensory stimulation therapy	sensory system
-sensory stimulation therapy	stimulus
 pulmonary stretch receptors	stimulation
 pulmonary stretch receptors	reflex
 pulmonary stretch receptors	respiratory system
@@ -3653,9 +3626,6 @@ tetrodotoxin	stimulation
 activating function	stimulation
 tibial nerve	stimulation
 electrical muscle stimulation	stimulation
-medial lemniscus	stimulation
-medial lemniscus	thalamus
-medial lemniscus	nucleus
 sham rage	stimulation
 lateral reticular nucleus	stimulation
 lateral reticular nucleus	brainstem
@@ -3702,7 +3672,6 @@ anterior ethmoidal nerve	stimulation
 spinal cord stimulator	stimulation
 microstimulation	stimulation
 carbachol	stimulation
-hypogastric nerve	stimulation
 mechanoreceptor	stimulation
 mechanoreceptor	sensory system
 mechanoreceptor	stimulus
@@ -3716,7 +3685,6 @@ solitary nucleus	stimulation
 solitary nucleus	nucleus
 reflex arc	stimulation
 reflex arc	reflex
-transcutaneous electrical nerve stimulation	stimulation
 decerebration	stimulation
 decerebration	reflex
 afferent nerve fiber	stimulation
@@ -3727,7 +3695,6 @@ preganglionic nerve fibers	stimulation
 preganglionic nerve fibers	ganglion
 evoked activity	stimulation
 evoked activity	stimulus
-splanchnic nerves	stimulation
 pudendal nerve	stimulation
 lemniscus	stimulation
 lemniscus	thalamus
@@ -3741,7 +3708,6 @@ vestibular cortex	cortex
 vestibular cortex	sensory system
 vestibular cortex	vestibular system
 cortical stimulation mapping	stimulation
-cortical stimulation mapping	brain mapping
 vagus nerve	stimulation
 intermittent photic stimulation	stimulation
 intermittent photic stimulation	electroencephalography
@@ -3769,7 +3735,6 @@ preganglionic fiber	synapse
 preganglionic fiber	neuron
 preganglionic fiber	ganglion
 uncanny valley	perception
-subjective constancy	perception
 perceptual adaptation	perception
 perceptual adaptation	stimulus
 sensory substitution	perception
@@ -3812,9 +3777,6 @@ emission theory	perception
 pareidolia	perception
 perceptual narrowing	perception
 perceptual narrowing	cognition
-sensory neuroscience	perception
-sensory neuroscience	sensory system
-sensory neuroscience	stimulus
 semitone	perception
 precedence effect	perception
 precedence effect	sound localization
@@ -3825,7 +3787,6 @@ dehaene changeux model	cognition
 dehaene changeux model	consciousness
 inattentional blindness	perception
 inattentional blindness	cognition
-relative pitch	perception
 speech perception	perception
 selective auditory attention	perception
 repetition priming	perception
@@ -4005,7 +3966,6 @@ pain empathy	perception
 pain empathy	insula
 pain empathy	cognition
 pain empathy	empathy
-mccollough effect	perception
 rapid serial visual presentation	perception
 rapid serial visual presentation	cognition
 percept	perception
@@ -4121,7 +4081,6 @@ addiction psychology	addiction
 computer addiction	addiction
 rational addiction	addiction
 internet sex addiction	addiction
-addictive behavior	addiction
 substance related disorder	addiction
 substance related disorder	substance abuse
 addictive nature	addiction
@@ -4168,6 +4127,7 @@ functional neuroimaging	cognition
 brain structure and function	neuroimaging
 brain structure and function	cognition
 prominent perivascular spaces	neuroimaging
+visual field scotoma	blind spot
 visual field scotoma	visual field
 functional magnetic resonance spectroscopy of the brain	resting state fmri
 functional magnetic resonance spectroscopy of the brain	functional magnetic resonance imaging
@@ -4197,7 +4157,6 @@ hering breuer reflex	breathing
 vestibulo ocular reflex	reflex
 vestibulo ocular reflex	eye movement
 vestibulo ocular reflex	vestibular system
-acoustic reflex	reflex
 ankle jerk reflex	reflex
 hoffmann s reflex	reflex
 reciprocal innervation	reflex
@@ -4255,7 +4214,6 @@ special somatic afferent	sensory system
 eimer s organ	sensory system
 sensory nerve	sensory system
 sensory neuron	sensory system
-dorsal root ganglion	sensory system
 trigeminal ganglion	sensory system
 sensory processing	sensory system
 sensory processing	stimulus
@@ -4303,7 +4261,6 @@ frontal operculum	functional magnetic resonance imaging
 computational geophysics	clinical neuropsychology
 computational geophysics	engineering education
 muscle memory	motor learning
-eosfet	local field potential
 viral neuronal tracing	biological neural network
 viral neuronal tracing	synapse
 cultured neuronal network	biological neural network
@@ -4367,7 +4324,6 @@ normal sensation	sensation
 mormyridae	electric fish
 eigenmannia virescens	electric fish
 eigenmannia virescens	stimulus
-gymnotus	electric fish
 malapterurus	electric fish
 gymnotiformes	electric fish
 apteronotus	electric fish
@@ -4417,7 +4373,6 @@ neuronal noise	stimulus
 allochiria	stimulus
 allochiria	neglect
 external inhibition	stimulus
-startle response	stimulus
 stimulus filtering	stimulus
 spike triggered average	stimulus
 spike triggered average	motor unit
@@ -4473,7 +4428,6 @@ oculomotor control	eye movement
 lucas kanade method	optical flow
 horn schunck method	optical flow
 image derivatives	optical flow
-complex contagion	emotional contagion
 ciliary neurotrophic factor	neurotrophic factors
 glial cell line derived neurotrophic factor	neurotrophic factors
 brain derived neurotrophic factor	neurotrophic factors
@@ -4516,7 +4470,6 @@ testing effect	cognition
 testing effect	recall
 cognitive architecture	cognition
 working memory	cognition
-long term memory	cognition
 serial memory processing	cognition
 surface dyslexia	cognition
 evolution of human intelligence	cognition
@@ -4552,6 +4505,7 @@ cognitive ethology	cognition
 mental operations	cognition
 relational frame theory	cognition
 exemplar theory	cognition
+exemplar theory	concept learning
 attribution bias	cognition
 attribution bias	attribution
 structure mapping engine	cognition
@@ -4613,15 +4567,12 @@ neuroergonomics	cognition
 verbal memory	cognition
 cognitivism	cognition
 functional disconnection	cognition
-self perception theory	cognition
-self perception theory	cognitive dissonance
 causal reasoning	cognition
 cognitive assessment system	cognition
 metacognition	cognition
 generation effect	cognition
 generation effect	recall
 elementary cognitive task	cognition
-misattribution of memory	cognition
 vineland adaptive behavior scale	cognition
 vineland adaptive behavior scale	autism
 vineland adaptive behavior scale	adaptive behavior
@@ -4648,7 +4599,6 @@ cognitive resource theory	cognition
 cognitive style	cognition
 cognitive model	cognition
 stroop effect	cognition
-procedural memory	cognition
 psychomotor learning	cognition
 set	cognition
 intelligence quotient	cognition
@@ -4661,10 +4611,6 @@ conceptual blending	cognition
 neurocognitive	cognition
 raven s progressive matrices	cognition
 recognition heuristic	cognition
-anticipation	cognition
-anticipation	psychotherapist
-anticipation	anticipation
-anticipation	social psychology
 visual memory	cognition
 dual process theory	cognition
 effects of sleep deprivation on cognitive performance	cognition
@@ -4684,7 +4630,6 @@ goms	cognition
 semantic memory	cognition
 socio cognitive	cognition
 g factor	cognition
-fluid and crystallized intelligence	cognition
 cognitive linguistics	cognition
 functional analysis	cognition
 functional analysis	reinforcement
@@ -4714,7 +4659,6 @@ empathizing systemizing theory	cognition
 empathizing systemizing theory	autism
 empathizing systemizing theory	empathy
 cognitive analytic therapy	cognition
-language production	cognition
 representational systems	cognition
 naive physics	cognition
 cognitive reappraisal	cognition
@@ -4793,7 +4737,6 @@ cognitive appraisal	coping
 d2 test of attention	cognition
 the extended mind	cognition
 somatic anxiety	cognition
-negativity bias	cognition
 selective abstraction	cognition
 anterior cingulate cortex	cognition
 bayesian cognitive science	cognition
@@ -4890,7 +4833,6 @@ cognitive archaeology	cognition
 human problem solving	cognition
 cognitive rhetoric	cognition
 cognitive semiotics	cognition
-mental calculation	cognition
 emotions in decision making	cognition
 group cognition	cognition
 gopnik	cognition
@@ -5008,7 +4950,6 @@ quantum mind	consciousness
 multiple drafts model	consciousness
 psychedelic experience	consciousness
 planetary consciousness	consciousness
-primary consciousness	consciousness
 higher consciousness	consciousness
 divided consciousness	consciousness
 biological naturalism	consciousness
@@ -5019,8 +4960,6 @@ quantum brain dynamics	consciousness
 scarpa s ganglion	vestibular system
 scarpa s ganglion	inner ear
 scarpa s ganglion	ganglion
-vestibular aqueduct	vestibular system
-vestibular aqueduct	inner ear
 vestibular evoked myogenic potential	vestibular system
 translabyrinthine approach	vestibular system
 translabyrinthine approach	schwannoma
@@ -5071,7 +5010,6 @@ dopaminergic	dopamine
 reward system	dopamine
 tyrosine hydroxylase	dopamine
 monoamine neurotransmitter	dopamine
-dopamine beta monooxygenase	dopamine
 homovanillic acid	dopamine
 domperidone	dopamine
 vanoxerine	dopamine
@@ -5132,7 +5070,6 @@ childhood absence epilepsy	electroencephalography
 neural oscillation	electroencephalography
 photosensitive epilepsy	electroencephalography
 lennox gastaut syndrome	electroencephalography
-epileptic seizure	electroencephalography
 epilepsia partialis continua	electroencephalography
 landau kleffner syndrome	electroencephalography
 juvenile myoclonic epilepsy	electroencephalography
@@ -5214,6 +5151,7 @@ carboprost	oxytocin
 reverse tolerance	sensitization
 reverse tolerance	methamphetamine
 immunological sensitization	sensitization
+nebracetam	nootropic
 nebracetam	hippocampus
 biofeedback eeg	biofeedback
 distracted driving	distraction
@@ -5292,6 +5230,7 @@ ralfinamide	neuropathic pain
 pleasure principle	pleasure
 pain and pleasure	pleasure
 schadenfreude	pleasure
+dugesia dorotocephala	planaria
 utilization behavior	frontal lobe
 orbital gyri	frontal lobe
 pupil function	pupil
@@ -5319,7 +5258,6 @@ iliocostalis	electromyography
 mechanomyogram	electromyography
 splenius capitis muscle	electromyography
 muscle coactivation	electromyography
-muscle coactivation	coactivation
 rectus femoris muscle	electromyography
 extensor digitorum brevis muscle	electromyography
 erector spinae muscles	electromyography
@@ -5333,8 +5271,10 @@ biceps brachii muscle	electromyography
 right splenius capitis	electromyography
 tuohy needle	epidural space
 bigbrain	human brain
+greyout	blackout
 prisoner reentry	reentry
 prisoner reentry	recidivism
+clione	clione limacina
 clione	neuron
 aplysia depilans	aplysia
 california sea hare	aplysia
@@ -5355,12 +5295,8 @@ endolymphatic sac	inner ear
 perilymphatic duct	inner ear
 perilymphatic duct	cochlea
 mondini dysplasia	inner ear
-perilymph	inner ear
-perilymph	cochlea
 endolymph	inner ear
 endolymph	cochlea
-spiral ganglion	inner ear
-spiral ganglion	cochlea
 macula of saccule	inner ear
 organ of corti	inner ear
 organ of corti	cochlea
@@ -5416,7 +5352,6 @@ aquatic therapy	rehabilitation
 virtual rehabilitation	rehabilitation
 prehabilitation	rehabilitation
 rehabilitation policy	rehabilitation
-acquired brain injury	rehabilitation
 occupational rehabilitation	rehabilitation
 remote therapy	rehabilitation
 disability rating scale	rehabilitation
@@ -5515,7 +5450,6 @@ globose nucleus	cerebellum
 inferior olivary nucleus	cerebellum
 inferior olivary nucleus	nucleus
 cerebellar hemisphere	cerebellum
-cerebellar vermis	cerebellum
 granular layer	cerebellum
 superior cerebellar peduncle	cerebellum
 biventral lobule	cerebellum
@@ -5538,8 +5472,6 @@ hair cell	cochlea
 basilar membrane	cochlea
 periotic bone	cochlea
 tectorial membrane	cochlea
-topical anesthetic	lidocaine
-topical anesthetic	anesthetic
 tocainide	lidocaine
 intravenous regional anesthesia	lidocaine
 intravenous regional anesthesia	analgesic
@@ -5564,10 +5496,9 @@ red nucleus	nucleus
 lamina terminalis	nucleus
 habenula	nucleus
 supra optic nucleus	nucleus
-paraventricular hypothalamic nucleus	nucleus
 ventromedial hypothalamic nucleus	nucleus
 nucleus tractus solitarius	nucleus
-gelotophobia	laughter
+interventricular foramina	lateral ventricles
 laughter induced syncope	laughter
 optic nerve hypoplasia	optic nerve
 anterior ischemic optic neuropathy	optic nerve
@@ -5595,7 +5526,6 @@ amygdala	hippocampus
 cresyl violet	hippocampus
 lined seahorse	hippocampus
 sympathetic ganglion	ganglion
-pterygopalatine ganglion	ganglion
 superior mesenteric ganglion	ganglion
 parasympathetic ganglion	ganglion
 aorticorenal ganglion	ganglion
@@ -5621,7 +5551,6 @@ cholinergic cells	basal forebrain
 cholinergic cells	cholinergic neuron
 cholinergic cells	choline acetyltransferase
 hypergeusia	ageusia
-hypergeusia	hypogeusia
 brain stimulation reward	nucleus accumbens
 olfactory tubercle	nucleus accumbens
 olfactory tubercle	striatum
@@ -5635,6 +5564,8 @@ islands of calleja	olfactory tubercle
 islands of calleja	substantia nigra
 anterior olfactory nucleus	olfactory tubercle
 anterior olfactory nucleus	piriform cortex
+trisynaptic circuit	perforant path
+golgi i	golgi ii
 martinotti cell	basket cell
 cuneate fasciculus	cuneate nucleus
 cuneocerebellar tract	cuneate nucleus
@@ -5656,6 +5587,7 @@ laryngeal airway	intubation
 sugammadex	rocuronium
 acceleromyograph	rocuronium
 acceleromyograph	tracheal intubation
+sellick s manoeuvre	cricoid pressure
 virtual reality sickness	simulator sickness
 leadership analysis	servant leadership
 leadership analysis	leadership
@@ -5673,6 +5605,7 @@ the emotional intelligence appraisal	emotional intelligence
 intelligence assessment	human intelligence
 sociological intelligence	human intelligence
 mayer salovey caruso emotional intelligence test	the emotional intelligence appraisal
+three stratum theory	triarchic theory of intelligence
 three stratum theory	wechsler adult intelligence scale
 looking glass self	self
 self model	self
@@ -5733,9 +5666,6 @@ dysfunctional family	psychiatry
 counterconditioning	psychotherapist
 counterconditioning	social psychology
 counterconditioning	developmental psychology
-self control	psychotherapist
-self control	social psychology
-self control	developmental psychology
 cross cultural psychology	psychotherapist
 cross cultural psychology	applied psychology
 cross cultural psychology	social psychology
@@ -5772,8 +5702,6 @@ family therapy	clinical psychology
 family therapy	psychiatry
 reinforcement	psychotherapist
 reinforcement	social psychology
-fear appeal	psychotherapist
-fear appeal	social psychology
 individual psychology	psychotherapist
 individual psychology	applied psychology
 individual psychology	social psychology
@@ -6123,8 +6051,6 @@ railway spine	psychiatry
 aversion therapy	psychotherapist
 aversion therapy	clinical psychology
 aversion therapy	social psychology
-tact	psychotherapist
-tact	developmental psychology
 behavioral script	psychotherapist
 behavioral script	social psychology
 collaborative therapy	psychotherapist
@@ -6242,8 +6168,6 @@ gratitude	social psychology
 psychological trauma	psychotherapist
 psychological trauma	clinical psychology
 psychological trauma	psychiatry
-love and hate	psychotherapist
-love and hate	social psychology
 social sharing of emotions	psychotherapist
 social sharing of emotions	social psychology
 social sharing of emotions	developmental psychology
@@ -6409,7 +6333,6 @@ mentalization based treatment	mentalization
 egg incubation	incubation
 brood patch	incubation
 incubation period	incubation
-ego depletion	self control
 substance intoxication	substance abuse
 substance intoxication	suicide prevention
 dual diagnosis	substance abuse
@@ -6464,6 +6387,7 @@ vertical fracture	flow
 tip suction	flow
 radical behaviorism	behaviorism
 psychological behaviorism	behaviorism
+reasoned action approach	theory of planned behavior
 health action process approach	self efficacy
 health action process approach	psychological intervention
 technological self efficacy	self efficacy
@@ -6555,6 +6479,7 @@ children s global assessment scale	psychosocial
 children s global assessment scale	psychometrics
 distance education learning environments survey	psychosocial
 distance education learning environments survey	distance education
+distance education learning environments survey	learning environment
 learned optimism	learned helplessness
 learned optimism	attribution
 social penetration theory	self disclosure
@@ -6572,7 +6497,6 @@ erg theory	maslow s hierarchy of needs
 temporal motivation theory	procrastination
 connectedness to nature scale	social connectedness
 nature connectedness	social connectedness
-optimism bias	optimism
 defensive pessimism	optimism
 explanatory style	optimism
 explanatory style	attribution
@@ -6620,7 +6544,6 @@ gross national happiness	happiness
 relational goods	happiness
 felicific calculus	happiness
 negative utilitarianism	happiness
-autophobia	love and hate
 mindfulness based stress reduction	mindfulness
 five facet mindfulness questionnaire	mindfulness
 five facet mindfulness questionnaire	psychological intervention
@@ -6634,6 +6557,7 @@ activity theory	disengagement theory
 leisure satisfaction	life satisfaction
 diener	life satisfaction
 life satisfaction index	life satisfaction
+paranoid anxiety	paranoia
 arts therapist	art therapy
 temporal annotation	language technology
 temporal annotation	universal networking language
@@ -6650,8 +6574,6 @@ microlinguistics	sociocultural linguistics
 greeklish	language technology
 studies in natural language processing	language technology
 adaptive comparative judgement	technology education
-itea	technology education
-itea	literacy
 corpora arenacea	pinealocyte
 transformative justice	transformative learning
 transformative justice	restorative justice
@@ -6660,13 +6582,11 @@ peripheral nerve field	neuromodulation
 percutaneous tibial nerve stimulation	neuromodulation
 percutaneous tibial nerve stimulation	tibial nerve
 child psychopathology	psychopathology
-developmental psychopathology	psychopathology
 comprehensive psychopathological rating scale	psychopathology
 comprehensive psychopathological rating scale	rating scale
 externalizing disorders	psychopathology
 descriptive psychiatry	psychopathology
 adolescent psychopathology	psychopathology
-biological psychopathology	developmental psychopathology
 critical social thought	liberal education
 plan for achieving self support	ticket to work
 chromesthesia	synesthesia
@@ -6699,6 +6619,7 @@ collaborative leadership	shared leadership
 distributed leadership	shared leadership
 distributed leadership	leadership studies
 substitutes for leadership theory	shared leadership
+porter s generic strategies	cost leadership
 linguistic intelligence	interpersonal communication
 linguistic intelligence	theory of multiple intelligences
 care perspective	interpersonal communication
@@ -6715,7 +6636,9 @@ interpersonal compatibility	interpersonal communication
 interpersonal compatibility	interpersonal relationship
 mental management	interpersonal communication
 egosyntonic and egodystonic	ego psychology
-egosyntonic and egodystonic	loevinger s stages of ego development
+freud s seduction theory	freud s psychoanalytic theories
+physical attractiveness stereotype	physical attractiveness
+family cannabaceae	cannabaceae
 capopus	cannabis use disorder
 capopus	motivational interviewing
 rts revised trauma score	iss injury severity score
@@ -6724,7 +6647,6 @@ prediction in language comprehension	sentence processing
 evolutionary linguistics	psycholinguistics
 psycholinguist	psycholinguistics
 endolymphatic duct	endolymphatic sac
-cochlear aqueduct	perilymph
 claudius cell	organ of corti
 spiral ligament	organ of corti
 helicotrema	round window
@@ -6741,10 +6663,8 @@ pain duration	chronic pain
 pain psychology	pain catastrophizing
 fear avoidance model	pain catastrophizing
 darwinian anthropology	evolutionary psychology
-evolutionary neuroscience	evolutionary psychology
 criticism of evolutionary psychology	evolutionary psychology
 standard social science model	evolutionary psychology
-applications of evolution	evolutionary neuroscience
 classwide peer tutoring	teaching method
 dopamine receptor d1	dopamine receptor d2
 dopamine receptor d1	dopamine receptor
@@ -6823,7 +6743,6 @@ nemonapride	raclopride
 dopaminergic cell groups	ventral tegmental area
 dopaminergic cell groups	substantia nigra
 dorsal longitudinal fasciculus	ventral tegmental area
-dorsal longitudinal fasciculus	medial forebrain bundle
 mesocortical pathway	ventral tegmental area
 mesolimbic pathway	ventral tegmental area
 rostromedial tegmental nucleus	ventral tegmental area
@@ -6884,7 +6803,6 @@ ap german language	language pedagogy
 lophophora diffusa	peyote
 lophophora	peyote
 pellotine	lophophora
-mental abacus	mental calculation
 cultural theory of risk	risk perception
 interculturalism	multiculturalism
 pluriculturalism	multiculturalism
@@ -6893,6 +6811,7 @@ multicultural education	multiculturalism
 large conductance mechanosensitive channel	mechanosensitive channels
 piezo1	mechanosensitive channels
 tandem pore domain potassium channel	voltage gated ion channel
+tandem pore domain potassium channel	kcsa potassium channel
 transmembrane channels	voltage gated ion channel
 stromatoxin	voltage gated ion channel
 voltage gated proton channel	voltage gated ion channel
@@ -6931,6 +6850,7 @@ activation synthesis hypothesis	oneirology
 activation synthesis hypothesis	k complex
 delta wave	sleep spindle
 delta wave	k complex
+leader member exchange theory	social exchange theory
 problem of mental causation	philosophy of mind
 franssen effect	auditory illusion
 franssen effect	precedence effect
@@ -6976,6 +6896,7 @@ language delay	language development
 archetypes and the collective unconscious	personal unconscious
 displacement	personal unconscious
 dialogical analysis	dialogical self
+scissors gait	spastic
 discriminant validity	psychometrics
 convergent validity	psychometrics
 mokken scale	psychometrics
@@ -7010,7 +6931,8 @@ fear of negative evaluation	social anxiety
 public speaking fear	social anxiety
 thought withdrawal	thought insertion
 thought broadcasting	thought insertion
-barnes akathisia scale	extrapyramidal symptoms
+persistent delusional disorder	delusional disorder
+barnes akathisia scale	akathisia
 tardive psychosis	psychotic depression
 postdrome	prodrome
 schizophrenic prodrome	prodrome
@@ -7024,7 +6946,6 @@ online degree	educational technology
 online degree	higher education
 transactional distance	distance education
 transactional distance	educational technology
-middle eastern music	ancient music
 perzinfotel	minimum alveolar concentration
 california psychological inventory	minnesota multiphasic personality inventory
 california psychological inventory	personality assessment inventory
@@ -7159,12 +7080,14 @@ environmental criminology	crime prevention
 crime science	crime prevention
 crime prevention through environmental design	crime prevention
 crime displacement	crime prevention
+cruelty to animals	cruelty
 problem oriented policing	community policing
 restorative practices	restorative justice
 5 choice serial reaction time task	serial reaction time
-pelvic splanchnic nerve	hypogastric nerve
+secondary generalized epilepsy	generalized epilepsy
 epizootic lymphangitis	lymphangitis
 chronic lymphangitis	lymphangitis
+explicature	relevance theory
 adjacency pairs	conversation analysis
 interactional linguistics	conversation analysis
 interactional sociolinguistics	conversation analysis
@@ -7222,12 +7145,10 @@ pronethalol	adrenergic
 dihydroergocryptine	adrenergic
 bretylium	adrenergic
 adrenergic nerve fibre	adrenergic
-adrenergic agonist	adrenergic
 adrenergic nerves	adrenergic
 alpha adrenergic blockers	adrenergic
 adrenergic receptor sites	adrenergic
 dichloroisoprenaline	pronethalol
-beta adrenergic agonist	adrenergic agonist
 ropes course	adventure education
 adventure therapy	adventure education
 driving while black	racial profiling
@@ -7244,7 +7165,6 @@ employee resource groups	employee research
 fetal rhabdomyoma	rhabdomyoma
 multifocal micronodular pneumocyte hyperplasia	lymphangioleiomyomatosis
 proactive learning	synchronous learning
-proactive learning	action learning
 proactive learning	open learning
 synchronous conferencing	synchronous learning
 asynchronous learning	synchronous learning
@@ -7253,7 +7173,6 @@ transformative mediation	mediation
 mediation in australia	family mediation
 mediation in australia	mediation
 uniform domain name dispute resolution policy	online dispute resolution
-pediatric acquired brain injury	acquired brain injury
 moral foundations theory	social cognitive theory of morality
 finger agnosia	acalculia
 consumer neuroscience	posterior parietal cortex
@@ -7279,12 +7198,10 @@ left brain interpreter	functional specialization
 left brain interpreter	interference theory
 self reference effect	consumer neuroscience
 neural processing for individual categories of objects	functional specialization
-neural processing for individual categories of objects	fusiform face area
 temporal dynamics of music and language	emotional lateralization
 medial eye fields	frontal eye fields
 medial eye fields	supplementary eye field
 emboliform nucleus	fastigial nucleus
-declarative learning	procedural memory
 models of abnormality	cognitive therapy
 cognitive processing therapy	cognitive therapy
 cognitive processing therapy	cognitive restructuring
@@ -7323,11 +7240,11 @@ breath carbon monoxide	cotinine
 green tobacco sickness	cotinine
 urine cotinine level	cotinine
 nicotine replacements	nicotine replacement therapy
-continuous mandatory ventilation	pressure support ventilation
 butacaine	tetracaine
 propoxycaine	tetracaine
 hexylcaine	tetracaine
 piperocaine	tetracaine
+piperocaine	chloroprocaine
 topical tac	tetracaine
 embutramide	tetracaine
 muscarinic agonist	carbachol
@@ -7336,6 +7253,7 @@ milameline	muscarinic agonist
 cognitive approaches to grammar	cognitive linguistics
 image schema	cognitive linguistics
 mental health first aid	mental health literacy
+pain tolerance level	pain tolerance
 methadone clinic	methadone maintenance
 heroin assisted treatment	methadone maintenance
 levacetylmethadol	methadone maintenance
@@ -7375,13 +7293,13 @@ unified theories of cognition	cognitive architecture
 clinical neurochemistry	neurochemical
 clinical neurochemistry	neurochemistry
 osemozotan	neurochemical
-tumi	toeic
 potentially all pairwise rankings of all possible alternatives	pairwise comparison
 pairwise algorithm	pairwise comparison
 strategic network formation	pairwise comparison
 linearly ordered group	pairwise comparison
 bitopological space	pairwise comparison
 community based participatory research	participatory action research
+11 cis retinal	visual phototransduction
 layer of rods and cones	choroid
 sattler s layer	choroid
 retina choroid	choroid
@@ -7400,6 +7318,7 @@ retinal pigment epitheliopathy	retinal pigment epithelium
 chemoaffinity hypothesis	tectum
 tecta	tectum
 ventral supraoptic decussation	tectum
+perifovea	parafovea
 gene therapy of the human retina	retinal degeneration
 gene therapy of the human retina	retinitis pigmentosa
 tubby protein	retinal degeneration
@@ -7408,8 +7327,6 @@ progressive retinal atrophy	retinitis pigmentosa
 peripherin 2	retinal degeneration
 peripherin 2	retinitis pigmentosa
 retinal implant	retinitis pigmentosa
-organizational behavior management	organizational behavior and human resources
-organizational behavior management	organizational effectiveness
 superkey	star schema
 schema	star schema
 schema	social psychology
@@ -7439,7 +7356,6 @@ grandiose delusions	mania
 young mania rating scale	mania
 bipolar disorder research	mania
 hypomania	mania
-bipolar i disorder	mania
 mixed affective state	mania
 mixed affective state	affect
 bipolar disorder in children	mania
@@ -7484,12 +7400,12 @@ morgan s canon	comparative psychology
 middle english literature	english studies
 ap english literature and composition	english studies
 android science	uncanny valley
-emmert s law	subjective constancy
 speech interference level	psychoacoustics
 masking threshold	psychoacoustics
 psychometric function	psychophysics
 stevens power law	psychophysics
 weber fechner law	psychophysics
+cue recruitment	perceptual learning
 cue recruitment	visual perception
 autotopagnosia	body schema
 ab magnitude	attentional blink
@@ -7510,9 +7426,7 @@ akinetopsia	visual perception
 akinetopsia	visual cortex
 crossmodal attention	crossmodal
 crossmodal attention	visual perception
-sensory maps and brain development	sensory neuroscience
 fortis and lenis	voice onset time
-scientific pitch notation	pitch music
 duplex perception	speech perception
 categorical perception	speech perception
 pattern playback	speech perception
@@ -7527,7 +7441,7 @@ impression formation	social cognition
 behavioural confirmation	social perception
 personality judgment	social perception
 personality judgment	big five personality traits
-fusiform face area	face perception
+microsaccade	fixation
 prosopamnesia	face perception
 argument from illusion	direct and indirect realism
 slow motion perception	time perception
@@ -7564,7 +7478,6 @@ apperceptive agnosia	visual agnosia
 cyclopean image	binocular rivalry
 tone deafness	amusia
 inferior temporal sulcus	superior temporal sulcus
-contingent aftereffect	mccollough effect
 repetition blindness	rapid serial visual presentation
 cognitive closure	closure
 task positive network	default mode network
@@ -7575,6 +7488,7 @@ behavior change methods	psychological intervention
 transtheoretical model	behavior change
 transtheoretical model	psychological intervention
 charcoal burning suicide	suicide methods
+basal dendrite	apical dendrite
 workplace incivility	incivility
 niirs	rating scale
 absolute category rating	rating scale
@@ -7585,7 +7499,6 @@ hamilton rating scale for depression	rating scale
 hamilton rating scale for depression	major depressive disorder
 hamilton rating scale for depression	antidepressant
 hamd	rating scale
-hamilton anxiety rating scale	rating scale
 disruptive behavior disorders rating scale	rating scale
 disruptive behavior disorders rating scale	impulsivity
 rating scales for depression	rating scale
@@ -7593,7 +7506,7 @@ quality of life in depression scale	rating scale
 adult adhd self report scale	rating scale
 wong baker faces pain rating scale	rating scale
 direct behavior rating	rating scale
-hars	hamilton anxiety rating scale
+warranting theory	impression formation
 trace	motor theory of speech perception
 auditory phonetics	motor theory of speech perception
 speech shadowing	motor theory of speech perception
@@ -7630,8 +7543,6 @@ creativity	social psychology
 constructivism	pedagogy
 constructivism	developmental psychology
 constructivism	constructivism
-zone of proximal development	pedagogy
-zone of proximal development	developmental psychology
 counterpoint	pedagogy
 music education	pedagogy
 learning disability	pedagogy
@@ -7812,14 +7723,12 @@ sociology of education	pedagogy
 social studies	pedagogy
 horn	pedagogy
 progressive education	pedagogy
-multimethodology	pedagogy
 work ethic	pedagogy
 work ethic	social psychology
 need for achievement	pedagogy
 need for achievement	applied psychology
 need for achievement	social psychology
 instructional design	pedagogy
-matriculation	pedagogy
 concept testing	pedagogy
 concept testing	mathematics education
 analytical skill	pedagogy
@@ -7843,7 +7752,6 @@ professional writing	pedagogy
 journal entry	pedagogy
 early childhood education	pedagogy
 early childhood education	developmental psychology
-peer tutor	pedagogy
 theme and variations	pedagogy
 da capo	pedagogy
 statistics education	pedagogy
@@ -7871,7 +7779,6 @@ learning circle	pedagogy
 creative writing	pedagogy
 orchestration	pedagogy
 monitorial system	pedagogy
-concept map	pedagogy
 design and technology	pedagogy
 standardized test	pedagogy
 public engagement	pedagogy
@@ -7968,7 +7875,6 @@ intercultural competence	pedagogy
 malaysian english	pedagogy
 practitioner research	pedagogy
 inert knowledge	pedagogy
-disability studies	pedagogy
 edublog	pedagogy
 class size	pedagogy
 class size	mathematics education
@@ -8178,7 +8084,6 @@ moral character	pedagogy
 moral character	social psychology
 special english	pedagogy
 linguistic discrimination	pedagogy
-language proficiency	pedagogy
 deweyism	pedagogy
 cultural capital	pedagogy
 school climate	pedagogy
@@ -8269,7 +8174,6 @@ multilingualism	pedagogy
 intercultural learning	pedagogy
 business correspondence	pedagogy
 universal design for learning	pedagogy
-toeic	pedagogy
 ethnomathematics	pedagogy
 ethnomathematics	mathematics education
 african american teachers	pedagogy
@@ -8286,7 +8190,6 @@ multiple disabilities	developmental psychology
 leadership development	pedagogy
 stage lighting instrument	pedagogy
 cultural pluralism	pedagogy
-work experience	pedagogy
 service learning	pedagogy
 legal english	pedagogy
 computational thinking	pedagogy
@@ -8354,7 +8257,6 @@ reading motivation	social psychology
 reading motivation	developmental psychology
 adultism	pedagogy
 astronomy education	pedagogy
-open education	pedagogy
 additional mathematics	pedagogy
 additional mathematics	mathematics education
 international alliance for women in music	pedagogy
@@ -8387,8 +8289,6 @@ biculturalism	pedagogy
 youth participation	pedagogy
 report card	pedagogy
 informal mathematics	pedagogy
-learning styles	pedagogy
-learning styles	developmental psychology
 values scale	pedagogy
 values scale	social psychology
 cultural dissonance	pedagogy
@@ -8416,7 +8316,6 @@ dialogue education	developmental psychology
 computers and writing	pedagogy
 anthropological culture	pedagogy
 developmental training	pedagogy
-communication theory	communication
 social grooming	communication
 social grooming	social psychology
 sign system	communication
@@ -8543,7 +8442,6 @@ interpersonal adaptation theory	social psychology
 risorius	communication
 audience design	communication
 audience design	social psychology
-staring	communication
 devocalization	communication
 eyebrow	communication
 emotions in virtual communication	communication
@@ -8622,9 +8520,6 @@ distress	psychiatry
 dwell time	clinical psychology
 dwell time	psychiatry
 life review	clinical psychology
-psychological testing	clinical psychology
-psychological testing	social psychology
-psychological testing	developmental psychology
 forensic psychology	clinical psychology
 forensic psychology	applied psychology
 forensic psychology	social psychology
@@ -8766,8 +8661,6 @@ alcohol abuse	clinical psychology
 alcohol abuse	psychiatry
 suicide behaviors questionnaire revised	clinical psychology
 suicide behaviors questionnaire revised	social psychology
-forensic psychiatry	clinical psychology
-forensic psychiatry	psychiatry
 moral treatment	clinical psychology
 moral treatment	psychiatry
 child behavior checklist	clinical psychology
@@ -8912,7 +8805,6 @@ psychophysiology	developmental psychology
 moderated mediation	social psychology
 human spirit	social psychology
 consistency	social psychology
-social loafing	social psychology
 disengagement theory	social psychology
 construal level theory	social psychology
 self deception	social psychology
@@ -8934,10 +8826,6 @@ prejudice	social psychology
 prejudice	social psychology
 private speech	social psychology
 private speech	developmental psychology
-social facilitation	social psychology
-social facilitation	developmental psychology
-social facilitation	cognitive psychology
-representativeness heuristic	social psychology
 polygraph	social psychology
 social control	social psychology
 just world hypothesis	social psychology
@@ -9003,7 +8891,6 @@ self report study	social psychology
 ethnomethodology	social psychology
 role conflict	social psychology
 self fulfilling prophecy	social psychology
-team effectiveness	social psychology
 stepfamily	social psychology
 stepfamily	developmental psychology
 model of hierarchical complexity	social psychology
@@ -9012,7 +8899,6 @@ moral disengagement	social psychology
 job analysis	social psychology
 content validity	social psychology
 ultimatum game	social psychology
-pecking order	social psychology
 false accusation	social psychology
 anomie	social psychology
 body shape	social psychology
@@ -9023,8 +8909,6 @@ social value orientations	social psychology
 psychometry	social psychology
 gossip	social psychology
 dictator game	social psychology
-ecological psychology	social psychology
-ecological psychology	cognitive psychology
 strengths and weaknesses	social psychology
 scale	social psychology
 experience sampling method	social psychology
@@ -9107,8 +8991,6 @@ rasch model	social psychology
 rasch model	developmental psychology
 maturity	social psychology
 maturity	developmental psychology
-socioemotional selectivity theory	social psychology
-socioemotional selectivity theory	developmental psychology
 definition of the situation	social psychology
 two alternative forced choice	social psychology
 two alternative forced choice	cognitive psychology
@@ -9156,8 +9038,6 @@ somatic effort	social psychology
 somatic effort	developmental psychology
 folk psychology	social psychology
 folk psychology	cognitive science
-peer group	social psychology
-peer group	developmental psychology
 symbolic interactionism	social psychology
 introspection	social psychology
 introspection	cognitive psychology
@@ -9208,8 +9088,6 @@ prosocial behavior	developmental psychology
 escalation of commitment	social psychology
 operational definition	social psychology
 mental accounting	social psychology
-egocentrism	social psychology
-egocentrism	developmental psychology
 response bias	social psychology
 biological determinism	social psychology
 generativity	social psychology
@@ -9249,7 +9127,6 @@ moral evil	social psychology
 social comparison theory	social psychology
 social comparison theory	developmental psychology
 nomothetic and idiographic	social psychology
-varimax rotation	social psychology
 egonomics	social psychology
 obedience	social psychology
 insufficient justification	social psychology
@@ -9865,8 +9742,6 @@ wishful thinking	social psychology
 wishful thinking	cognitive psychology
 inspection time	social psychology
 inspection time	developmental psychology
-apprehension	social psychology
-apprehension	cognitive psychology
 facial resemblance	social psychology
 facial resemblance	developmental psychology
 social emotions	social psychology
@@ -9892,7 +9767,6 @@ symbolic behavior	social psychology
 symbolic behavior	developmental psychology
 wonder	social psychology
 popularity	social psychology
-affection	social psychology
 deference	social psychology
 ultimate issue	social psychology
 child lying	social psychology
@@ -10093,7 +9967,6 @@ day hospital	psychiatry
 chyloderma	psychiatry
 intensive care unit	psychiatry
 difelikefalin	psychiatry
-aphonia	psychiatry
 abt 670	psychiatry
 basmisanil	psychiatry
 rhaponticin	psychiatry
@@ -10125,7 +9998,6 @@ idiot	psychiatry
 iferanserin	psychiatry
 rolicyclidine	psychiatry
 bradanicline	psychiatry
-perphenazine	psychiatry
 fluorophen	psychiatry
 surgical sieve	psychiatry
 n ethyltryptamine	psychiatry
@@ -10220,10 +10092,8 @@ salicylamide	psychiatry
 bropirimine	psychiatry
 feline hyperesthesia syndrome	psychiatry
 chloral hydrate	psychiatry
-rhinosporidiosis	psychiatry
 acacia phlebophylla	psychiatry
 obliquus capitis superior muscle	psychiatry
-sinomenine	psychiatry
 blood vessel	psychiatry
 mdat	psychiatry
 oxeladin	psychiatry
@@ -10294,7 +10164,6 @@ drug prohibition law	psychiatry
 pharmacodiagnostic testing	psychiatry
 orphan patient	psychiatry
 musical ear syndrome	psychiatry
-legalization	psychiatry
 sally anne test	psychiatry
 sally anne test	developmental psychology
 virtual patient	psychiatry
@@ -10459,7 +10328,6 @@ benzamide	psychiatry
 long term care	psychiatry
 tobey ayer test	psychiatry
 dipsomania	psychiatry
-meda	psychiatry
 tertiary referral hospital	psychiatry
 self surgery	psychiatry
 long term effects of alcohol consumption	psychiatry
@@ -10505,11 +10373,9 @@ lymphangitis	psychiatry
 abstinence	psychiatry
 thioridazine	psychiatry
 doctor s visit	psychiatry
-modafinil	psychiatry
 herpesviral encephalitis	psychiatry
 lpk 26	psychiatry
 pipamazine	psychiatry
-mentalis	psychiatry
 duloxetine	psychiatry
 pulmonary to systemic shunt	psychiatry
 melancholia	psychiatry
@@ -10595,7 +10461,6 @@ genius	developmental psychology
 maternal deprivation	developmental psychology
 phrase completions	developmental psychology
 chirality	developmental psychology
-developmental systems theory	developmental psychology
 shaping	developmental psychology
 in basket test	developmental psychology
 spatial intelligence	developmental psychology
@@ -10810,8 +10675,6 @@ degustation	cognitive science
 theory of mind in animals	cognitive science
 grey parrot	cognitive science
 backward inhibition	task switching
-imitative learning	observational learning
-social learning in animals	imitative learning
 heritability of autism	developmental disorder
 pervasive developmental disorder	developmental disorder
 checklist for autism in toddlers	developmental disorder
@@ -10841,11 +10704,9 @@ online qualitative research	qualitative research
 analytic induction	qualitative research
 family estrangement	qualitative research
 incompatibility thesis	qualitative research
-incompatibility thesis	multimethodology
 dedoose	qualitative research
 member check	qualitative research
 diagnostic radiographer	qualitative research
-allelomimetic behavior	social facilitation
 euthenics	family and consumer science
 responsive neurostimulation device	neurostimulation
 teleopsia	macropsia
@@ -10867,6 +10728,7 @@ tas1r1	tas1r3
 tas1r2	tas1r3
 gnat3	tas1r3
 gnat3	tas2r38
+gnat3	gustducin
 lactisole	tas1r3
 diffuse chemosensory system	solitary chemosensory cells
 pre algebra	everyday mathematics
@@ -10879,6 +10741,7 @@ comprehensive school mathematics program	everyday mathematics
 interactive mathematics program	everyday mathematics
 mathematics education in the united states	everyday mathematics
 confused deputy problem	privilege escalation
+buyer s remorse	remorse
 dark triad	psychopathy
 dark triad	big five personality traits
 superficial charm	psychopathy
@@ -10901,6 +10764,7 @@ partial least squares path modeling	structural equation modeling
 attitude polarization	attitude change
 defensible space theory	defensible space
 principal stratification	causal model
+suppression burst pattern	ohtahara syndrome
 memory inhibition	retrieval induced forgetting
 agricultural literacy	agricultural education
 sport pedagogy	physical education
@@ -10917,6 +10781,7 @@ memory rehearsal	short term memory
 write only memory	visual short term memory
 iconic memory	visual short term memory
 iconic memory	spatial memory
+gracile fasciculus	gracile nucleus
 functional analytic psychotherapy	acceptance and commitment therapy
 functional contextualism	acceptance and commitment therapy
 functional contextualism	relational frame theory
@@ -10929,7 +10794,6 @@ science communication	science education
 ap computer science	science education
 ap computer science	curriculum
 ap computer science	computer literacy
-scientific misconceptions	science education
 science technology society and environment education	science education
 science technology society and environment education	higher education
 scientific literacy	science education
@@ -10944,10 +10808,8 @@ public awareness of science	science communication
 science of science policy	science communication
 science journalism	science communication
 ap computer science a	ap computer science
-superseded scientific theories	scientific misconceptions
 outline of social science	science technology society and environment education
 constructivism in science education	science technology society and environment education
-narcissistic defences	grandiosity
 kindling model	kindling
 dot probe paradigm	attentional bias
 emotional stroop test	attentional bias
@@ -10955,10 +10817,10 @@ emotional stroop test	stroop effect
 attentional retraining	attentional bias
 attentional retraining	craving
 biased attention	attentional bias
-gittins index	multi armed bandit
+workplace hazardous materials information system	workplace harassment
 workplace hazardous materials information system	domestic violence
+workplace hazardous materials information system	workplace violence
 military deception	deception
-lie detection	deception
 brodmann area 4	primary motor cortex
 peripheral ossifying fibroma	pyogenic granuloma
 peripheral giant cell granuloma	pyogenic granuloma
@@ -10970,7 +10832,7 @@ pain tolerance	threshold of pain
 decay theory	forgetting
 forgetting curve	forgetting
 assimilation and contrast effects	priming
-behavior settings	ecological psychology
+connectivism	learning theory
 connectivism	educational technology
 cue dependent forgetting	recall
 spacing effect	recall
@@ -10989,7 +10851,6 @@ developmental language disorder	language disorder
 agrammatism	language disorder
 expressive language disorder	language disorder
 jargon aphasia	language disorder
-communication disorder	language disorder
 paraphasia	language disorder
 mixed transcortical aphasia	language disorder
 nonsense word	fluency
@@ -11025,6 +10886,7 @@ ambiguity effect	lexical decision task
 transposed letter effect	lexical decision task
 psychic surgery	psychic
 methoxphenidine	diphenidine
+principled reasoning	defining issues test
 principled reasoning	lawrence kohlberg s stages of moral development
 job rotation	job design
 job rotation	job attitude
@@ -11085,8 +10947,9 @@ nonsynaptic plasticity	metaplasticity
 synaptic scaling	metaplasticity
 bcm theory	metaplasticity
 heterosynaptic plasticity	metaplasticity
-gaba reuptake inhibitor	tiagabine
+2 methylisoborneol	geosmin
 dominance	dominance hierarchy
+stereotypic movement disorder	stereotypy
 p90x	insanity
 insanity defense	insanity
 circumcellions	insanity
@@ -11114,6 +10977,7 @@ lida	cognitive model
 cpm goms	cognitive model
 cpm goms	goms
 attribute hierarchy method	cognitive model
+dna photolyases	cryptochrome
 counterproductive work behavior	organizational citizenship behavior
 extra role performance	organizational citizenship behavior
 vent pecking	feather pecking
@@ -11121,16 +10985,13 @@ copropraxia	coprolalia
 copropraxia	motor tics
 copropraxia	echolalia
 satellite glial cell	trigeminal ganglion
-satellite glial cell	dorsal root ganglion
 superior canal dehiscence	semicircular canal
 horizontal canal	semicircular canal
 horizontal canal	benign paroxysmal positional vertigo
 semicircular duct	semicircular canal
-sl 75102	progabide
 mesuximide	ethosuximide
+seletracetam	brivaracetam
 cyclodisparity	cyclovergence
-trigeminal lemniscus	medial lemniscus
-agraffe	surgical anastomosis
 pelopsia	teleopsia
 associative visual agnosia	apperceptive agnosia
 integrative agnosia	apperceptive agnosia
@@ -11150,7 +11011,6 @@ computational humor	humor research
 theories of humor	humor research
 typical intellectual engagement	need for cognition
 typical intellectual engagement	big five personality traits
-typical intellectual engagement	fluid and crystallized intelligence
 lenticular fasciculus	ansa lenticularis
 lenticular fasciculus	substantia nigra
 lee boot effect	vomeronasal organ
@@ -11158,9 +11018,10 @@ vomeronasal receptor	vomeronasal organ
 vomeronasal receptor	olfactory epithelium
 vomeronasal cartilage	vomeronasal organ
 accessory olfactory bulb	vomeronasal organ
+eighth wonder of the world	wonder
 complaint system	conflict management
 organizational conflict	conflict management
-feather pecking	pecking order
+multiple schwannomas	schwannomatosis
 paddington alcohol test	brief intervention
 alcohol brief intervention	brief intervention
 lewin s equation	field theory
@@ -11203,17 +11064,15 @@ tridimensional personality questionnaire	harm avoidance
 serotonin antagonist and reuptake inhibitor	trazodone
 etoperidone	trazodone
 heterocyclic antidepressant	trazodone
-esketamine	treatment resistant depression
 parvocellular red nucleus	parvocellular cell
 parvocellular red nucleus	red nucleus
-disc2	disc1
+crossed extensor reflex	ankle jerk reflex
 crossed extensor reflex	withdrawal reflex
 tonic labyrinthine reflex	crossed extensor reflex
 tonic labyrinthine reflex	triceps reflex
 clasp knife response	crossed extensor reflex
 clasp knife response	triceps reflex
 palmomental reflex	crossed extensor reflex
-tricyclic antidepressant overdose	tricyclic antidepressant
 arntl	clock
 period	clock
 rar related orphan receptor alpha	clock
@@ -11259,7 +11118,6 @@ biotrauma	tidal volume
 peak inspiratory pressure	tidal volume
 dead space	tidal volume
 respiratory inductance plethysmography	tidal volume
-pressure support ventilation	tidal volume
 pressure controlled ventilation	tidal volume
 bohr equation	dead space
 alveolar dead space	dead space
@@ -11278,8 +11136,6 @@ intermittent rhythmic delta activity	temporal lobe
 hippocampal sclerosis	temporal lobe
 kluver bucy syndrome	temporal lobe
 parahippocampal gyrus	temporal lobe
-hypergraphia	temporal lobe
-hypergraphia	ictal
 brodmann area 38	temporal lobe
 choroidal fissure	temporal lobe
 uncus	temporal lobe
@@ -11287,7 +11143,6 @@ epilepsy surgery	temporal lobe
 inferior temporal gyrus	temporal lobe
 nucleus amygdalae	temporal lobe
 granule cell dispersion	hippocampal sclerosis
-geschwind syndrome	hypergraphia
 shapiro syndrome	agenesis of the corpus callosum
 aicardi s syndrome	agenesis of the corpus callosum
 amiana	toddler
@@ -11316,7 +11171,6 @@ vilazodone	antidepressant
 vortioxetine	major depressive disorder
 vortioxetine	antidepressant
 minor depressive disorder	major depressive disorder
-inclusive masculinity	hegemonic masculinity
 quoted printable	base64
 pad emotional state model	emotional exhaustion
 pad emotional state model	emotional competence
@@ -11358,6 +11212,7 @@ neuroconstructivism	cognitive development
 cognitive acceleration	cognitive development
 memory development	cognitive development
 neo piagetian theories of cognitive development	cognitive development
+infant cognitive development	piaget s theory of cognitive development
 audio lingual method	communicative language teaching
 community language learning	communicative language teaching
 grammar translation method	communicative language teaching
@@ -11464,7 +11319,6 @@ nuclear chain fiber	muscle spindle
 extrafusal muscle fiber	muscle spindle
 intrafusal muscle fiber	muscle spindle
 pass theory of intelligence	cognitive assessment system
-vulnerability index	vulnerability assessment
 measurement invariance	confirmatory factor analysis
 dorsal nerve of clitoris	pudendal nerve
 pudendal canal	pudendal nerve
@@ -11480,7 +11334,6 @@ sr 59230a	isoprenaline
 opn5	melanopsin
 greenwood function	basilar membrane
 analog ear	basilar membrane
-reference class forecasting	optimism bias
 zotepine	quetiapine
 dibenzothiazepine	quetiapine
 sertindole	quetiapine
@@ -11497,7 +11350,6 @@ amisulpride	antipsychotic
 amisulpride	clozapine
 asenapine	olanzapine
 asenapine	antipsychotic
-communication deviance	expressed emotion
 alogia	anhedonia
 alogia	affect
 asociality	anhedonia
@@ -11532,7 +11384,6 @@ bmy 14802	haloperidol
 clotiapine	antipsychotic
 clotiapine	clozapine
 alstonine	antipsychotic
-extrapyramidal symptoms	antipsychotic
 quetiapine	antipsychotic
 fluperlapine	antipsychotic
 fluperlapine	clozapine
@@ -11547,13 +11398,10 @@ binaural fusion	auditory system
 trapezoid body	cochlear nucleus
 ventral cochlear nucleus	cochlear nucleus
 auditory brainstem implant	cochlear nucleus
-superior olivary complex	cochlear nucleus
-superior olivary complex	inferior colliculus
-superior olivary complex	auditory system
 dorsal cochlear nucleus	cochlear nucleus
-cochlear nuclear complex	superior olivary complex
 cochlear nuclear complex	dorsal cochlear nucleus
 sulforidazine	mesoridazine
+snob effect	bandwagon effect
 sten scores	raw score
 philosophy of mathematics education	connected mathematics
 math wars	connected mathematics
@@ -11563,6 +11411,7 @@ reform mathematics	curriculum
 philosophy of mathematics	philosophy of mathematics education
 abstract structure	philosophy of mathematics education
 singapore math	math wars
+singapore math	core plus mathematics project
 singapore math	reform mathematics
 applicable mathematics	math wars
 saxon math	math wars
@@ -11572,7 +11421,6 @@ traditional mathematics	reform mathematics
 reticular theory	neuron doctrine
 friendship paradox	friendship
 philia	friendship
-thoracic splanchnic nerve	splanchnic nerves
 network of practice	community of practice
 virtual community of practice	community of practice
 orthopaedic nursing	orthopedic surgery
@@ -11589,6 +11437,7 @@ varus angulation	orthopedic surgery
 epley maneuver	benign paroxysmal positional vertigo
 dizzyfix	benign paroxysmal positional vertigo
 epley manoeuvre	benign paroxysmal positional vertigo
+semont maneuver	epley maneuver
 impact bias	affective forecasting
 social identity approach	social identity theory
 social identity approach	social relation
@@ -11607,7 +11456,6 @@ mormyrus caschive	mormyridae
 mormyrops	mormyridae
 campylomormyrus	mormyridae
 mormyrinae	mormyridae
-bipolar disorder not otherwise specified	bipolar i disorder
 bipolar disorder not otherwise specified	hypomania
 artinian module	module
 torsion free module	module
@@ -11632,15 +11480,12 @@ synecdoche	metonymy
 metaphor and metonymy	metonymy
 supplementary eye field	saccadic masking
 supplementary eye field	saccade
-saccadic suppression of image displacement	saccadic masking
-saccadic suppression of image displacement	saccade
 antisaccade task	saccadic masking
 antisaccade task	saccade
 paramedian pontine reticular formation	saccadic masking
 paramedian pontine reticular formation	reticular formation
 ocular dysmetria	saccadic masking
 optokinetic drum	optokinetic reflex
-group concept mapping	concept map
 auditory radiation	auditory agnosia
 auditory radiation	auditory cortex
 entropy maximization	maximization
@@ -11654,6 +11499,7 @@ two factor theory	job satisfaction
 job performance	job satisfaction
 quality of working life	job satisfaction
 work family enrichment	job satisfaction
+work family enrichment	work family conflict
 job embeddedness	job satisfaction
 job design	job performance
 job attitude	job performance
@@ -11683,7 +11529,6 @@ lejaren hiller	musical composition
 music learning theory	musical composition
 music learning theory	musicology
 music learning theory	music
-disability culture	disability studies
 bootstrapping	language acquisition
 language learning strategies	language acquisition
 language learning strategies	foreign language
@@ -11732,13 +11577,15 @@ cambridge neuropsychological test automated battery	spatial memory
 three circles model	world englishes
 lidocaine prilocaine	prilocaine
 felypressin	prilocaine
+osteospermum fruticosum	osteospermum
+descriptivist theory of names	causal theory of reference
 social impact theory	social influence
 minority influence	social influence
 anterior ethmoidal foramen	optic canal
 posterior ethmoidal foramen	optic canal
-oftp	socioemotional selectivity theory
 army beta	army alpha
 reflective listening	informational listening
+reflective listening	appreciative listening
 ohtahara syndrome	west syndrome
 human development theory	economics education
 consumer economics	economics education
@@ -11812,7 +11659,6 @@ lower lip mucosa	lesion
 cutaneous mass	lesion
 right lacrimal sac	lesion
 maxillary gingiva	lesion
-calcifying aponeurotic fibroma	lesion
 brachial plexus lesions	lesion
 biopsy lesion	lesion
 nonossifying fibroma	aneurysmal bone cyst
@@ -11820,11 +11666,11 @@ ameloblastic fibroma	odontogenic tumor
 calcifying epithelial odontogenic tumor	odontogenic tumor
 adenomatoid odontogenic tumor	odontogenic tumor
 squamous odontogenic tumor	odontogenic tumor
+plasma cell granuloma	inflammatory pseudotumor
 paradental cyst	odontogenic cyst
 primordial cyst	odontogenic cyst
 glandular odontogenic cyst	odontogenic cyst
 lateral periodontal cyst	odontogenic cyst
-aponeurotic fibroma	calcifying aponeurotic fibroma
 academic tenure	academic freedom
 facial electromyography	affect
 affective computing	affect
@@ -11851,7 +11697,6 @@ hyperthymic temperament	affect
 hyperthymic temperament	temperament
 affective forecasting	affect
 positivity offset	affect
-positivity offset	negativity bias
 affect theory	affect
 emotional responsivity	affect
 international affective picture system	affect
@@ -11887,10 +11732,12 @@ von restorff effect	free recall
 recall test	free recall
 serial position effect	free recall
 enactment effect	free recall
+psychology of reasoning	verbal reasoning
 serial reaction time	sequence learning
 two level utilitarianism	animal cognition
 functional integration	functional neuroimaging
 functional integration	magnetoencephalography
+partial concurrent thinking aloud	think aloud protocol
 motivated tactician	social cognition
 cooperative eye hypothesis	social cognition
 motor cognition	social cognition
@@ -11904,8 +11751,8 @@ metamemory	metacognition
 metacomprehension	metacognition
 metacognitive therapy	metacognition
 dunning kruger effect	metacognition
-misattribution of arousal	misattribution of memory
 directed attention fatigue	attentional control
+yubikey	protocol analysis
 fiedler contingency model	cognitive resource theory
 numerical stroop effect	stroop effect
 wonderlic test	intelligence quotient
@@ -11960,7 +11807,6 @@ transverse temporal gyrus	auditory cortex
 ciliospinal reflex	triceps reflex
 adult care	young adult
 transition care	young adult
-sinomenium	sinomenine
 neuronal lineage marker	doublecortin
 hole board test	elevated plus maze
 hole board test	anxiolytic
@@ -11983,7 +11829,6 @@ professional learning community	educational technology
 professional learning community	professional development
 experiential education	experiential learning
 experiential education	higher education
-situated learning	experiential learning
 autodidacticism	experiential learning
 learning by teaching	experiential learning
 learning by teaching	teaching method
@@ -11995,24 +11840,21 @@ student centred learning	teaching method
 student centred learning	higher education
 rote learning	learning sciences
 rote learning	cooperative learning
-action learning	learning sciences
-action learning	cooperative learning
 design based learning	learning sciences
-legitimate peripheral participation	situated learning
 supraorbital nerve	corneal reflex
 absent corneal reflexes	corneal reflex
-stapedius muscle	acoustic reflex
 escape reflex	withdrawal reflex
 triceps reflex	withdrawal reflex
 aplysia gill and siphon withdrawal reflex	withdrawal reflex
-aplysia gill and siphon withdrawal reflex	sensory stimulation therapy
 aplysia gill and siphon withdrawal reflex	habituation
+scoloparia	chordotonal organ
 mandragora officinarum	mandrake
+beat deafness	tone deafness
 blastomyces dermatitidis	blastomycosis
-collaborative piano	piano pedagogy
 hardware emulation	emulation
 network emulation	emulation
 semulation	hardware emulation
+flexplace	flextime
 valpromide	valproic acid
 valpromide	anticonvulsant
 divalproex sodium	valproic acid
@@ -12023,7 +11865,6 @@ genus pneumovirus	human metapneumovirus
 coronavirus nl63	human metapneumovirus
 coronavirus nl63	human coronavirus nl63
 human respiratory virus	human metapneumovirus
-actual development level	zone of proximal development
 volinanserin	eplivanserin
 microteaching	teacher education
 microteaching	teaching method
@@ -12047,7 +11888,6 @@ ear training	music education
 music industry	music education
 music technology	music education
 music	music education
-audiation	music education
 playing by ear	music education
 music examination	music education
 music centre	music education
@@ -12076,9 +11916,6 @@ new musicology	musicology
 chinese musicology	music history
 chinese musicology	musicology
 chinese musicology	music
-ancient music	music history
-ancient music	musicology
-ancient music	music
 absolute music	music history
 music of ancient greece	music history
 20th century music	music history
@@ -12093,7 +11930,6 @@ audio home recording act	music industry
 music piracy	music industry
 music licensing	music industry
 noise in music	music
-piano pedagogy	music
 homophony	music
 baroque music	music
 vocal music	music
@@ -12152,14 +11988,11 @@ felbamate	lamotrigine
 felbamate	carbamazepine
 physiological anisocoria	anisocoria
 physiologic anisocoria	anisocoria
-psychological safety	team effectiveness
 dioscoreophyllum	monellin
 capparis masaikai	monellin
 neurotrophin 3	brain derived neurotrophic factor
 cocaine paste	coca
-erythroxylum coca	coca
-erythroxylum novogranatense	erythroxylum coca
-secondary consciousness	primary consciousness
+dyrk3	dyrk1a
 reticular activating system	reticular formation
 caudal pontine reticular nucleus	reticular formation
 caudal pontine reticular nucleus	moro reflex
@@ -12171,6 +12004,7 @@ effects of stress on memory	memory consolidation
 effects of stress on memory	amygdala
 sleep and memory	memory consolidation
 motor skill consolidation	memory consolidation
+motor skill consolidation	muscle memory
 sleep and learning	memory consolidation
 social cognitive theory of morality	moral development
 social cognitive theory of morality	moral disengagement
@@ -12195,13 +12029,8 @@ adult physical abuse	psychological abuse
 higher order theories of consciousness	electromagnetic theories of consciousness
 knowledge argument	qualia
 inverted spectrum	qualia
-cetacaine	topical anesthetic
 milacemide	anticonvulsant
 remacemide	anticonvulsant
-progabide	anticonvulsant
-tiagabine	anticonvulsant
-tiagabine	topiramate
-tiagabine	lamotrigine
 pentylenetetrazol	anticonvulsant
 carisbamate	anticonvulsant
 valproate pivoxil	anticonvulsant
@@ -12229,11 +12058,8 @@ cerebellar tremors	carbamazepine
 phenomenal concept strategy	knowledge argument
 team role inventories	teamwork
 team composition	teamwork
-pragmatic language impairment	communication disorder
 spike triggered covariance	spike triggered average
 spike triggered covariance	receptive field
-orthodromic	antidromic
-av reentrant tachycardia	orthodromic
 jamming avoidance response	electroreception
 electrocommunication	electroreception
 gnathonemus	electroreception
@@ -12241,6 +12067,7 @@ sternopygus	electroreception
 knollenorgan	electrocommunication
 anxiety buffer disruption theory	terror management theory
 gaba transaminase inhibitor	vigabatrin
+executive education	business education
 operations and technology management	executive education
 business finance	executive education
 ocular dominance	visual cortex
@@ -12365,7 +12192,6 @@ curriculum mapping	curriculum development
 curriculum theory	curriculum development
 man a course of study	curriculum development
 suture ligature	ligature
-computer supported collaborative learning	collaborative learning
 medial geniculate nucleus	inferior colliculus
 medial geniculate nucleus	auditory cortex
 lateral lemniscus	inferior colliculus
@@ -12421,6 +12247,7 @@ transcranial alternating current stimulation	transcranial magnetic stimulation
 low field magnetic stimulation	transcranial magnetic stimulation
 flexor carpi radialis muscle	transcranial magnetic stimulation
 opponens pollicis muscle	transcranial magnetic stimulation
+bulbous corpuscle	mechanoreceptor
 colforsin	forskolin
 h 89	forskolin
 ibmx	forskolin
@@ -12446,6 +12273,7 @@ lingual glands	lingual papilla
 lingual torus	lingual papilla
 vesicular acetylcholine transporter	cholinergic neuron
 vesicular acetylcholine transporter	choline acetyltransferase
+vesamicol	vesicular acetylcholine transporter
 ips supported employment	vocational rehabilitation
 ticket to work	vocational rehabilitation
 one stop career centers	vocational rehabilitation
@@ -12471,23 +12299,23 @@ medial dorsal cutaneous nerve	sensory nerve
 medial giant interneuron	cercus
 triazolobenzodiazepine	alprazolam
 small fiber peripheral neuropathy	small fiber neuropathy
-sultopride	sulpiride
 realistic conflict theory	conflict resolution research
 fair fighting	conflict resolution research
 norm of reciprocity	reciprocity
 eisenstein reciprocity	reciprocity
 reciprocal pronoun	reciprocity
 born reciprocity	reciprocity
-tpr storytelling	total physical response
 spiral limbus	spiral ligament
 chemistry	cartesian anxiety
 pre established harmony	cartesian anxiety
 normative statement	cartesian anxiety
+intracranial pressure transducer	intracranial pressure monitoring
 cortical lobule	eyeblink conditioning
 social identity model of deindividuation effects	social psychology
 social tuning	social psychology
 bachelor of social science	bachelor
 keirsey temperament sorter	temperament
+keirsey temperament sorter	personality type
 differential susceptibility hypothesis	temperament
 five temperaments	temperament
 four temperaments	temperament
@@ -12497,9 +12325,6 @@ meantone temperament	temperament
 temperament testing	temperament
 jenkins activity survey	type a and type b personality theory
 biosocial criminology	biosocial theory
-distressed personality type	type d personality
-toronto alexithymia scale	alexithymia
-higher order factor analysis	varimax rotation
 strictosidine synthase	aromatic l amino acid decarboxylase
 youth exclusion	youth studies
 community youth development	youth studies
@@ -12624,7 +12449,7 @@ general aptitude test battery	aptitude
 defense language aptitude battery	aptitude
 defense language aptitude battery	foreign language
 thompson sampling	regret
-multi armed bandit	regret
+human behaviour genetics	behavioural genetics
 moral reasoning	moral disengagement
 good moral character	moral disengagement
 moral agency	moral disengagement
@@ -12651,6 +12476,7 @@ totten trust	express trust
 custodial account	express trust
 antecedent variable	moderation
 moderation system	moderation
+anxiety uncertainty management	uncertainty reduction theory
 anxiety uncertainty management	intercultural communication
 paleoconservatism	conservatism
 epistemic conservatism	conservatism
@@ -12677,7 +12503,6 @@ semantic externalism	internalism and externalism
 semantic externalism	externalism
 phenomenal conservatism	internalism and externalism
 social norms approach	norm
-peer exchange	peer group
 generalized other	symbolic interactionism
 generalized other	interactionism
 social competence	social relation
@@ -12701,7 +12526,6 @@ occupational burnout	burnout
 law of comparative judgment	thurstone scale
 negative state relief model	prosocial behavior
 negative state relief model	mood
-individual psychological assessment	psychological testing
 bogardus social distance scale	social distance
 emotional competence	emotional intelligence
 emotional literacy	emotional intelligence
@@ -12714,7 +12538,6 @@ privilege escalation	vulnerability
 cvss	vulnerability
 heartbleed	vulnerability
 common weakness enumeration	vulnerability
-vulnerability assessment	vulnerability
 zero day attack	vulnerability
 adaptive capacity	vulnerability
 climate change in bangladesh	vulnerability
@@ -12723,7 +12546,6 @@ social vulnerability	vulnerability
 facial action coding system	facial expression
 blank expression	facial expression
 facial feedback hypothesis	facial expression
-zygomaticus major muscle	facial expression
 mecanisme de la physionomie humaine	facial expression
 universal prescriptivism	normative ethics
 demandingness objection	normative ethics
@@ -12734,6 +12556,7 @@ rearrest	recidivism
 rearrest	suicide prevention
 vehicle impoundment	recidivism
 computer assisted personal interviewing	respondent
+uniqueness theorem for poisson s equation	uniqueness
 referring expression	referent
 empty name	referent
 direction of fit	intentionality
@@ -12751,6 +12574,7 @@ asymmetric crying facies	crying
 infant crying	crying
 cyberstalking	stalking
 cyberstalking	harassment
+experience machine	hedonism
 novelty detection	novelty
 workplace harassment	harassment
 petty tyranny	abusive supervision
@@ -12891,6 +12715,7 @@ internal intercostal muscles	muscles of respiration
 internal intercostal muscles	intercostal muscle
 creola bodies	respiratory tract
 mycoplasma agassizii	respiratory tract
+diplotriaenoidea	air sacs
 interpersonal and social rhythm therapy	psychoeducation
 a physical disability	physical disability
 double compare and swap	software transactional memory
@@ -12899,7 +12724,8 @@ zolpidem	hypnotic
 brotizolam	hypnotic
 zopiclone	hypnotic
 hangover effect	hypnotic
-staring array	staring
+electroconvulsive treatments	electroconvulsive therapy
+english based creole languages	modern language
 auto antonym	english based creole languages
 guyanese creole	english based creole languages
 repulsive guidance molecule a	repulsive guidance molecule
@@ -12916,7 +12742,6 @@ boundaries of the mind	computational theory of mind
 wisconsin general test apparatus	discrimination learning
 differential outcomes effect	discrimination learning
 discriminative learning	discrimination learning
-forensic psychiatrists	forensic psychiatry
 lesser palatine nerve	efferent fiber
 justifiable homicide	homicide
 uniform crime reports	homicide
@@ -12924,14 +12749,17 @@ crime in alaska	homicide
 neonaticide	homicide
 defense wound	homicide
 drakon	homicide
+living educational theory	action research
 quadrantanopia	meridian
 visual field test	meridian
 visual field loss	meridian
 nasal visual field	meridian
 humphrey visual field	meridian
+individual learning plan	recognition of prior learning
 microexpression	disgust
 microexpression	sadness
 trypophobia	disgust
+buss perry aggression questionnaire	verbal aggression
 5 meo dmt	n n dimethyltryptamine
 reading span task	memory span
 netrin	axon guidance
@@ -12941,7 +12769,6 @@ robo1	axon guidance
 repulsive guidance molecule	axon guidance
 slit2	axon guidance
 plexin	axon guidance
-chronostasis	saccadic suppression of image displacement
 monoaminergic	monoamine neurotransmitter
 dov 216 303	monoamine neurotransmitter
 dov 216 303	reuptake
@@ -13006,7 +12833,6 @@ captology	persuasive technology
 mental model theory of reasoning	psychology of reasoning
 parasuicide	suicide attempt
 suicidal intent	suicide attempt
-banded knifefish	gymnotus
 ap italian language and culture	language education
 ap italian language and culture	language assessment
 modern language	language education
@@ -13079,6 +12905,7 @@ positive adult development	lawrence kohlberg s stages of moral development
 tripartite classification of authority	moral authority
 social intuitionism	moral authority
 authority	moral authority
+transnasal esophagoscopy	otorhinolaryngology
 neurologic music therapy	aphasiology
 ophthalmic pathology	neuro ophthalmology
 leber s hereditary optic neuropathy	optic neuropathy
@@ -13154,7 +12981,6 @@ written expression disorder	learning disability
 general learning disability	learning disability
 virtual learning environment	educational technology
 universal design for instruction	educational technology
-collaborative learning	educational technology
 instructional simulation	educational technology
 technology integration	educational technology
 technology integration	teaching method
@@ -13179,7 +13005,6 @@ response to intervention	special education
 educational anthropology	educational research
 standards based assessment	formative assessment
 standards based assessment	educational assessment
-summative assessment	formative assessment
 assessment for learning	formative assessment
 adult educator	adult education
 corporate education	adult education
@@ -13216,7 +13041,6 @@ individualized instruction	teaching method
 teaching philosophy	teaching method
 discovery learning	teaching method
 specialized english	teaching method
-total physical response	teaching method
 prewriting	teaching method
 apprenticeship learning	apprenticeship
 instructional leadership	educational leadership
@@ -13294,7 +13118,6 @@ academic capital	higher education
 sponsored mobility	higher education
 psychometric entrance test	higher education
 graduate tax	higher education
-student affairs	higher education
 student loan program	higher education
 cultural exception	cultural diversity
 convention on the protection and promotion of the diversity of cultural expressions	cultural diversity
@@ -13321,7 +13144,6 @@ shared reading	literacy
 phonological awareness	literacy
 oracy	literacy
 adolescent literacy	literacy
-orality	literacy
 family literacy	literacy
 alphabet song	literacy
 electracy	literacy
@@ -13333,10 +13155,8 @@ career portfolio	career development
 career management	career development
 consumer math	consumer education
 unifon	learning object
-on work experience	work experience
 science shop	service learning
 maidenhead locator system	open university
-open classroom	open education
 taar1	dopamine receptor
 taar1	dopaminergic
 dazopride	dopamine receptor
@@ -13350,8 +13170,6 @@ fenoldopam	dopamine receptor
 butaclamol	dopamine receptor
 butaclamol	dopaminergic
 butaclamol	haloperidol
-sulpiride	dopamine receptor
-sulpiride	dopaminergic
 spiperone	dopamine receptor
 spiperone	striatum
 d 1	dopamine receptor
@@ -13363,14 +13181,11 @@ epptb	taar1
 taar5	taar1
 taar8	taar1
 taar1 gene	taar1
-tail suspension test	behavioural despair test
 eseroline	physostigmine
 physostigma venenosum	physostigmine
 norketamine	ketamine
-medetomidine	ketamine
 xylazine	ketamine
 acepromazine	ketamine
-atipamezole	medetomidine
 toileting	activities of daily living
 bipolar spectrum diagnostic scale	hypomania
 racing thoughts	hypomania
@@ -13382,10 +13197,12 @@ adolescent psychiatry	child and adolescent psychiatry
 feighner criteria	research diagnostic criteria
 teaching family model	group home
 cbcl	child behavior checklist
+teleological behaviorism	radical behaviorism
 naphthylvinylpyridine	choline acetyltransferase
 choline transporter	choline acetyltransferase
 aralkylamine n acetyltransferase	arylalkylamine
 aanat gene	arylalkylamine
+aanat gene	aanat
 diagnostic interview for genetic studies	medical diagnosis
 major diagnostic category	medical diagnosis
 dxplain	medical diagnosis
@@ -13398,7 +13215,6 @@ penile plethysmography	sexual arousal
 vaginal photoplethysmography	sexual arousal
 classification of mental disorders	prevalence of mental disorders
 diagnostic classification of mental health and developmental disorders of infancy and early childhood	prevalence of mental disorders
-addiction psychiatry	military psychiatry
 cross cultural psychiatry	military psychiatry
 middle eastern mental health issues syndromes	mental health law
 mental health act	mental health law
@@ -13439,10 +13255,9 @@ object language	universal networking language
 kosraean language	universal networking language
 timeml	universal networking language
 cognitive sociolinguistics	sociocultural linguistics
+chiasmal syndrome	optic chiasm
 adult learner	adult learning
 andragogy	adult learning
-coach syndrome	cerebellar vermis
-viloxazine hydrochloride	viloxazine
 girl power	girl
 sukeban	girl
 ashley treatment	girl
@@ -13475,7 +13290,6 @@ cerebellar uvula	purkinje cell
 purkinje cell layer	purkinje cell
 roux en y anastomosis	anastomosis
 colostomy reversal	anastomosis
-surgical anastomosis	anastomosis
 oesophageal pouch	anastomosis
 porto caval	anastomosis
 glasgow outcome scale	glasgow coma scale
@@ -13581,7 +13395,6 @@ gun safety	suicide prevention
 workplace violence	suicide prevention
 external cause	suicide prevention
 suicide note	suicide prevention
-sex offender	suicide prevention
 physical abuse	suicide prevention
 verbal abuse	suicide prevention
 abuse case	suicide prevention
@@ -13615,7 +13428,6 @@ intensivist	intensive care unit
 selective digestive decontamination	intensive care unit
 post intensive care syndrome	intensive care unit
 apache ii	intensive care unit
-psychogenic aphonia	aphonia
 office for human research protections	institutional review board
 anadenanthera colubrina var cebil	anadenanthera colubrina
 lucid interval	head injury
@@ -13636,7 +13448,6 @@ blood gas partition coefficient	anesthetic
 methohexital sodium	anesthetic
 spinal anesthetic	anesthetic
 tricaine methanesulphonate	anesthetic
-drugs legalization	legalization
 deconica	psilocybe
 syringe driver	syringe
 syringe filter	syringe
@@ -13650,19 +13461,14 @@ perazine	phenothiazine
 butaperazine	phenothiazine
 stilted speech	clanging
 todd s paresis	paresis
-behavioural despair test	antidepressant
 second generation antidepressant	antidepressant
 oxaprotiline	antidepressant
 venlafaxine	antidepressant
 medifoxamine	antidepressant
 tianeptine	antidepressant
-treatment resistant depression	antidepressant
 citalopram	antidepressant
-sertraline	antidepressant
 animal models of depression	antidepressant
 escitalopram	antidepressant
-tricyclic antidepressant	antidepressant
-viloxazine	antidepressant
 amineptine	antidepressant
 desipramine	antidepressant
 lofepramine	antidepressant
@@ -13680,8 +13486,7 @@ n methylphenethylamine	methamphetamine
 l methamphetamine	methamphetamine
 bedwetting alarm	enuresis
 daytime enuresis	enuresis
-adrafinil	modafinil
-dysithamnus	mentalis
+mesoridazine	thioridazine
 mourning and melancholia	melancholia
 melancholic depression	melancholia
 patient controlled analgesia	analgesic
@@ -13706,7 +13511,6 @@ antipyretic	analgesic
 parecoxib	analgesic
 clonixin	analgesic
 tramadol	analgesic
-zomepirac	analgesic
 meptazinol	analgesic
 flupirtine	analgesic
 morphine 6 glucuronide	analgesic
@@ -13719,10 +13523,12 @@ floctafenine	analgesic
 analgesic agents	analgesic
 local sleep	neuroscience of sleep
 cognitive neuroscience of dreams	oneirology
+morphine 3 glucuronide	morphine 6 glucuronide
 cyclazocine	pentazocine
 phenazocine	pentazocine
 norpethidine	pethidine
 pethidine hydrochloride	pethidine
+dolabrifera	aplysiidae
 early numeracy	numeracy
 fear potentiated startle	fear conditioning
 fear processing in the brain	fear conditioning
@@ -13761,17 +13567,17 @@ software bloat	transactional memory
 transactional synchronization extensions	transactional memory
 advanced synchronization facility	transactional memory
 contact call	animal communication
-megan s law	sex offender
 gene therapy for color blindness	rpe65
 human coronavirus hku1	human coronavirus nl63
 unc5c	netrin
+pethidinic acid	norpethidine
+calibrachoa parviflora	calibrachoa
 primary deviance	secondary deviance
 oudenone	tyrosine hydroxylase
 tetrahydroharmine	banisteriopsis caapi
 psychotria viridis	banisteriopsis caapi
 clobenzorex	amphetamine
 4 methylamphetamine	amphetamine
-dextroamphetamine	amphetamine
 pipradrol	amphetamine
 2 5 dimethoxy 4 methylamphetamine	amphetamine
 dimethylamphetamine	amphetamine
@@ -13820,7 +13626,6 @@ selank	anxiolytic
 anxiolytic agents	anxiolytic
 prolonged exposure therapy	exposure therapy
 exposure hierarchy	exposure therapy
-kinocilium	hair cell
 basilar papilla	hair cell
 atoh1	hair cell
 tip link	hair cell
@@ -13832,11 +13637,9 @@ meta epistemology	social epistemology
 observationalism	social epistemology
 epistemology of wikipedia	social epistemology
 genetic epistemology	social epistemology
-nepicastat	dopamine beta monooxygenase
 black ghost knifefish	apteronotus
 arteritic anterior ischemic optic neuropathy	anterior ischemic optic neuropathy
 dapiprazole	mydriasis
-exercise addiction	addictive behavior
 edusemiotics	philosophy of education
 educational perennialism	philosophy of education
 hebephilia	pedophilia
@@ -13873,7 +13676,6 @@ desmethylcitalopram	citalopram
 star d	citalopram
 litoxetine	citalopram
 dissolvable tobacco	tobacco in alabama
-zygomaticus minor muscle	zygomaticus major muscle
 rimcazole	haloperidol
 treatment of tourette syndrome	haloperidol
 fluphenazine	haloperidol
@@ -13893,7 +13695,6 @@ medium spiny neuron	striatum
 direct pathway of movement	striatum
 indirect pathway of movement	striatum
 gbr 13119	striatum
-medial forebrain bundle	striatum
 striosome	striatum
 professional certification	continuing professional development
 emergency care practitioner	continuing professional development
