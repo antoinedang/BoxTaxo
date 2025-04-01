@@ -1,3 +1,5 @@
+rm boxtaxo*txt
+
 sbatch train_computer_science
 sbatch train_psychology
 sbatch train_wordnet_noun
