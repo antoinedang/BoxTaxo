@@ -1,0 +1,52 @@
+[=== Module miniconda/3 loaded ===]
+[=== Module cudatoolkit/11.1 loaded ===]
+/home/mila/a/antoine.dangeard/.conda/envs/boxtaxo/lib/python3.10/site-packages/torch/cuda/__init__.py:145: UserWarning: 
+NVIDIA A100-SXM4-80GB with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70.
+If you want to use the NVIDIA A100-SXM4-80GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+Traceback (most recent call last):
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/main.py", line 53, in <module>
+    create_data(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 196, in create_data
+    all_taxo_dict,path2root,sib_pair,child_parent_pair,child_neg_parent_pair,child_sibling_pair,val_concept, val_gt,test_concept, test_gt = preprocess(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 14, in preprocess
+    with open(os.path.join("../data/"+str(dataset)+"/"+str(dataset)+"_raw_en.taxo")) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '../data/psychology/psychology_raw_en.taxo'
+[=== Module miniconda/3 loaded ===]
+[=== Module cudatoolkit/11.1 loaded ===]
+/home/mila/a/antoine.dangeard/.conda/envs/boxtaxo/lib/python3.10/site-packages/torch/cuda/__init__.py:145: UserWarning: 
+NVIDIA L40S with CUDA capability sm_89 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70.
+If you want to use the NVIDIA L40S GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+Traceback (most recent call last):
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/main.py", line 53, in <module>
+    create_data(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 196, in create_data
+    all_taxo_dict,path2root,sib_pair,child_parent_pair,child_neg_parent_pair,child_sibling_pair,val_concept, val_gt,test_concept, test_gt = preprocess(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 46, in preprocess
+    root_id = concept_id[root_id]
+KeyError: 'MAG-PSY'
+[=== Module miniconda/3 loaded ===]
+[=== Module cudatoolkit/11.1 loaded ===]
+Traceback (most recent call last):
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/main.py", line 53, in <module>
+    create_data(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 196, in create_data
+    all_taxo_dict,path2root,sib_pair,child_parent_pair,child_neg_parent_pair,child_sibling_pair,val_concept, val_gt,test_concept, test_gt = preprocess(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 46, in preprocess
+    root_id = concept_id[root_id]
+KeyError: 'MAG-PSY'
+[=== Module miniconda/3 loaded ===]
+[=== Module cudatoolkit/11.1 loaded ===]
+Traceback (most recent call last):
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/main.py", line 53, in <module>
+    create_data(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 196, in create_data
+    all_taxo_dict,path2root,sib_pair,child_parent_pair,child_neg_parent_pair,child_sibling_pair,val_concept, val_gt,test_concept, test_gt = preprocess(args)
+  File "/home/mila/a/antoine.dangeard/BoxTaxo/src/pre_process.py", line 177, in preprocess
+    parent_node = list(chd2par_dict[node])[0]
+IndexError: list index out of range
