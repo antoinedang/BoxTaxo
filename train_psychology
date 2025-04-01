@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1
 #SBATCH --time=400:00
 #SBATCH --mem=100Gb
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:gpu:v100:1
 
 source ~/.bashrc
 module load miniconda/3
