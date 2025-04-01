@@ -1,0 +1,4 @@
+sbatch train_computer_science
+sbatch train_psychology
+sbatch train_wordnet_noun
+sbatch train_wordnet_verb
