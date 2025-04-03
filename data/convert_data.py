@@ -59,7 +59,9 @@ def convert_dataset(dataset_name, directory):
         reverse_taxonomy[root] = [dataset_name]
     # find nodes with a single parent to use as evaluation set
     eval_terms = [
-        k for k, v in reverse_taxonomy.items() if len(v) == 1 and v[0] != dataset_name
+        k
+        for k, v in reverse_taxonomy.items()
+        if len(v) == 1 and v[0] != dataset_name and len(taxonomy.get(v[0], [])) == 0
     ]
     random.shuffle(eval_terms)
     eval_terms = eval_terms[: int(len(eval_terms) // 5)]

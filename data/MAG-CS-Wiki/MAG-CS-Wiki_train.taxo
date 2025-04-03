@@ -111,6 +111,7 @@ credit event	installment credit
 asset swap	credit default swap index
 constant maturity credit default swap	credit default swap index
 credit linked note	credit default swap index
+network motif	biological network
 network motif	complex network
 sequence labeling	hidden markov model
 sequence labeling	conditional random field
@@ -125,6 +126,7 @@ fmllr	feature vector
 fmllr	artificial neural network
 fmllr	linear regression
 keyword spotting	hidden markov model
+zeno machine	hypercomputation
 specc	electronic system level design and verification
 posix threads	thread
 overlapped i o	thread
@@ -182,6 +184,7 @@ simultaneous multithreading	multithreading
 cray xmt	multithreading
 classifier chains	multi label classification
 classifier chains	classifier
+packet assembler disassembler	disassembler
 packet assembler disassembler	network packet
 lifewide learning	lifelong learning
 lifewide learning	experiential learning
@@ -207,10 +210,14 @@ very minimum shift keying	minimum shift keying
 carrierless amplitude phase modulation	amplitude and phase shift keying
 carrierless amplitude phase modulation	delta modulation
 carrierless amplitude phase modulation	pulse frequency modulation
+carrierless amplitude phase modulation	qam
 hierarchical dirichlet process	latent dirichlet allocation
 hierarchical dirichlet process	dirichlet process
+dynamic topic model	latent dirichlet allocation
+pachinko allocation	dynamic topic model
 criss cross algorithm	linear fractional programming
 fundamental theorem of linear programming	linear fractional programming
+fundamental theorem of linear programming	basic solution
 fundamental theorem of linear programming	simplex algorithm
 karmarkar s algorithm	criss cross algorithm
 big m method	criss cross algorithm
@@ -370,6 +377,7 @@ omega network	multistage interconnection networks
 deferred procedure call	priority call
 deferred procedure call	3pcc
 grey hat	white hat
+grey hat	certified ethical hacker
 base and bounds	extended memory
 base and bounds	interleaved memory
 base and bounds	virtual memory
@@ -774,6 +782,7 @@ isaplanner	proof assistant
 error correction mode	facsimile
 internet fax	facsimile
 internet fax	the internet
+magnetic cartridge	phonograph
 magnetic cartridge	cartridge
 vertex operator algebra	operator product expansion
 vertex operator algebra	operator algebra
@@ -785,6 +794,7 @@ knizhnik zamolodchikov equations	vertex operator algebra
 monstrous moonshine	vertex operator algebra
 niemeier lattice	vertex operator algebra
 griess algebra	vertex operator algebra
+very high speed backbone network service	backbone network
 very high speed backbone network service	the internet
 workflow patterns	workflow management system
 workflow patterns	workflow technology
@@ -810,6 +820,7 @@ wf xml	xpdl
 wf xml	windows workflow foundation
 workflow reference model	xpdl
 workflow reference model	windows workflow foundation
+barker code	pulse compression
 safety shutoff valve	needle valve
 plug valve	needle valve
 plug valve	four way valve
@@ -822,6 +833,7 @@ hydraulic tappet	shuttle valve
 pilot operated relief valve	shuttle valve
 pilot valve	shuttle valve
 bittorrent protocol encryption	file sharing
+bittorrent protocol encryption	bittorrent
 anonymous p2p	file sharing
 obfuscation	obfuscation
 obfuscation	malware
@@ -935,6 +947,7 @@ ttcn	test suite
 stream x machine	test suite
 stream x machine	system under test
 stream x machine	model based testing
+stream x machine	x machine
 test template framework	test suite
 test template framework	model based testing
 test template framework	z notation
@@ -1031,7 +1044,12 @@ modular symbol	hecke operator
 picard modular group	modular curve
 hilbert modular surface	modular curve
 eisenstein ideal	modular curve
+lightmap	normal mapping
 lightmap	real time rendering
+transition band	band stop filter
+transition band	passband
+transition band	m derived filter
+transition band	prototype filter
 all pass filter	band stop filter
 all pass filter	high pass filter
 raised cosine filter	band stop filter
@@ -1052,6 +1070,7 @@ capacitor input filter	m derived filter
 capacitor input filter	prototype filter
 spurline	band stop filter
 spurline	microstrip
+roll off	transition band
 roll off	butterworth filter
 roll off	electronic filter topology
 roll off	voltage controlled filter
@@ -1140,6 +1159,8 @@ microstate	entropy
 vector flow	active contour model
 reflexive operator algebra	compact operator
 reflexive operator algebra	operator algebra
+composition operator	compact operator
+composition operator	multiplication operator
 normal operator	compact operator
 normal operator	hilbert space
 normal operator	multiplication operator
@@ -1156,6 +1177,7 @@ spectral theory of compact operators	compact operator
 spectral theory of compact operators	hilbert space
 calkin algebra	compact operator
 calkin algebra	hilbert space
+bloch space	composition operator
 displacement operator	ladder operator
 displacement operator	finite rank operator
 indefinite sum	ladder operator
@@ -1281,6 +1303,7 @@ great ape language	sign language
 stokoe notation	sign language
 american sign language	sign language
 key word signing	sign language
+key word signing	augmentative and alternative communication
 video relay service	sign language
 video relay service	interpreter
 german sign language	sign language
@@ -1344,6 +1367,7 @@ generalized multi protocol label switching	label switching
 forwarding equivalence class	label switching
 traffic engineering database	path computation element
 wavelength switched optical network	path computation element
+composition over inheritance	multiple inheritance
 singly rooted hierarchy	composition over inheritance
 singly rooted hierarchy	programming domain
 singly rooted hierarchy	second generation programming language
@@ -1426,6 +1450,8 @@ a symbolic analysis of relay and switching circuits	protective relay
 digital protective relay	protective relay
 relay logic	digital protective relay
 ansi device numbers	digital protective relay
+zak transform	gabor transform
+balian low theorem	zak transform
 test mobile system	signal strength
 wi fi positioning system	signal strength
 wi fi positioning system	positioning system
@@ -2398,6 +2424,9 @@ display serial interface	serial port
 serial over lan	serial port
 serial cable	serial port
 data terminal ready	serial port
+riser card	card reader
+riser card	cable gland
+riser card	printed circuit board
 contactless smart card	card reader
 contactless smart card	smart card
 post card	card reader
@@ -2640,6 +2669,7 @@ intel 8080	microcomputer
 intel 8080	software
 in target probe	microprocessor
 dhrystone	microprocessor
+dhrystone	whetstone
 iapx	microprocessor
 iapx	software
 peripheral interface adapter	microprocessor
@@ -2703,6 +2733,8 @@ mobile database	mobile station
 mobile web	mobile device
 mobile web	mobile computing
 mobile web	mobile station
+mobile device management	mobile device
+mobile device management	mobile computing
 net compact framework	mobile device
 mobile assisted language learning	mobile device
 mobile assisted language learning	educational technology
@@ -2765,6 +2797,7 @@ m government	mobile technology
 mobile blogging	mobile technology
 i mode	mobile web
 mobile 2 0	mobile web
+enterprise mobility management	mobile device management
 cloudlet	mobile cloud computing
 blake	estream
 sosemanuk	estream
@@ -2862,6 +2895,7 @@ projection	relational calculus
 equirectangular projection	projection plane
 equirectangular projection	oblique projection
 equirectangular projection	graphical projection
+equirectangular projection	parallel projection
 equirectangular projection	3d projection
 equirectangular projection	planar projection
 mollweide projection	projection
@@ -2893,8 +2927,10 @@ scxml	state diagram
 scxml	finite state machine
 scxml	xml
 central composite design	response surface methodology
+plackett burman design	response surface methodology
 box behnken design	response surface methodology
 design expert	response surface methodology
+yates analysis	plackett burman design
 yates analysis	fractional factorial design
 ssl acceleration	transport layer security
 ssl acceleration	cryptographic protocol
@@ -3017,7 +3053,12 @@ specpower	data center
 autoscaling	workload
 autoscaling	cloud computing
 nasa tlx	workload
+auto_ptr	c standard library
+blinn phong shading model	deferred shading
 blinn phong shading model	rasterisation
+tautology	non classical logic
+tautology	algorithm
+tautology	tautology
 logical nor	non classical logic
 deductive lambda calculus	simply typed lambda calculus
 church rosser theorem	simply typed lambda calculus
@@ -3124,6 +3165,9 @@ stream cipher attack	stream cipher
 stream cipher attack	block cipher
 stream cipher attack	cipher
 rc4	stream cipher
+correlation attack	stream cipher
+correlation attack	block cipher
+correlation attack	cryptanalysis
 cbc mac	stream cipher
 cbc mac	block cipher
 cbc mac	cipher
@@ -3297,6 +3341,7 @@ slide attack	stream cipher attack
 slide attack	differential cryptanalysis
 slide attack	linear cryptanalysis
 distinguishing attack	stream cipher attack
+alternating step generator	correlation attack
 iapm	cbc mac
 ccm mode	cbc mac
 engineering support	workspace
@@ -3308,6 +3353,8 @@ fisher transformation	spearman s rank correlation coefficient
 fisher transformation	correlation coefficient
 kendall s w	spearman s rank correlation coefficient
 kendall s w	rank correlation
+rv coefficient	correlation ratio
+rv coefficient	fisher transformation
 retroflex consonant	international phonetic alphabet
 retroflex consonant	consonant
 x sampa	international phonetic alphabet
@@ -3327,6 +3374,7 @@ workflow technology	workflow
 workflow management system	workflow
 workflow engine	workflow
 electronic resource management	workflow
+upstream	appleshare
 upstream	client
 upstream	server side
 upstream	remote evaluation
@@ -3371,6 +3419,7 @@ gnome sort	merge sort
 gnome sort	counting sort
 gnome sort	bubble sort
 american flag sort	insertion sort
+american flag sort	radix sort
 american flag sort	merge sort
 american flag sort	counting sort
 american flag sort	bubble sort
@@ -3400,6 +3449,7 @@ stooge sort	external sorting
 polyphase merge sort	insertion sort
 polyphase merge sort	merge sort
 polyphase merge sort	counting sort
+polyphase merge sort	merge algorithm
 polyphase merge sort	external sorting
 library sort	insertion sort
 library sort	merge sort
@@ -3532,6 +3582,7 @@ tolerance relation	rough set
 multicriteria classification	dominance based rough set approach
 decision theoretic rough sets	dominance based rough set approach
 variable and attribute	attribute domain
+audio modem riser	riser card
 terminating reliable broadcast	broadcast domain
 multicast broadcast single frequency network	subframe
 alias analysis	alias
@@ -3577,6 +3628,7 @@ explicit knowledge	artificial intelligence
 team effectiveness	knowledge management
 morphological box	knowledge management
 morphological box	artificial intelligence
+technical communication	knowledge management
 information and communications technology	knowledge management
 information and communications technology	world wide web
 enterprise system	knowledge management
@@ -3587,6 +3639,7 @@ internal communications	knowledge management
 nominal group technique	knowledge management
 nominal group technique	artificial intelligence
 organizational theory	knowledge management
+social learning	knowledge management
 personal knowledge base	knowledge management
 personal knowledge base	world wide web
 enterprise life cycle	knowledge management
@@ -3645,6 +3698,7 @@ tuckman s stages of group development	knowledge management
 organizational architecture	knowledge management
 instructional design	knowledge management
 middle management	knowledge management
+knowledge economy	knowledge management
 organizational performance	knowledge management
 transactive memory	knowledge management
 organizational learning	knowledge management
@@ -3812,6 +3866,8 @@ technostress	knowledge management
 knowledge building	knowledge management
 design based research	knowledge management
 specialization of knowledge	knowledge management
+open educational resources	knowledge management
+open educational resources	library science
 strategic intelligence	knowledge management
 strategic intelligence	telecommunications
 medical literature retrieval	knowledge management
@@ -3886,6 +3942,7 @@ knowledge search	data mining
 knowledge search	world wide web
 universal design for learning	knowledge management
 universal design for learning	machine learning
+media richness theory	knowledge management
 content strategy	knowledge management
 informal learning	knowledge management
 collaborative working environment	knowledge management
@@ -3914,12 +3971,15 @@ social presence theory	knowledge management
 management fad	knowledge management
 knowledge society	knowledge management
 knowledge society	world wide web
+talent management	knowledge management
 social construction of technology	knowledge management
 intellectual capital	knowledge management
 pogil	knowledge management
 authentic learning	knowledge management
 boundary object	knowledge management
 sociomateriality	knowledge management
+open education	knowledge management
+open education	world wide web
 employee relationship management	knowledge management
 co creation	knowledge management
 collaborative innovation network	knowledge management
@@ -3965,6 +4025,7 @@ online learning community	educational technology
 online learning community	learning community
 digital learning	educational technology
 social learning tools	educational technology
+social learning tools	social learning
 learning object metadata	educational technology
 learning object metadata	learning object
 learning object metadata	metadata
@@ -3985,6 +4046,7 @@ student centred learning	experiential learning
 positive organizational behavior	organizational behavior
 positive organizational behavior	organizational commitment
 psychological safety	team effectiveness
+technical performance measure	technical communication
 digital divide	information and communications technology
 digital divide	the internet
 ict development index	information and communications technology
@@ -4001,6 +4063,10 @@ organizational behavior and human resources	organizational culture
 organizational behavior and human resources	organizational commitment
 organizational behavior and human resources	organization development
 organizational behavior and human resources	organizational learning
+organizational studies	organizational culture
+organizational studies	organizational commitment
+organizational studies	organization development
+organizational studies	organizational learning
 trompenaars model of national culture differences	organizational culture
 adhocracy	organizational culture
 planned change	organizational commitment
@@ -4021,6 +4087,11 @@ commonsense knowledge	domain knowledge
 commonsense knowledge	knowledge base
 commonsense knowledge	knowledge extraction
 commonsense knowledge	knowledge representation and reasoning
+ripple down rules	knowledge engineering
+ripple down rules	knowledge based systems
+ripple down rules	knowledge acquisition
+ripple down rules	knowledge base
+ripple down rules	expert system
 polymath project	collective intelligence
 documentation science	information science
 human centered computing	information science
@@ -4039,6 +4110,9 @@ communicology	organizational communication
 design management	information management
 information technology management	information management
 information technology management	information technology
+digital firm	information management
+digital firm	enterprise software
+digital firm	data management
 joint battlespace infosphere	information management
 joint battlespace infosphere	information exchange
 clinical coder	information management
@@ -4059,6 +4133,7 @@ innovation intermediary	open innovation
 addie model	instructional design
 first principles of instruction	instructional design
 instructional theory	instructional design
+knowledge revolution	knowledge economy
 organizational network analysis	organizational learning
 organizational network analysis	social network
 personal knowledge management	organizational learning
@@ -4078,6 +4153,7 @@ it service management	information technology
 domain driven data mining	domain knowledge
 domain driven data mining	knowledge extraction
 adaptive comparative judgement	technology education
+itea	technology education
 telepointer	collaborative software
 distributed collaboration	collaborative software
 electronic meeting system	collaborative software
@@ -4100,6 +4176,7 @@ national information exchange model	interoperability
 item tree analysis	knowledge space
 pictive	participatory design
 manufacturing resource planning	enterprise resource planning
+oecd ilibrary	open educational resources
 duality of structure	structuration theory
 elisionism	structuration theory
 cognitive tutor	intelligent tutoring system
@@ -4107,12 +4184,15 @@ cognitive tutor	tutor
 commons based peer production	peer production
 knowledge organization system	knowledge organization
 knowledge organization system	ontology
+media naturalness theory	media richness theory
 media naturalness theory	naturalness
 formal learning	informal learning
 nonformal learning	informal learning
 service learning in engineering education	service learning
 science shop	service learning
+war for talent	talent management
 relational capital	intellectual capital
+open classroom	open education
 rosenbrock system matrix	reachability
 rosenbrock system matrix	computation
 reachability problem	reachability
@@ -4256,8 +4336,10 @@ foreign language anxiety	language assessment
 foreign language anxiety	language acquisition
 english language learner	language assessment
 spoken language ability	language assessment
+spoken language ability	spoken language
 english based creole languages	modern language
 flexible macroblock ordering	error concealment
+flexible macroblock ordering	macroblock
 1seg	error concealment
 ic layout editor	physical design
 ic layout editor	circuit extraction
@@ -4659,6 +4741,8 @@ simcos	simulation language
 backup domain controller	continuous data protection
 backup domain controller	log shipping
 backup domain controller	ndmp
+remote visual inspection	automated x ray inspection
+web coverage processing service	rasdaman
 federal trademark dilution act	trademark dilution
 generative modelling language	generative design
 cross sequential study	generative design
@@ -4744,6 +4828,7 @@ information model	software engineering
 information model	database
 don t repeat yourself	software engineering
 don t repeat yourself	programming language
+systems analysis	software engineering
 mk ii fpa	software engineering
 implementation	software engineering
 implementation	programming language
@@ -4984,6 +5069,7 @@ change advisory board	software engineering
 fco im	information model
 fco im	data modeling
 fco im	data model
+trusted computer system evaluation criteria	systems analysis
 trusted computer system evaluation criteria	trusted computing
 compare and swap	implementation
 compare and swap	shared memory
@@ -5124,6 +5210,7 @@ two way deterministic finite automaton	deterministic finite automaton
 buchi automaton	timed automaton
 buchi automaton	deterministic automaton
 counter automaton	timed automaton
+counter automaton	pushdown automaton
 counter automaton	deterministic automaton
 block cellular automaton	two way deterministic finite automaton
 life like cellular automaton	two way deterministic finite automaton
@@ -5166,6 +5253,7 @@ canny edge detector	edge detection
 blob detection	edge detection
 edge enhancement	edge detection
 sobel operator	edge detection
+corner detection	edge detection
 hat operator	edge detection
 hat operator	feature detection
 ridge detection	edge detection
@@ -5186,6 +5274,7 @@ prewitt operator	sobel operator
 prewitt operator	image gradient
 deriche edge detector	canny edge detector
 deriche edge detector	image gradient
+interest point detection	corner detection
 u matrix	image gradient
 u matrix	image histogram
 morphological gradient	image gradient
@@ -5198,6 +5287,7 @@ clipping	digital down converter
 clipping	start signal
 clipping	audio signal processing
 clipping	software rendering
+clipping	analog signal processing
 clipping	signal transfer function
 arithmetic coding	context adaptive binary arithmetic coding
 arithmetic coding	lossless compression
@@ -5207,6 +5297,7 @@ dynamic markov compression	arithmetic coding
 fractional factorial design	factorial experiment
 sparsity of effects principle	factorial experiment
 exponential factorial	fractional factorial design
+lagrange s four square theorem	lagrange s theorem
 cheque truncation	cheque
 cheque truncation	payment
 substitute check	cheque
@@ -5291,10 +5382,12 @@ friaco	internet appliance
 internet exchange point	internet transit
 rest	non inertial reference frame
 terrain awareness and warning system	controlled flight into terrain
+terrain awareness and warning system	ground proximity warning system
 graphic communication	graphic design
 motion graphic design	graphic design
 biotic ethics	environmental health ethics
 biotic ethics	ethics of technology
+tandem pore domain potassium channel	kcsa potassium channel
 3d single object recognition	cognitive neuroscience of visual object recognition
 dynamic link matching	cognitive neuroscience of visual object recognition
 dynamic link matching	facial recognition system
@@ -5326,6 +5419,7 @@ circumstellar habitable zone	planetary system
 circumstellar habitable zone	exoplanet
 planetary migration	planetary system
 planetary migration	exoplanet
+debris disk	planetary system
 transit timing variation	planetary system
 transit timing variation	exoplanet
 rogue planet	planetary system
@@ -5451,6 +5545,7 @@ chthonian planet	planetary mass
 chthonian planet	giant planet
 pebble accretion	planetary migration
 pebble accretion	gas giant
+fomalhaut	debris disk
 mesoplanet	rogue planet
 mesoplanet	kepler 69c
 desert planet	rogue planet
@@ -5486,6 +5581,9 @@ speckle masking	speckle imaging
 speckle masking	electronic speckle pattern interferometry
 speckle masking	speckle noise
 lucky imaging	speckle imaging
+2b1q	line code
+2b1q	transceiver
+4b3t	2b1q
 protective relay	relay
 open mail relay	relay
 open mail relay	the internet
@@ -5501,6 +5599,10 @@ relay attack	authentication
 open contact	relay
 link access procedure for frame relay	relay channel
 distance bounding protocol	relay attack
+attempto controlled english	controlled natural language
+step detection	pattern recognition
+step detection	artificial intelligence
+step detection	computer vision
 anomaly detection	pattern recognition
 anomaly detection	artificial intelligence
 anomaly detection	machine learning
@@ -5689,12 +5791,18 @@ class variable	artificial intelligence
 class variable	machine learning
 false positive rate	pattern recognition
 false positive rate	artificial intelligence
+discriminative model	pattern recognition
+discriminative model	artificial intelligence
+discriminative model	machine learning
 text segmentation	pattern recognition
 text segmentation	artificial intelligence
 text segmentation	natural language processing
 classification rule	pattern recognition
 classification rule	artificial intelligence
 classification rule	machine learning
+salience	pattern recognition
+salience	artificial intelligence
+salience	computer vision
 karhunen loeve theorem	pattern recognition
 karhunen loeve theorem	artificial intelligence
 statistical classification	pattern recognition
@@ -5974,6 +6082,7 @@ elastic matching	machine learning
 recognition speech	pattern recognition
 recognition speech	artificial intelligence
 recognition speech	speech recognition
+pedometer device	step detection
 pedometer device	pedometer
 anomaly based intrusion detection system	anomaly detection
 anomaly based intrusion detection system	intrusion detection system
@@ -6000,6 +6109,8 @@ histogram of oriented gradients	feature extraction
 one class classification	support vector machine
 hinge loss	support vector machine
 decision boundary	support vector machine
+quadratic classifier	support vector machine
+quadratic classifier	classifier
 logitboost	support vector machine
 logitboost	boosting
 logitboost	adaboost
@@ -6056,6 +6167,7 @@ platt scaling	random forest
 platt scaling	probabilistic logic
 statistical learning theory	support vector machine
 margin infused relaxed algorithm	support vector machine
+margin infused relaxed algorithm	discriminative model
 margin infused relaxed algorithm	conditional random field
 image spam	bag of words model
 image spam	filter
@@ -6181,6 +6293,9 @@ indowordnet	machine translation
 word sense induction	word sense disambiguation
 word sense induction	semeval
 word sense induction	cluster analysis
+bayes classifier	naive bayes classifier
+bayes classifier	classifier
+bayes classifier	bayes theorem
 probabilistic classification	naive bayes classifier
 probabilistic classification	classifier
 probabilistic classification	probabilistic logic
@@ -6274,6 +6389,7 @@ mercer s theorem	kernel
 mercer s theorem	operator
 compute kernel	kernel
 richardson s theorem	kernel
+saliency map	salience
 proximity problems	k nearest neighbors algorithm
 proximity problems	computational geometry
 nearest neighbor search	k nearest neighbors algorithm
@@ -6287,6 +6403,8 @@ sparse image	sparse approximation
 sparse image	compressed sensing
 sparse image	iterative reconstruction
 k svd	sparse approximation
+level set method	image segmentation
+level set method	level set
 ecognition	image segmentation
 markov random field	image segmentation
 markov random field	markov chain
@@ -6351,6 +6469,7 @@ application delivery controller	load balancing
 application delivery controller	server
 network load balancing	round robin dns
 network load balancing	network load balancing services
+pedestrian road crossing	pedestrian crossing
 nichols plot	quantitative feedback theory
 skip counting	subtraction
 covariance and contravariance	subtyping
@@ -6359,6 +6478,7 @@ method overriding	subtyping
 method overriding	object oriented programming
 method overriding	java
 margin	margin classifier
+margin	quadratic classifier
 transport layer	network packet
 forwarding plane	network packet
 unicast	network packet
@@ -6388,6 +6508,9 @@ network processor	network packet
 circuit emulation service	network packet
 core router	network packet
 core router	router
+virtual extensible lan	network packet
+virtual extensible lan	extensibility
+virtual extensible lan	local area network
 goodput	network packet
 goodput	wireless
 goodput	throughput
@@ -6411,6 +6534,11 @@ broadcast radiation	network packet
 broadcast radiation	wireless
 broadcast radiation	broadcasting
 broadcast radiation	channel
+hybrid automatic repeat request	network packet
+hybrid automatic repeat request	wireless
+hybrid automatic repeat request	throughput
+hybrid automatic repeat request	channel
+network switch	network packet
 packet forwarding	network packet
 maximum transmission unit	network packet
 gateway address	network packet
@@ -6464,6 +6592,7 @@ capture effect	throughput
 capture effect	channel
 network congestion	network packet
 network traffic control	network packet
+deep packet inspection	network packet
 wan optimization	network packet
 wan optimization	cloud computing
 traffic flow	network packet
@@ -6586,6 +6715,7 @@ voice call continuity	handover
 virtual router redundancy protocol	core router
 virtual router redundancy protocol	one armed router
 virtual router redundancy protocol	internet protocol
+network virtualization using generic routing encapsulation	virtual extensible lan
 private vlan	vlan access control list
 avaya simple loop prevention protocol	vlan access control list
 burst switching	transmission delay
@@ -6593,6 +6723,7 @@ ring latency	transmission delay
 ring latency	fiber distributed data interface
 ring latency	token ring
 ring latency	ring network
+ring latency	token passing
 virtual output queues	packet switching
 talkspurt	packet switching
 datapac	packet switching
@@ -6605,8 +6736,10 @@ global broadcast service	broadcast radiation
 global broadcast service	broadcast communication network
 global broadcast service	multimedia broadcast multicast service
 global broadcast service	atomic broadcast
+selective repeat arq	hybrid automatic repeat request
 selective repeat arq	automatic repeat request
 selective repeat arq	retransmission
+multilayer switch	network switch
 npiv	port mirroring
 npiv	port triggering
 computer port	port mirroring
@@ -6628,6 +6761,7 @@ quic	network congestion
 decbit	network congestion
 available bit rate	network congestion
 data center bridging	network congestion
+deep content inspection	deep packet inspection
 mobile slotted aloha	aloha
 mobile slotted aloha	fading
 carrier sense multiple access with collision detection	carrier sense multiple access
@@ -6788,6 +6922,7 @@ composite structure diagram	class diagram
 requirement diagram	sequence diagram
 turing jump	turing degree
 probabilistic analysis of algorithms	probabilistic logic
+probabilistic method	probabilistic logic
 probabilistic risk assessment	probabilistic logic
 probabilistic risk assessment	risk assessment
 subjective logic	probabilistic logic
@@ -6824,6 +6959,7 @@ randomized algorithms as zero sum games	probabilistic analysis of algorithms
 probabilistic ctl	probabilistic analysis of algorithms
 probabilistic relevance model	probabilistic analysis of algorithms
 divergence from randomness model	probabilistic analysis of algorithms
+algorithmic lovasz local lemma	probabilistic method
 core damage frequency	probabilistic risk assessment
 sonority sequencing principle	consonant cluster
 quel query languages	nested set model
@@ -6853,6 +6989,7 @@ gradient noise	noise reduction
 gradient noise	noise floor
 hartley s test	brown forsythe test
 sparclite	embedded software
+sparclite	application software
 dssim	semantic integration
 ontology merging	semantic integration
 ontology merging	owl s
@@ -6867,6 +7004,7 @@ neutrodyne	tuned radio frequency receiver
 sicortex	infiniband
 sicortex	computer cluster
 sicortex	supercomputer
+gsp algorithm	apriori algorithm
 portable executable	executable
 portable executable	malware
 dynamic recompilation	executable
@@ -6876,6 +7014,7 @@ meta iv	executable
 meta iv	semantics
 meta iv	compiler
 meta iv	software
+colombian slider	trachemys
 astroinformatics	data science
 astroinformatics	data mining
 analytics	data science
@@ -6907,6 +7046,7 @@ article level metrics	altmetrics
 article level metrics	citation
 contrast resolution	image resolution
 contrast resolution	image quality
+superresolution	image resolution
 2k resolution	image resolution
 2k resolution	pixel
 ground sample distance	image resolution
@@ -6915,6 +7055,7 @@ foveated imaging	image resolution
 foveated imaging	field of view
 siemens star	image resolution
 siemens star	optical transfer function
+superoscillation	superresolution
 undocumented feature	user analysis
 undocumented feature	software design
 undocumented feature	software construction
@@ -6973,6 +7114,7 @@ forking lemma	discrete logarithm
 forking lemma	provable security
 forking lemma	ring signature
 forking lemma	random oracle
+rematerialization	register allocation
 ionospheric reflection	ionospheric heater
 ionospheric reflection	ionospheric absorption
 sudden ionospheric disturbance	ionospheric heater
@@ -7163,6 +7305,10 @@ compositing window manager	windows vista
 compositing window manager	shell
 bitlocker	windows vista
 bitlocker	disk encryption
+inference engine	inference
+inference engine	fuzzy logic
+inference engine	knowledge base
+inference engine	expert system
 network tomography	inference
 network tomography	network topology
 modus ponens	inference
@@ -7172,6 +7318,7 @@ carroll s paradox	inference
 indian buffet process	inference
 indian buffet process	bayesian probability
 enumerative induction	inference
+enumerative induction	inductive reasoning
 approximate bayesian computation	inference
 approximate bayesian computation	bayesian probability
 inference attack	inference
@@ -7184,6 +7331,7 @@ dirichlet process	inference
 dirichlet process	mixture model
 dirichlet process	cluster analysis
 dirichlet process	bayesian probability
+backward chaining	inference engine
 modus tollens	modus ponens
 pitman yor process	dirichlet process
 dependent dirichlet process	dirichlet process
@@ -7239,6 +7387,8 @@ emc invista	object storage
 option type	algebraic data type
 option type	recursive data type
 nominal type system	option type
+nominal type system	generalized algebraic data type
+nominal type system	void type
 generative topographic map	generative model
 multiscale geometric analysis	contourlet
 lob s theorem	godel s incompleteness theorems
@@ -7258,7 +7408,11 @@ requirement prioritization	software construction
 requirement prioritization	business requirements
 traceability matrix	requirements management
 traceability matrix	requirement
+the emotional intelligence appraisal	human intelligence
+triarchic theory of intelligence	human intelligence
 intelligence assessment	human intelligence
+mayer salovey caruso emotional intelligence test	the emotional intelligence appraisal
+three stratum theory	triarchic theory of intelligence
 max 3sat	sat
 p complete	sat
 p complete	computational complexity theory
@@ -7654,8 +7808,10 @@ juniper j series	policy based routing
 juniper j series	optical ip switching
 military medical ethics	information ethics
 applied ethics	information ethics
+machine ethics	applied ethics
 environmental health ethics	applied ethics
 ethics in religion	applied ethics
+computer ethics	applied ethics
 ethics of technology	applied ethics
 descriptive ethics	applied ethics
 ethics of justice	applied ethics
@@ -7679,6 +7835,7 @@ cutting plane method	linear programming
 cutting plane method	integer programming
 branch and price	linear programming
 branch and price	integer programming
+basic solution	linear programming
 lp type problem	linear programming
 lp type problem	optimization problem
 simplex algorithm	linear programming
@@ -7720,6 +7877,7 @@ continuum	injective metric space
 continuum	convex metric space
 metric map	injective metric space
 metric map	convex metric space
+edge preserving smoothing	bilateral filter
 persistent uniform resource locator	web resource
 persistent uniform resource locator	uniform resource locator
 persistent uniform resource locator	the internet
@@ -7731,6 +7889,7 @@ ethernet crossover cable	ethernet over sdh
 ethernet in the first mile	metro ethernet
 ethernet in the first mile	passive optical network
 terabit ethernet	metro ethernet
+terabit ethernet	terabit
 objvlisp	metaclass
 objvlisp	smalltalk
 bluetooth stack	openzfs
@@ -7762,6 +7921,7 @@ inotify	openzfs
 inotify	squashfs
 kerr lens modelocking	saturable absorption
 kerr lens modelocking	mode locking
+kerr lens modelocking	q switching
 kerr lens modelocking	fiber laser
 stochastic geometry models of wireless networks	ad hoc wireless distribution service
 stochastic geometry models of wireless networks	radio resource management
@@ -7771,6 +7931,7 @@ multiple access with collision avoidance for wireless	wi fi array
 mmarp	ad hoc wireless distribution service
 mmarp	inter domain
 mmarp	ip multicast
+micro stuttering	inter frame
 micro stuttering	residual frame
 micro stuttering	video compression picture types
 micro stuttering	low bit
@@ -7832,6 +7993,7 @@ relativistic programming	synchronization
 relativistic programming	scalability
 relativistic programming	concurrency
 relativistic programming	data structure
+european terrestrial reference system 1989	fundamental station
 multi band excitation	code excited linear prediction
 multi band excitation	codec2
 multi band excitation	psqm
@@ -7849,14 +8011,20 @@ normal wishart distribution	multivariate analysis of variance
 normal wishart distribution	multivariate normal distribution
 normal wishart distribution	wishart distribution
 variance inflation factor	multivariate analysis of variance
+variance inflation factor	multicollinearity
+variance inflation factor	one way analysis of variance
+multivariate t distribution	multivariate analysis of variance
+multivariate t distribution	multivariate normal distribution
 multivariate behrens fisher problem	multivariate analysis of variance
 multivariate behrens fisher problem	multivariate normal distribution
 split normal distribution	normal wishart distribution
+split normal distribution	elliptical distribution
 split normal distribution	matrix normal distribution
 inverse wishart distribution	normal wishart distribution
 multivariate stable distribution	normal wishart distribution
 hotelling s t squared distribution	normal wishart distribution
 multivariate gamma function	normal wishart distribution
+multivariate gamma function	multivariate t distribution
 multivariate gamma function	matrix normal distribution
 matrix gamma distribution	normal wishart distribution
 matrix gamma distribution	matrix normal distribution
@@ -7880,6 +8048,7 @@ zero insertion force	cable gland
 zero insertion force	printed circuit board
 mating plug	cable gland
 low insertion force	cable gland
+cable harness	cable gland
 ribbon cable	cable gland
 din 41612	cable gland
 ferrule	cable gland
@@ -7910,6 +8079,7 @@ xlr connector	cable gland
 patch cable	cable gland
 din connector	cable gland
 bnc connector	cable gland
+fanout cable	cable harness
 intelligent decision support system	decision support system
 clinical decision support system	decision support system
 business decision mapping	decision support system
@@ -7958,12 +8128,17 @@ meat curry	curry
 knowledge based theory of the firm	knowledge value chain
 knowledge value	knowledge value chain
 knowledge market	knowledge value chain
+sp devs	devs
+finite deterministic discrete event system specification	sp devs
+kingpin	trailer
 trailer skirt	trailer
+scrub radius	kingpin
 articulated body pose estimation	3d pose estimation
 contention ratio	wimax
 ultra mobile broadband	wimax
 signed distance function	level set
 level set	signed distance function
+level set	level set method
 level set	artificial intelligence
 level set	computer vision
 local regression	polynomial regression
@@ -7984,6 +8159,7 @@ standard business reporting	business reporting
 linearizability	correctness
 hoare logic	correctness
 postcondition	correctness
+postcondition	precondition
 logic for computable functions	correctness
 logic for computable functions	semantics
 logic for computable functions	recursion
@@ -8118,6 +8294,7 @@ gtd 5 eax	telephone switchboard
 gtd 5 eax	class 4 telephone switch
 organizational engineering	organizational behavior and human resources
 organizational engineering	organizational effectiveness
+organizational engineering	organizational studies
 organizational behavior management	organizational behavior and human resources
 organizational behavior management	organizational effectiveness
 counterproductive work behavior	organizational citizenship behavior
@@ -8430,6 +8607,7 @@ bitmap index	search engine indexing
 bitmap index	bitmap
 bitmap index	data warehouse
 inverted index	search engine indexing
+latent semantic indexing	search engine indexing
 enhanced indexing	search engine indexing
 proximity search	search engine indexing
 proximity search	search engine
@@ -8449,6 +8627,7 @@ multimedia information retrieval	human computer information retrieval
 anchor text	search engine
 anchor text	web page
 full text search	search engine
+database search engine	search engine
 keyword density	search engine
 click path	search engine
 click path	web page
@@ -8504,6 +8683,8 @@ sort merge join	relational database
 correlated subquery	query optimization
 correlated subquery	row
 correlated subquery	sql
+text graph	automatic summarization
+text graph	text mining
 multi document summarization	automatic summarization
 multi document summarization	sentence
 sentence extraction	automatic summarization
@@ -8645,12 +8826,14 @@ cyber security standards	security information and event management
 federal information security management act of 2002	security information and event management
 security event manager	security information and event management
 managed security service	security information and event management
+cyclodisparity	cyclovergence
 carriage return	carriage
 cmr convention	carriage
 hague rules	carriage
 rotterdam rules	carriage
 hamburg rules	rotterdam rules
 hague visby rules	rotterdam rules
+logic bomb	computer virus
 logic bomb	malware
 logic bomb	software
 terminal node controller	fast packet switching
@@ -8726,7 +8909,9 @@ medical scribe	documentation
 documentation procedure	documentation
 user analysis	technical documentation
 darwin information typing architecture	technical documentation
+ethics of artificial intelligence	machine ethics
 ethics of artificial intelligence	roboethics
+ten commandments of computer ethics	computer ethics
 bucky potter grid	x ray image intensifier
 dolichodial	argentine ant
 pseudoscope	stereoscope
@@ -8761,7 +8946,11 @@ carbon detonation	chandrasekhar limit
 chandrasekhar equation	chandrasekhar limit
 subdwarf b star	subdwarf
 thermal time scale	roche lobe
+broadcast law	commercial broadcasting
+broadcast law	digital broadcasting
+broadcast law	radio broadcasting
 television director	commercial broadcasting
+backhaul	broadcast law
 backhaul	wireless
 backhaul	broadcast television systems
 backhaul	terrestrial television
@@ -8804,6 +8993,7 @@ holographic versatile disc	computer data storage
 holographic versatile disc	servo
 holographic versatile disc	optical disc
 holographic versatile disc	3d optical data storage
+iscsi	computer data storage
 volume table of contents	computer data storage
 logical unit number	computer data storage
 optical jukebox	computer data storage
@@ -8818,6 +9008,7 @@ standard raid levels	disk array controller
 fibre channel zoning	storage area network
 fibre channel zoning	fibre channel switch
 hyperscsi	storage area network
+hyperscsi	iscsi
 hyperscsi	internet protocol suite
 world wide name	storage area network
 network attached storage	storage area network
@@ -8942,6 +9133,7 @@ bcmp network	mean value analysis
 arrival theorem	mean value analysis
 ragdoll physics	video game graphics
 ragdoll physics	turns rounds and time keeping systems in games
+yellow hypergiant	blue supergiant
 yellow hypergiant	red supergiant
 yellow hypergiant	luminous blue variable
 z notation	language of temporal ordering specification
@@ -9059,16 +9251,20 @@ service level agreement	service provider
 data distribution service	quality of service
 data distribution service	middleware
 admission control	quality of service
+network calculus	quality of service
+network calculus	scheduling
 cisco catalyst	quality of service
 cisco catalyst	virtual lan
 quality of experience	quality of service
 policy based management	quality of service
 policy based management	network management
+avionics full duplex switched ethernet	network calculus
 dynamic adaptive streaming over http	quality of experience
 tape hiss	helical scan
 tape hiss	tape head
 reel to reel audio tape recording	helical scan
 reel to reel audio tape recording	tape head
+fusional language	grammatical number
 double negation	negation
 de morgan s laws	negation
 polarity item	negation
@@ -9199,6 +9395,7 @@ atm adaptation layer 2	multiplexing
 atm adaptation layer 5	atm adaptation layer
 maximum entropy thermodynamics	joint quantum entropy
 entropy rate	joint quantum entropy
+entropy rate	maximum entropy probability distribution
 wehrl entropy	joint quantum entropy
 transfer entropy	joint quantum entropy
 entropy power inequality	maximum entropy thermodynamics
@@ -9236,6 +9433,7 @@ self information	transfer entropy
 event related optical signal	optical imaging
 diffuse optical imaging	optical imaging
 diffuse optical imaging	iterative reconstruction
+display postscript	encapsulated postscript
 equivalence partitioning	test case
 system under test	test case
 test suite	test case
@@ -9392,11 +9590,14 @@ synonym	object
 common language infrastructure	object code
 slepian wolf coding	distributed source coding
 design marker	javadoc
+pluribus	unum
 space rendezvous	rendezvous
 rendezvous problem	rendezvous
 earth orbit rendezvous	space rendezvous
 event driven finite state machine	extended finite state machine
 event driven finite state machine	virtual finite state machine
+x machine	extended finite state machine
+x machine	virtual finite state machine
 richards controller	extended finite state machine
 richards controller	abstract state machines
 richards controller	virtual finite state machine
@@ -9415,6 +9616,8 @@ dot gain	halftone
 contone	halftone
 optical head mounted display	virtual reality
 metaverse	virtual reality
+vrml	virtual reality
+vrml	the internet
 immersive technology	virtual reality
 immersive technology	immersion
 wired glove	virtual reality
@@ -9448,6 +9651,7 @@ surgery simulator	virtual reality
 surgery simulator	haptic technology
 virtual training	virtual reality
 virtual goods	metaverse
+x3d	vrml
 virtual reality sickness	simulator sickness
 structural complexity theory	complexity class
 boolean hierarchy	complexity class
@@ -9474,6 +9678,7 @@ low	structural complexity theory
 low	random oracle
 low	game complexity
 line echo wave pattern	bow echo
+line echo wave pattern	bounded weak echo region
 principal curvature based region detector	scale invariant feature transform
 principal curvature based region detector	feature detection
 principal curvature based region detector	feature
@@ -9532,6 +9737,7 @@ semantic service oriented architecture	service oriented architecture
 semantic service oriented architecture	software architecture
 semantic service oriented architecture	ontology
 document term matrix	semantic computing
+document term matrix	latent semantic indexing
 semantic p2p networks	semantic computing
 semantic p2p networks	ontology
 semantic neural network	semantic computing
@@ -9630,6 +9836,7 @@ numeric character reference	unicode font
 wide character	unicode font
 wide character	null character
 complex text layout	opentype
+polling system	polling
 polling system	queueing theory
 polling system	queue
 known plaintext attack	ciphertext
@@ -9673,6 +9880,7 @@ ciphertext expansion	56 bit encryption
 ciphertext expansion	deterministic encryption
 ciphertext expansion	symmetric key algorithm
 ciphertext expansion	cryptosystem
+trustee model of representation	delegate
 closure	closure operator
 closure	programming language
 autocommit	log shipping
@@ -9770,6 +9978,7 @@ augmented transition network	rule based machine translation
 augmented transition network	parsing
 augmented transition network	natural language
 empty category	syntax
+locative case	syntax
 ergative case	syntax
 semantic property	syntax
 semantic property	semantics
@@ -9905,6 +10114,8 @@ subject verb object	verb
 subject verb object	sentence
 theta role	syntax
 theta role	verb
+unaccusative verb	syntax
+unaccusative verb	verb
 defective verb	syntax
 defective verb	verb
 thai grammar	syntax
@@ -10042,6 +10253,7 @@ genitive construction	genitive case
 genitive absolute	genitive case
 english possessive	genitive case
 allative case	dative case
+allative case	locative case
 double dative	dative case
 quirky subject	dative case
 quirky subject	nominative case
@@ -10056,6 +10268,7 @@ lalr parser	parser combinator
 compiler compiler	top down parsing
 compiler compiler	parser combinator
 compiler compiler	attribute grammar
+compiler compiler	compiler construction
 chart parser	top down parsing
 chart parser	parser combinator
 syntax error	abstract syntax tree
@@ -10124,6 +10337,7 @@ english relative clauses	relative clause
 nonfinite verb	finite verb
 garden path sentence	garden path
 paragrammatism	agrammatism
+unergative verb	unaccusative verb
 unergative verb	modal verb
 comitative case	adverbial
 absolute construction	adverbial
@@ -10256,6 +10470,8 @@ airspace class	national airspace system
 ccie certification	troubleshooting
 state machine replication	fault tolerance
 state machine replication	finite state machine
+software fault tolerance	fault tolerance
+software fault tolerance	software
 paxos	fault tolerance
 self stabilization	fault tolerance
 self stabilization	distributed algorithm
@@ -10275,6 +10491,7 @@ error tolerant design	error detection and correction
 time triggered architecture	fault tolerance
 system fault tolerance	fault tolerance
 fault tolerant computer system	fault tolerance
+general protection fault	software fault tolerance
 general protection fault	fault injection
 superstabilization	self stabilization
 quantum byzantine agreement	byzantine fault tolerance
@@ -10427,6 +10644,7 @@ enterprise service bus	service oriented architecture
 solution stack	service oriented architecture
 ws management	service oriented architecture
 service choreography	service oriented architecture
+event driven architecture	service oriented architecture
 service component architecture	service oriented architecture
 web mapping	web navigation
 web mapping	web development
@@ -10544,6 +10762,10 @@ air data inertial reference unit	flight inspection
 air data inertial reference unit	flight control modes
 air data inertial reference unit	flight envelope protection
 visual meteorological conditions	flight inspection
+intersection	flight inspection
+intersection	theoretical computer science
+bayes error rate	bayes estimator
+bayes error rate	bayes classifier
 loop nest optimization	loop fission
 loop splitting	loop fission
 loop splitting	loop fusion
@@ -10557,6 +10779,7 @@ do while loop	loop fusion
 conditional loop	do while loop
 off by one error	do while loop
 loop variant	do while loop
+directory traversal attack	webserver directory index
 directory traversal attack	unix file types
 directory traversal attack	directory information tree
 ground dipole	dipole antenna
@@ -10807,6 +11030,7 @@ concrete security	provable security
 decisional diffie hellman assumption	provable security
 computational diffie hellman assumption	provable security
 computational diffie hellman assumption	random oracle
+radix sort	sorting algorithm
 merge sort	sorting algorithm
 merge sort	hybrid algorithm
 comb sort	sorting algorithm
@@ -10818,6 +11042,7 @@ counting sort	sorting algorithm
 counting sort	hybrid algorithm
 bubble sort	sorting algorithm
 odd even sort	sorting algorithm
+merge algorithm	sorting algorithm
 external sorting	sorting algorithm
 sorted array	sorting algorithm
 burstsort	sorting algorithm
@@ -11014,6 +11239,7 @@ airborne ground surveillance	radar tracker
 programmed input output	direct memory access
 programmed input output	data transmission
 programmed input output	channel
+buss perry aggression questionnaire	verbal aggression
 sgml	streaming xml
 sgml	xml schema editor
 sgml	xml framework
@@ -11185,11 +11411,13 @@ discretionary access control	physical access
 separation of duties	role based access control
 privilege management infrastructure	role based access control
 role hierarchy	role based access control
+mandatory access control	role based access control
 attribute based access control	role based access control
 attribute based access control	computer access control
 extended access control	discretionary access control
 extended access control	network access control
 lattice based access control	discretionary access control
+linux security modules	mandatory access control
 treemapping	hierarchical database model
 treemapping	visualization
 term discrimination	divergence from randomness model
@@ -11212,6 +11440,7 @@ java message service	middleware
 java message service	message queue
 java message service	java
 application interface specification	middleware
+application interface specification	high availability
 hyetograph	runoff model
 vflo	runoff model
 vflo	runoff curve number
@@ -11379,7 +11608,9 @@ adaptive equalizer	equalization
 blind equalization	equalizer
 blind equalization	equalization
 barabasi albert model	degree distribution
+barabasi albert model	preferential attachment
 barabasi albert model	clustering coefficient
+barabasi albert model	scale free network
 assortative mixing	degree distribution
 assortative mixing	assortativity
 game semantics	formal semantics
@@ -11418,6 +11649,9 @@ mesocyclone	supercell
 mesocyclone	doppler radar
 tornadogenesis	supercell
 tornado myths	supercell
+bounded weak echo region	supercell
+bounded weak echo region	doppler radar
+bounded weak echo region	weather radar
 tornado climatology	supercell
 tornado outbreak sequence	satellite tornado
 tornado outbreak sequence	tornado myths
@@ -11678,6 +11912,7 @@ preservation metadata	digital preservation
 preservation metadata	metadata
 analog hole	digital content
 analog hole	digital rights management
+whiteboarding	whiteboard
 hstcp	tcp acceleration
 hstcp	tcp tuning
 hstcp	zeta tcp
@@ -11812,6 +12047,7 @@ petascale computing	scalability
 petascale computing	supercomputer
 query throughput	scalability
 query throughput	throughput
+single system image	scalability
 distributed data flow	scalability
 distributed data flow	data flow diagram
 transactions per second	scalability
@@ -11839,6 +12075,7 @@ network abstraction layer	scalable video coding
 network abstraction layer	bitstream
 video coding format	scalable video coding
 video coding format	multiview video coding
+kerrighed	single system image
 chord	distributed hash table
 mean time to repair	mean time between failures
 maintenance free operating period	mean time between failures
@@ -11879,6 +12116,7 @@ enterprise distributed object computing	business architecture
 enterprise distributed object computing	business process modeling
 enterprise data modeling	enterprise data management
 enterprise information management	enterprise data management
+enterprise information management	digital firm
 natural evolution strategy	evolution strategy
 cma es	evolution strategy
 gaussian adaptation	evolution strategy
@@ -11948,7 +12186,12 @@ cog	artificial intelligence
 frame problem	artificial intelligence
 machine vision	artificial intelligence
 machine vision	computer vision
+software agent	artificial intelligence
+software agent	operating system
+software agent	distributed computing
 deontic logic	artificial intelligence
+gene expression programming	artificial intelligence
+gene expression programming	machine learning
 geometric shape	artificial intelligence
 regularization	artificial intelligence
 genetic algorithm	artificial intelligence
@@ -11984,6 +12227,8 @@ concatenation	artificial intelligence
 concatenation	programming language
 pulp magazine	artificial intelligence
 basis	artificial intelligence
+perspective	artificial intelligence
+perspective	computer vision
 portable network graphics	artificial intelligence
 portable network graphics	computer vision
 portable network graphics	world wide web
@@ -12024,6 +12269,8 @@ interpolation	artificial intelligence
 interpolation	multivariate interpolation
 interpolation	spline interpolation
 interpolation	image scaling
+image intensifier	artificial intelligence
+image intensifier	computer vision
 fast marching method	artificial intelligence
 fast marching method	computer vision
 gamma correction	artificial intelligence
@@ -12061,6 +12308,8 @@ patient registration	computer vision
 data point	artificial intelligence
 teaching dimension	artificial intelligence
 teaching dimension	machine learning
+inductive reasoning	artificial intelligence
+inductive reasoning	machine learning
 coco	artificial intelligence
 mind machine	artificial intelligence
 situation calculus	artificial intelligence
@@ -12095,6 +12344,8 @@ spatial relation	artificial intelligence
 the purpose of a system is what it does	artificial intelligence
 coreference	artificial intelligence
 coreference	natural language processing
+biological network	artificial intelligence
+biological network	machine learning
 mechatronics	artificial intelligence
 quantization	artificial intelligence
 quantization	image compression
@@ -12115,6 +12366,7 @@ overscan	artificial intelligence
 overscan	computer hardware
 map extent	artificial intelligence
 gradation	artificial intelligence
+domain theory	artificial intelligence
 biconditional elimination	artificial intelligence
 picture plane	artificial intelligence
 picture plane	computer vision
@@ -12448,6 +12700,7 @@ data cube	database
 data compression	artificial intelligence
 data compression	computer vision
 behavioral modeling	artificial intelligence
+extrasensory perception	artificial intelligence
 inertial measurement unit	artificial intelligence
 inertial measurement unit	computer vision
 afterimage	artificial intelligence
@@ -12485,6 +12738,8 @@ magic	artificial intelligence
 magic	programming language
 kanji	artificial intelligence
 kanji	speech recognition
+qualitative reasoning	artificial intelligence
+qualitative reasoning	machine learning
 triangulation	artificial intelligence
 triangulation	triangulation
 triangulation	minimum weight triangulation
@@ -12518,6 +12773,7 @@ function tree	artificial intelligence
 property	artificial intelligence
 property	computer vision
 property	programming language
+property	tangible property
 advanced driver assistance systems	artificial intelligence
 advanced driver assistance systems	simulation
 remus	artificial intelligence
@@ -12543,6 +12799,7 @@ multidimensional scaling	artificial intelligence
 multidimensional scaling	machine learning
 formics	artificial intelligence
 blaster	artificial intelligence
+value of information	artificial intelligence
 domain model	artificial intelligence
 domain model	database
 optical imaging	artificial intelligence
@@ -12565,6 +12822,9 @@ interlacing	artificial intelligence
 interlacing	computer vision
 interlacing	operating system
 path integration	artificial intelligence
+entity linking	artificial intelligence
+entity linking	data mining
+entity linking	natural language processing
 reactive planning	artificial intelligence
 reactive planning	simulation
 deductive reasoning	artificial intelligence
@@ -12619,6 +12879,8 @@ autofocus	computer vision
 video quality	artificial intelligence
 video quality	real time computing
 video quality	computer network
+geometric modeling	artificial intelligence
+geometric modeling	computer vision
 starship	artificial intelligence
 color coding	artificial intelligence
 color coding	computer vision
@@ -12695,8 +12957,12 @@ viewfinder	artificial intelligence
 viewfinder	computer vision
 soft sensor	artificial intelligence
 soft sensor	machine learning
+combinatorial explosion	artificial intelligence
 kohler illumination	artificial intelligence
 simulated reality	artificial intelligence
+external data representation	artificial intelligence
+external data representation	data mining
+external data representation	machine learning
 fast mapping	artificial intelligence
 boundary representation	artificial intelligence
 boundary representation	computer vision
@@ -12810,6 +13076,8 @@ compositing	computer vision
 compositing	computer graphics images
 tierra	artificial intelligence
 copycat	artificial intelligence
+eyepiece	artificial intelligence
+eyepiece	computer vision
 machine	artificial intelligence
 functional near infrared spectroscopy	artificial intelligence
 image map	artificial intelligence
@@ -13255,6 +13523,8 @@ association rule learning	data mining
 association rule learning	machine learning
 structured light	artificial intelligence
 structured light	computer vision
+lightness	artificial intelligence
+lightness	computer vision
 active vision	artificial intelligence
 active vision	computer vision
 spatial reference system	artificial intelligence
@@ -13296,6 +13566,7 @@ jpeg	computer vision
 jpeg	theoretical computer science
 systemics	artificial intelligence
 self replication	artificial intelligence
+constraint satisfaction problem	artificial intelligence
 vision science	artificial intelligence
 vision science	computer vision
 visual angle	artificial intelligence
@@ -13336,6 +13607,8 @@ numeral system	artificial intelligence
 parallel universe	artificial intelligence
 onomasiology	artificial intelligence
 onomasiology	natural language processing
+latent image	artificial intelligence
+latent image	computer vision
 image resolution	artificial intelligence
 image resolution	computer vision
 neuroinformatics	artificial intelligence
@@ -13384,6 +13657,9 @@ sonar	computer vision
 information and computer science	artificial intelligence
 information and computer science	library science
 cartographic labeling	artificial intelligence
+recommender system	artificial intelligence
+recommender system	data mining
+recommender system	machine learning
 autonomic computing	artificial intelligence
 autonomic computing	real time computing
 autonomic computing	distributed computing
@@ -13477,6 +13753,8 @@ phrase	artificial intelligence
 texas hold em	artificial intelligence
 texas hold em	simulation
 texas hold em	machine learning
+spoken language	artificial intelligence
+spoken language	natural language processing
 zero player game	artificial intelligence
 zero player game	algorithm
 godel machine	artificial intelligence
@@ -13571,6 +13849,9 @@ forms processing	computer vision
 forms processing	machine learning
 mental lexicon	artificial intelligence
 mental lexicon	natural language processing
+image editing	artificial intelligence
+image editing	computer vision
+image editing	computer graphics images
 simplexity	artificial intelligence
 constellation model	artificial intelligence
 constellation model	computer vision
@@ -13819,6 +14100,8 @@ brown corpus	natural language processing
 general purpose language	artificial intelligence
 general purpose language	theoretical computer science
 general purpose language	programming language
+zoom lens	artificial intelligence
+zoom lens	computer vision
 literal translation	artificial intelligence
 imsr	artificial intelligence
 wiggle stereoscopy	artificial intelligence
@@ -13888,6 +14171,8 @@ robotics suite	artificial intelligence
 robotics suite	operating system
 environmental informatics	artificial intelligence
 elementary sentence	artificial intelligence
+camera lens	artificial intelligence
+camera lens	computer vision
 ostwald color system	artificial intelligence
 ostwald color system	computer vision
 ostwald color system	computer graphics images
@@ -14055,6 +14340,7 @@ rebracketing	artificial intelligence
 rebracketing	natural language processing
 remote camera	artificial intelligence
 remote camera	computer vision
+logical form	artificial intelligence
 instantaneously trained neural networks	artificial intelligence
 instantaneously trained neural networks	machine learning
 sound recognition	artificial intelligence
@@ -14259,6 +14545,8 @@ automated mathematician	machine learning
 grammeme	artificial intelligence
 grammeme	natural language processing
 tribble	artificial intelligence
+digital camera	artificial intelligence
+digital camera	computer vision
 human enhancement	artificial intelligence
 robot fish	artificial intelligence
 subplot	artificial intelligence
@@ -14292,6 +14580,9 @@ english conditional sentences	artificial intelligence
 english conditional sentences	natural language processing
 target action	artificial intelligence
 target action	programming language
+graphics processing unit	artificial intelligence
+graphics processing unit	computer vision
+graphics processing unit	parallel computing
 adaptive representation	artificial intelligence
 adaptive representation	computer vision
 adaptive representation	machine learning
@@ -14720,6 +15011,7 @@ variable frame rate	frame rate
 scatterplot smoothing	smoothing
 additive smoothing	smoothing
 dynameter	magnification
+screen magnifier	magnification
 offset binary	least significant bit
 differential nonlinearity	least significant bit
 differential nonlinearity	analog to digital converter
@@ -14743,7 +15035,9 @@ ramification problem	knowledge representation and reasoning
 qualification problem	frame problem
 firewire camera	machine vision
 firewire camera	software
+telescript	software agent
 telescript	mobile agent
+expression	gene expression programming
 expression	programming language
 landweber iteration	regularization
 landweber iteration	iterative reconstruction
@@ -14777,6 +15071,7 @@ random search	genetic algorithm
 hill climbing	genetic algorithm
 hill climbing	local search
 evolutionary algorithm	genetic algorithm
+estimation of distribution algorithm	genetic algorithm
 fitness function	genetic algorithm
 population based incremental learning	genetic algorithm
 hybrid algorithm	genetic algorithm
@@ -14793,10 +15088,12 @@ inverse probability weighting	missing data
 inverse probability weighting	covariate
 geometric harmonic mean	weighted arithmetic mean
 contraharmonic mean	weighted arithmetic mean
+weighted geometric mean	weighted arithmetic mean
 qualitative variation	principle of maximum entropy
 joint quantum entropy	principle of maximum entropy
 binary entropy function	principle of maximum entropy
 generalized iterative scaling	principle of maximum entropy
+maximum entropy probability distribution	principle of maximum entropy
 maximum entropy spectral estimation	principle of maximum entropy
 entropy estimation	principle of maximum entropy
 conditional entropy	principle of maximum entropy
@@ -14805,6 +15102,10 @@ entropy maximization	principle of maximum entropy
 cross entropy	principle of maximum entropy
 massieu function	principle of maximum entropy
 bombe	turing
+hypercomputation	turing
+hypercomputation	turing machine
+hypercomputation	computation
+hypercomputation	computability
 entscheidungsproblem	turing
 motion field	motion estimation
 structure from motion	motion estimation
@@ -14821,6 +15122,7 @@ concatenative synthesis	concatenation
 concatenative synthesis	speech synthesis
 diphone	concatenation
 diphone	speech synthesis
+curvilinear perspective	perspective
 weighted correlation network analysis	dynamic network analysis
 weighted correlation network analysis	network simulation
 on board data handling	group method of data handling
@@ -14829,6 +15131,8 @@ text normalization	speech synthesis
 text normalization	normalization
 psola	speech synthesis
 psychokinesis	parapsychology
+stellar parallax	parallax
+stellar parallax	stars
 successive parabolic interpolation	interpolation
 regression kriging	interpolation
 regression kriging	kriging
@@ -14836,6 +15140,7 @@ phong shading	interpolation
 phong shading	computer graphics
 phong shading	shading
 phong shading	rendering
+lagrange polynomial	interpolation
 rational motion	interpolation
 non uniform rational b spline	interpolation
 coons patch	interpolation
@@ -14856,6 +15161,7 @@ newton polynomial	interpolation
 transcendental curve	interpolation
 moving least squares	interpolation
 semi lagrangian scheme	interpolation
+x ray image intensifier	image intensifier
 generalized wiener filter	wiener filter
 bengali grammar	bengali
 bhadralok	bengali
@@ -14894,6 +15200,7 @@ formal grammar	formal language
 systemic functional grammar	grammar
 german standard german	grammar
 german standard german	lexicon
+niger congo languages	grammar
 latin grammar	grammar
 hungarian grammar	grammar
 arabic grammar	grammar
@@ -14992,6 +15299,7 @@ noise	noise reduction
 noise	telecommunications
 reference noise	noise measurement
 voids in mineral aggregate	gradation
+scott domain	domain theory
 face detection	facial recognition system
 facial motion capture	facial recognition system
 feret	facial recognition system
@@ -15032,6 +15340,8 @@ quantum cellular automaton	cellular automaton
 von neumann universal constructor	cellular automaton
 von neumann universal constructor	von neumann architecture
 moore neighborhood	cellular automaton
+quantum dot cellular automaton	cellular automaton
+quantum dot cellular automaton	logic gate
 stochastic cellular automaton	cellular automaton
 rule 90	cellular automaton
 langton s ant	cellular automaton
@@ -15157,6 +15467,7 @@ swamping problem	conditional probability
 classical definition of probability	conditional probability
 indicative conditional	conditional probability
 constraint	constraint satisfaction
+constraint	constraint satisfaction problem
 constraint	constraint programming
 local consistency	constraint satisfaction
 constraint logic programming	constraint satisfaction
@@ -15180,6 +15491,7 @@ early stopping	artificial neural network
 artificial brain	artificial neural network
 unsupervised learning	artificial neural network
 connectionism	artificial neural network
+spiking neural network	artificial neural network
 bayesian interpretation of regularization	artificial neural network
 overfitting	artificial neural network
 nonlinear system identification	artificial neural network
@@ -15188,14 +15500,17 @@ activation function	artificial neural network
 feed forward	artificial neural network
 intelligent character recognition	artificial neural network
 hopfield network	artificial neural network
+feedforward neural network	artificial neural network
 content addressable memory	artificial neural network
 feature learning	artificial neural network
 feature learning	feature extraction
+perceptron	artificial neural network
 synaptic weight	artificial neural network
 convolutional neural network	artificial neural network
 sigmoid function	artificial neural network
 levenberg marquardt algorithm	artificial neural network
 function approximation	artificial neural network
+radial basis function	artificial neural network
 deep learning	artificial neural network
 self organizing map	artificial neural network
 self organizing map	cluster analysis
@@ -15566,6 +15881,7 @@ national imagery transmission format	data compression
 adaptive compression	data compression
 signaling compression	data compression
 signaling compression	session initiation protocol
+dream telepathy	extrasensory perception
 dream telepathy	telepathy
 state plane coordinate system	coordinate system
 geocentric coordinates	coordinate system
@@ -15604,6 +15920,7 @@ digital raster graphic	raster graphics
 colour look up table	rgb color model
 colour look up table	pixel
 aps c	rgb color model
+aps c	camera lens
 aps c	cmos
 color triangle	rgb color model
 color calibration	rgb color model
@@ -15612,6 +15929,7 @@ hiragana	kanji
 kana	kanji
 katakana	kanji
 morphogram	kanji
+spatial temporal reasoning	qualitative reasoning
 spatial temporal reasoning	spatial intelligence
 survey marker	triangulation
 survey marker	global positioning system
@@ -15669,6 +15987,7 @@ soft robotics	robot
 soft robotics	actuator
 industrial robot	robot
 leg mechanism	robot
+brachiation	robot
 agricultural robot	robot
 medical robot	robot
 exploration problem	robot
@@ -15701,6 +16020,7 @@ workcell	robot
 assisted therapy	robot
 exoskeleton structure	robot
 exoskeleton structure	actuator
+expected value of perfect information	value of information
 immune network theory	artificial immune system
 penrose triangle	impossible object
 penrose triangle	escher
@@ -15712,6 +16032,7 @@ melophorus bagoti	path integration
 melophorus bagoti	landmark
 melophorus bagoti	ant
 idiothetic	path integration
+weak entity	entity linking
 defeasible reasoning	deductive reasoning
 abductive reasoning	deductive reasoning
 reward based selection	reinforcement learning
@@ -15765,6 +16086,8 @@ horn clause	description logic
 horn clause	logic programming
 horn clause	prolog
 multimodal logic	description logic
+clemmys	turtle
+clemmys	turtle
 pelodiscus	turtle
 pelodiscus	turtle
 kinosternon	turtle
@@ -15792,6 +16115,8 @@ pseudemys	turtle
 amyda	turtle
 archelon	turtle
 archelon	turtle
+emys	turtle
+emys	turtle
 condorchelys	turtle
 condorchelys	turtle
 chelonitoxism	turtle
@@ -15809,10 +16134,14 @@ emydidae	turtle
 emydidae	turtle
 pleurodira	turtle
 pleurodira	turtle
+podocnemididae	turtle
+podocnemididae	turtle
 trionyx	turtle
 da vinci surgical system	robotic surgery
 robotic assisted procedures	robotic surgery
 expeed	autofocus
+expeed	digital camera
+2d geometric model	geometric modeling
 kernel adaptive filter	filter
 kernel adaptive filter	filter design
 kernel adaptive filter	digital filter
@@ -15826,6 +16155,8 @@ nonlinear filter	filter
 nonlinear filter	filter design
 linear filter	filter
 deblocking filter	filter
+bilateral filter	filter
+bilateral filter	pixel
 information filtering system	filter
 vacuum ceramic filter	filter
 anisotropic filtering	filter
@@ -15843,6 +16174,7 @@ laplace s method	bayesian probability
 recursive bayesian estimation	bayesian probability
 recursive bayesian estimation	recursion
 posterior probability	bayesian probability
+bayes estimator	bayesian probability
 thompson sampling	bayesian probability
 thompson sampling	regret
 markov chain monte carlo	bayesian probability
@@ -15880,9 +16212,12 @@ metasystem transition	cybernetics
 metasystem transition	program transformation
 cybernetical physics	cybernetics
 cyberneticist	cybernetics
+combinatorial principles	combinatorial explosion
+representation term	external data representation
 collinearity equation	photogrammetry
 stereoplotter	photogrammetry
 analytical stereoplotter	photogrammetry
+bundle adjustment	photogrammetry
 rational polynomial coefficient	photogrammetry
 orthophotomap	photogrammetry
 scream queen	anime
@@ -15939,6 +16274,7 @@ subject reduction	normalization
 subject reduction	lambda calculus
 frame semantics	semantics
 strictness analysis	semantics
+strictness analysis	abstract interpretation
 strictness analysis	functional programming
 semantic theory of truth	semantics
 truth condition	semantics
@@ -15955,6 +16291,8 @@ componential analysis	semantics
 general semantics	semantics
 preferential entailment	semantics
 preferential entailment	logical consequence
+continuation passing style	semantics
+continuation passing style	continuation
 formal semantics	semantics
 formal semantics	formal semantics
 formal semantics	operational semantics
@@ -16031,6 +16369,7 @@ semantic feature	semantics
 restricted isometry property	compressed sensing
 matching pursuit	compressed sensing
 digital zoom	zoom
+digital zoom	zoom lens
 dolly zoom	zoom
 page zooming	zoom
 mach bands	brightness
@@ -16040,6 +16379,7 @@ sky brightness	brightness
 3lcd	projector
 intrinsic brightness	brightness
 colorfulness	brightness
+colorfulness	lightness
 base64	encoding
 base64	the internet
 truncated binary encoding	encoding
@@ -16087,6 +16427,8 @@ warren abstract machine	logic programming
 warren abstract machine	compiler
 warren abstract machine	prolog
 warren abstract machine	abstract machine
+inter frame	motion compensation
+inter frame	reference frame
 interlaced video	motion compensation
 interlaced video	pixel
 illuminant d65	standard illuminant
@@ -16095,6 +16437,7 @@ illuminant d65	chromaticity
 alpha compositing	compositing
 alpha compositing	pixel
 beaver eradication in tierra del fuego	tierra
+eye relief	eyepiece
 eye relief	field of view
 iterative closest point	point cloud
 situated cognition	situated
@@ -16112,6 +16455,7 @@ perplexity	language model
 n gram	language model
 noisy channel model	language model
 noisy channel model	channel
+trigram	language model
 sdet	benchmark
 investment specific technological progress	technological change
 malmquist index	technological change
@@ -16132,7 +16476,9 @@ data truncation	iterative reconstruction
 tomographic reconstruction	iterative reconstruction
 photoacoustic tomography	iterative reconstruction
 electrical impedance tomography	iterative reconstruction
+algebraic reconstruction technique	iterative reconstruction
 discrete tomography	iterative reconstruction
+optical tomography	iterative reconstruction
 electrical capacitance tomography	iterative reconstruction
 idose	iterative reconstruction
 reconstruction algorithm	iterative reconstruction
@@ -16143,6 +16489,7 @@ transmission tomography	iterative reconstruction
 time frequency representation	time frequency analysis
 time frequency representation	signal processing
 gabor transform	time frequency analysis
+sercos interface	motion control
 motion controller	motion control
 general motion control	motion control
 locating the center of mass	centroid
@@ -16158,6 +16505,7 @@ sight word	vocabulary
 word superiority effect	word recognition
 order of integration	time series
 autoregressive integrated moving average	time series
+decomposition of time series	time series
 moving average model	time series
 moving average model	moving average
 unevenly spaced time series	time series
@@ -16334,6 +16682,7 @@ contrastive linguistics	applied linguistics
 clinical linguistics	applied linguistics
 quantitative linguistics	applied linguistics
 language for specific purposes	applied linguistics
+automated x ray inspection	visual inspection
 latent dirichlet allocation	topic model
 pohnpeian language	linguistic description
 pohnpeian language	natural language
@@ -16383,6 +16732,7 @@ familiarity heuristic	heuristic
 attribute substitution	heuristic
 berth allocation problem	heuristic
 berth allocation problem	scheduling
+blind deconvolution	deconvolution
 function	task analysis
 pimex	task analysis
 wavefront coding	optical transfer function
@@ -16391,6 +16741,7 @@ heaps law	word lists by frequency
 heaps law	heap
 international scientific vocabulary	word lists by frequency
 international scientific vocabulary	vocabulary
+parallel projection	orthographic projection
 projection plane	orthographic projection
 graphical projection	orthographic projection
 planar projection	orthographic projection
@@ -16409,6 +16760,7 @@ coding gain	coding
 coding gain	decoding methods
 coding gain	channel
 algorithmic efficiency	coding
+macroblock	coding
 intra frame	coding
 coding tree unit	coding
 group of pictures	coding
@@ -16437,6 +16789,7 @@ fagin s theorem	computational complexity theory
 worst case complexity	computational complexity theory
 reduction	computational complexity theory
 np complete	computational complexity theory
+computational resource	computational complexity theory
 descriptive complexity theory	computational complexity theory
 pspace complete	computational complexity theory
 pspace	computational complexity theory
@@ -16468,6 +16821,7 @@ line segment intersection	line segment
 hyperfocal distance	depth of field
 focus stacking	depth of field
 psophometric weighting	weighting
+a weighting	weighting
 weighting filter	weighting
 noise weighting	weighting
 cumulative prospect theory	weighting
@@ -16482,11 +16836,14 @@ bitopological space	pairwise comparison
 straight skeleton	medial axis
 straight skeleton	skeleton
 symmetry set	medial axis
+lexical analysis	parsing
 morphological parsing	parsing
 prisoners and hats puzzle	mathematical puzzle
 god s algorithm	mathematical puzzle
 affinity analysis	association rule learning
+apriori algorithm	association rule learning
 useless rules	association rule learning
+text simplification	natural language
 alien language	natural language
 direct method	natural language
 lexical markup framework	natural language
@@ -16496,6 +16853,7 @@ natural language user interface	natural language
 natural language user interface	user interface
 natural language generation	natural language
 natural language understanding	natural language
+controlled natural language	natural language
 robbins algebra	automated reasoning
 robbins algebra	automated theorem proving
 mojette transform	radon transform
@@ -16538,12 +16896,14 @@ unary numeral system	numeral system
 unary numeral system	lambda calculus
 vigesimal	numeral system
 english numerals	numeral system
+latensification	latent image
 neuroscience information framework	neuroinformatics
 render farm	rendering
 render farm	cloud computing
 3d rendering	rendering
 procedural texture	rendering
 perlin noise	rendering
+normal mapping	rendering
 metaballs	rendering
 global illumination	rendering
 framebuffer	rendering
@@ -16552,6 +16912,7 @@ surfel	rendering
 shadow mapping	rendering
 real time rendering	rendering
 geometry instancing	rendering
+radiosity	rendering
 distance fog	rendering
 cube mapping	rendering
 shader	rendering
@@ -16636,6 +16997,7 @@ lennox gastaut syndrome	electroencephalography
 epileptic seizure	electroencephalography
 large irregular activity	electroencephalography
 epilepsia partialis continua	electroencephalography
+landau kleffner syndrome	electroencephalography
 juvenile myoclonic epilepsy	electroencephalography
 hypsarrhythmia	electroencephalography
 generalized epilepsy	electroencephalography
@@ -16699,6 +17061,7 @@ animal echolocation	sonar
 sonar signal processing	sonar
 sonar signal processing	signal processing
 towed array sonar	sonar
+collaborative filtering	recommender system
 felicity conditions	utterance
 illocutionary act	utterance
 h dropping	language change
@@ -16735,6 +17098,7 @@ grammatical aspect	verb
 separable verb	verb
 xm1216 small unmanned ground vehicle	unmanned ground vehicle
 hackney phalanx	watson
+poisson image editing	image editing
 monochrome photography	monochrome
 monochrome monitor	monochrome
 monochrome monitor	software
@@ -16810,6 +17174,7 @@ bjork shiley valve	prosthesis
 arthroplasty knee	prosthesis
 shoulder joint prosthesis	prosthesis
 ankle joint prosthesis	prosthesis
+logic form	logical form
 systematic inventive thinking	triz
 domain specific learning	domain specificity
 kolmogorov structure function	kolmogorov complexity
@@ -16832,6 +17197,7 @@ suffix array	suffix
 suffix array	data structure
 suffix tree	suffix
 suffix tree	data structure
+physics processing unit	graphics processing unit
 amplitude panning	panning
 monosemy	polysemy
 heterosemy	polysemy
@@ -16858,6 +17224,7 @@ bopomofo	mandarin chinese
 stroke order	chinese characters
 pinyin input method	pinyin
 pinyin input method	input method
+reaching definition	static single assignment form
 reaching definition	optimizing compiler
 reaching definition	data flow analysis
 enhanced full rate	full rate
@@ -16870,6 +17237,7 @@ transponder	transponder
 transponder	transponder
 transponder	telecommunications
 transponder landing system	transponder
+transponder landing system	precision approach radar
 aviation transponder interrogation modes	transponder
 search and rescue transponder	transponder
 squitter	transponder
@@ -16883,8 +17251,10 @@ adjusted mutual information	variation of information
 volume ray casting	ray casting
 modularity	modularity
 modularity	modular design
+clique percolation method	modularity
 modularity of mind	modularity
 vanishing hand	modularity
+girvan newman algorithm	clique percolation method
 function problem	cutting stock problem
 function problem	generalized assignment problem
 quadratic knapsack problem	change making problem
@@ -16922,6 +17292,7 @@ serial item and contribution identifier	uniform resource name
 unit record equipment	punched card input output
 multidelay block frequency domain adaptive filter	root raised cosine filter
 multidelay block frequency domain adaptive filter	kernel adaptive filter
+multidelay block frequency domain adaptive filter	recursive least squares filter
 reconstruction filter	root raised cosine filter
 quadrature filter	root raised cosine filter
 quadrature filter	kernel adaptive filter
@@ -16966,6 +17337,8 @@ additive increase multiplicative decrease	tcp tuning
 additive increase multiplicative decrease	tcp friendly rate control
 additive increase multiplicative decrease	tcp global synchronization
 soft in soft out decoder	equalization
+soft in soft out decoder	soft decision decoder
+soft in soft out decoder	turbo code
 sc fde	equalization
 sc fde	orthogonal frequency division multiplexing
 digital signal 0	ethernet over sdh
@@ -16987,6 +17360,7 @@ algorithmically random sequence	kolmogorov structure function
 hilbert spectrum	hilbert spectral analysis
 random access machine	random access
 random access machine	turing machine
+dynamic verb	stative verb
 use mention distinction	metalanguage
 bergman metric	bergman space
 bergman metric	bergman kernel
@@ -16997,6 +17371,7 @@ government and binding theory	transformational grammar
 minimalist grammar	transformational grammar
 specified subject condition	transformational grammar
 field programmable analog array	analog device
+field programmable analog array	analog multiplier
 semiotics of social networking	social media optimization
 semiotics of social networking	social computing
 semiotics of social networking	social web
@@ -17039,6 +17414,9 @@ reverse proxy	server
 reverse proxy	client server model
 server side	server
 client	server
+appleshare	server
+appleshare	client server model
+appleshare	application server
 power usage effectiveness	server
 power usage effectiveness	data center
 power usage effectiveness	cloud computing
@@ -17046,6 +17424,9 @@ remote evaluation	server
 remote evaluation	client server model
 name server	server
 name server	the internet
+server farm	server
+server farm	client server model
+server farm	application server
 server room	server
 mobile edge computing	server
 mobile edge computing	latency
@@ -17073,6 +17454,7 @@ reliable server pooling	failover
 reliable server pooling	redundancy
 reliable server pooling	the internet
 data center infrastructure efficiency	power usage effectiveness
+high availability cluster	server farm
 wald s maximin model	optimal decision
 wald s maximin model	influence diagram
 wald s maximin model	robust optimization
@@ -17179,6 +17561,7 @@ hybrid positioning system	wireless
 hybrid positioning system	positioning system
 assisted gps	global positioning system
 orthometric height	global positioning system
+automatic vehicle location	global positioning system
 air navigation	global positioning system
 radio navigation	global positioning system
 nmea 0183	global positioning system
@@ -17213,11 +17596,13 @@ gps ins	inertial navigation system
 attitude and heading reference system	inertial navigation system
 transfer alignment	inertial navigation system
 inertial platform	inertial navigation system
+fundamental station	geodetic network
 international reference ionosphere	total electron content
 ionospheric pierce point	total electron content
 precision lightweight gps receiver	assisted gps
 time to first fix	assisted gps
 pulse per second signal	assisted gps
+computer aided dispatch	automatic vehicle location
 tactical air navigation system	air navigation
 decca navigator system	radio navigation
 syledis	radio navigation
@@ -17428,6 +17813,7 @@ monitoring maintenance lifecycle	application lifecycle management
 open services for lifecycle collaboration	application lifecycle management
 information lifecycle management	application lifecycle management
 software product management	application lifecycle management
+lexical simplification	text simplification
 credential service provider	digital credential
 credential service provider	lightweight extensible authentication protocol
 credential service provider	multi factor authentication
@@ -17644,6 +18030,7 @@ zilog z8000	intel 8086
 ftam	file transfer
 ccsds file delivery protocol	file transfer
 ccsds file delivery protocol	nak
+ccsds file delivery protocol	data system
 koorde	chord
 baton overlay	chord
 sticky bit	rounding
@@ -17660,6 +18047,8 @@ contrastive distribution	contrastive linguistics
 anthropological linguistics	clinical linguistics
 sociocultural linguistics	clinical linguistics
 sociocultural linguistics	comprehension approach
+digital forensic process	digital evidence
+edas	estimation of distribution algorithm
 suicide methods	human factors and ergonomics
 human factors integration	human factors and ergonomics
 cognitive ergonomics	human factors and ergonomics
@@ -17726,6 +18115,7 @@ suicide mortality	human factors and ergonomics
 transport accidents	human factors and ergonomics
 maltreated child	human factors and ergonomics
 safety behaviour	human factors and ergonomics
+verbal aggression	human factors and ergonomics
 gun control laws	human factors and ergonomics
 hopelessness scale	human factors and ergonomics
 youth alcohol consumption	human factors and ergonomics
@@ -17753,6 +18143,7 @@ alethiology	semantic theory of truth
 truth bearer	semantic theory of truth
 constraint automaton	reo coordination language
 constraint automaton	operational semantics
+call with current continuation	continuation passing style
 well founded semantics	formal semantics
 well founded semantics	operational semantics
 computational semantics	formal semantics
@@ -17785,6 +18176,7 @@ service oriented infrastructure	service orientation
 service oriented middleware	service orientation
 service oriented software engineering	service orientation
 java business integration	enterprise service bus
+staged event driven architecture	event driven architecture
 lte advanced	telecommunications link
 macrodiversity	telecommunications link
 macrodiversity	code division multiple access
@@ -18096,9 +18488,11 @@ ieee 802 11ah	wi fi array
 ieee 802 11ah	ieee 802 11
 wireless access point	wi fi array
 extensible resource identifier	identifier
+network service access point identifier	identifier
 group identifier	identifier
 unique identifier	identifier
 user identifier	identifier
+network access identifier	identifier
 system identifier	identifier
 object identifier	identifier
 automated certificate management environment	identifier
@@ -18109,8 +18503,10 @@ product identifier	identifier
 identifier scheme	identifier
 instance identifier	identifier
 unique device identifier	identifier
+fragment identifier	network service access point identifier
 fragment identifier	unique identifier
 fragment identifier	user identifier
+fragment identifier	network access identifier
 identity correlation	unique identifier
 identity correlation	user identifier
 info uri scheme	unique identifier
@@ -18222,6 +18618,7 @@ segmentation based object categorization	scale space segmentation
 region growing	scale space segmentation
 region growing	image texture
 reflective listening	informational listening
+reflective listening	appreciative listening
 mean integrated squared error	kernel density estimation
 champernowne distribution	kernel density estimation
 relative luminance	contrast ratio
@@ -18255,6 +18652,7 @@ value added network	differentiated service
 service recovery paradox	service level objective
 neuroscience of sleep	non rapid eye movement sleep
 neuroscience of sleep	slow wave sleep
+sleep debt	non rapid eye movement sleep
 oneirology	non rapid eye movement sleep
 k complex	non rapid eye movement sleep
 k complex	slow wave sleep
@@ -18270,6 +18668,7 @@ activation synthesis hypothesis	oneirology
 activation synthesis hypothesis	k complex
 activation synthesis hypothesis	sleep spindle
 local sleep	neuroscience of sleep
+sleep inertia	sleep debt
 cognitive neuroscience of dreams	oneirology
 flowerpot technique	k complex
 flowerpot technique	sleep spindle
@@ -18437,6 +18836,7 @@ lpwan	wireless
 lpwan	internet of things
 sd wan	wide area network
 sd wan	software
+chirp spectrum	chirp
 convolution	s expression
 lisp 2	s expression
 trusted service manager	trusted network connect
@@ -18496,6 +18896,7 @@ customised applications for mobile networks enhanced logic	umts terrestrial radi
 removable user identity module	gsm services
 gsm 03 38	gsm services
 gsm procedures	gsm services
+multiple classification ripple down rules	ripple down rules
 minimal instruction set computer	addressing mode
 one instruction set computer	addressing mode
 one instruction set computer	indirect branch
@@ -18742,6 +19143,7 @@ auxiliary particle filter	ensemble kalman filter
 unscented transform	ensemble kalman filter
 unscented transform	invariant extended kalman filter
 unscented transform	moving horizon estimation
+unscented transform	fast kalman filter
 clark wilson model	computer security model
 bell lapadula model	computer security model
 bell lapadula model	access control
@@ -18803,6 +19205,9 @@ supplicant	authentication
 password	authentication
 ws federation active requestor profile	authentication
 digital signature	authentication
+authenticated encryption	authentication
+authenticated encryption	encryption
+authenticated encryption	cryptography
 message authentication code	authentication
 message authentication code	cryptography
 transport layer security	authentication
@@ -18839,11 +19244,13 @@ authentication server	authentication
 group key	authentication
 group key	encryption
 group key	cryptography
+credential	authentication
 strong key	authentication
 strong key	encryption
 strong key	cryptography
 ims security	authentication
 ims security	voice over ip
+ims security	ip multimedia subsystem
 trusted path	authentication
 form based authentication	authentication
 dns based authentication of named entities	authentication
@@ -18892,6 +19299,7 @@ transaction authentication number	password
 central authentication service	password
 central authentication service	single sign on
 central authentication service	lightweight directory access protocol
+ocb mode	authenticated encryption
 log shipping	internet authentication service
 network access protection	internet authentication service
 network access protection	microsoft windows
@@ -18907,6 +19315,7 @@ mobile identity management	digital identity
 openid connect	identity management
 saml 2 0	single sign on
 security assertion markup language	single sign on
+digital credential	credential
 scleronomous	constraint
 binary constraint	constraint logic programming
 binary constraint	local consistency
@@ -19227,6 +19636,7 @@ blahut arimoto algorithm	rate distortion theory
 blahut arimoto algorithm	channel capacity
 blahut arimoto algorithm	distortion function
 time domain harmonic scaling	harmonic vector excitation coding
+secure attention key	trusted computing base
 explicit semantic analysis	semantic technology
 explicit semantic analysis	semantic search
 semantic compression	semantic technology
@@ -19296,6 +19706,7 @@ marching tetrahedra	isosurface
 asymptotic decider	marching squares
 asymptotic decider	marching tetrahedra
 marching triangles	marching tetrahedra
+ultrasound modulated optical tomography	optical tomography
 long delayed echo	radio wave
 ionospheric absorption	radio wave
 radio window	radio wave
@@ -19417,6 +19828,7 @@ bluetooth	wireless
 mobile iptv	wireless
 mobile iptv	multicast
 mobile iptv	mobile telephony
+mobile iptv	iptv
 non access stratum	wireless
 non access stratum	user equipment
 inductive charging	wireless
@@ -19514,6 +19926,7 @@ attachment unit interface	transceiver
 small form factor pluggable transceiver	transceiver
 qsfp	transceiver
 open fiber control	transceiver
+phy	physical layer
 data link layer	physical layer
 physical medium dependent	physical layer
 physical coding sublayer	physical layer
@@ -19530,6 +19943,7 @@ mobicast	key distribution in wireless sensor networks
 mobicast	protocol independent multicast
 route filtering	key distribution in wireless sensor networks
 cellular digital packet data	general packet radio service
+gprs core network	general packet radio service
 access point name	general packet radio service
 sndcp	general packet radio service
 sndcp	mobile radio
@@ -19620,6 +20034,7 @@ business service management	service product management
 proactive learning	robot learning
 proactive learning	action learning
 proactive learning	instance based learning
+enhanced position location reporting system	tactical communications system
 enhanced position location reporting system	tactical communications
 peak information rate	code rate
 copying mechanism	copying
@@ -19839,6 +20254,7 @@ link farm	web search engine
 organic search	web search engine
 organic search	search analytics
 organic search	semantic search
+liquid state machine	spiking neural network
 torrent file	journaling file system
 torrent file	stub file
 torrent file	device file
@@ -19856,6 +20272,7 @@ color moments	color histogram
 homodyne detection	direct conversion receiver
 piperench	fpgac
 xor swap algorithm	xor gate
+xor swap algorithm	bitwise operation
 xor linked list	xor swap algorithm
 command key	key
 keyboard controller	key
@@ -20038,6 +20455,7 @@ neural tissue engineering	scaffold
 instructional scaffolding	scaffold
 nano scaffold	scaffold
 fibrin scaffold	scaffold
+nyquist isi criterion	pulse shaping
 nyquist isi criterion	intersymbol interference
 syn cookies	syn flood
 ping of death	syn flood
@@ -20088,6 +20506,7 @@ leyland cypress	arboriculture
 leyland cypress	arborist
 malus trilobata	arboriculture
 malus trilobata	arborist
+recursively enumerable set	recursively enumerable language
 recursively enumerable set	recursion
 parabolic antenna	radiation pattern
 parabolic antenna	antenna measurement
@@ -20106,6 +20525,7 @@ e plane and h plane	patch antenna
 e plane and h plane	microstrip antenna
 semipredicate problem	return statement
 semipredicate problem	subroutine
+solar renewable energy certificate	srec
 loss network	layered queueing network
 jackson network	layered queueing network
 gaussian blur	image restoration
@@ -20117,11 +20537,13 @@ proactive secret sharing	secure multi party computation
 homomorphic secret sharing	secret sharing
 homomorphic secret sharing	secure multi party computation
 access structure	secret sharing
+visual cryptography	secret sharing
 image sharing	secret sharing
 feige fiat shamir identification scheme	proactive secret sharing
 feige fiat shamir identification scheme	homomorphic secret sharing
 shamir s secret sharing	proactive secret sharing
 shamir s secret sharing	homomorphic secret sharing
+image share	visual cryptography
 station to station protocol	forward secrecy
 station to station protocol	key exchange
 station to station protocol	key distribution
@@ -20199,11 +20621,14 @@ henstock kurzweil integral	fourier integral operator
 super bit mapping	noise shaping
 management cybernetics	viable system model
 kneser ney smoothing	perplexity
+trigram tagger	trigram
 parallax occlusion mapping	autostereoscopy
 parallax occlusion mapping	parallax barrier
 parallax mapping	autostereoscopy
 parallax mapping	parallax barrier
 parallax scanning	autostereoscopy
+stereoblindness	binocular disparity
+stereoblindness	monocular vision
 autostereogram	binocular disparity
 autostereogram	monocular vision
 anamorphic widescreen	subcarrier
@@ -20304,6 +20729,9 @@ trim tab	trim
 viseme	speech corpus
 viseme	speech technology
 viseme	acoustic model
+speech analytics	speech corpus
+speech analytics	acoustic model
+speech analytics	voice activity detection
 phonetic search technology	speech corpus
 phonetic search technology	acoustic model
 chinese speech synthesis	speech corpus
@@ -20429,6 +20857,7 @@ data stream management system	data stream mining
 data stream management system	data stream
 data stream management system	streams
 data stream management system	operator
+baum welch algorithm	viterbi algorithm
 baum welch algorithm	markov model
 new ways of analyzing variation	sociolinguistics of sign languages
 new ways of analyzing variation	sociocultural linguistics
@@ -20451,6 +20880,7 @@ l attributed grammar	context free grammar
 tree adjoining grammar	context free grammar
 backus naur form	context free grammar
 parikh s theorem	context free grammar
+the lexer hack	lexical analysis
 service location protocol	management information base
 sigtran	management information base
 sigtran	mobile ip
@@ -20487,6 +20917,7 @@ hierarchical hidden markov model	markov model
 markov reward model	markov model
 hypoexponential distribution	markov model
 iterated conditional modes	markov random field
+grey noise	a weighting
 infoveillance	infodemiology
 class 5 telephone switch	telephone network
 class 5 telephone switch	telephony
@@ -20513,6 +20944,7 @@ number one crossbar switching system	crossover switch
 rhynchobdellida	glossiphoniidae
 objectory	booch method
 objectory	software development process
+green information technology	green computing
 kuiper s test	cramer von mises criterion
 kuiper s test	anderson darling test
 html attribute	javascript
@@ -20564,6 +20996,8 @@ electromagnetic source imaging	magnetoencephalography
 synthetic aperture magnetometry	magnetoencephalography
 auditory evoked field	magnetoencephalography
 non epileptic seizure	epileptic seizure
+auditory verbal agnosia	landau kleffner syndrome
+eyelid myoclonia	juvenile myoclonic epilepsy
 secondary generalized epilepsy	generalized epilepsy
 ohtahara syndrome	west syndrome
 danish grammar	modal verb
@@ -20573,6 +21007,7 @@ deontic modality	modal verb
 lexical verb	modal verb
 french verbs	modal verb
 serial verb construction	modal verb
+stative verb	modal verb
 impersonal verb	modal verb
 german verbs	modal verb
 english verbs	modal verb
@@ -20594,6 +21029,7 @@ generic case complexity	average case complexity
 project network	schedule
 resource leveling	schedule
 resource breakdown structure	schedule
+resource breakdown structure	human resource management system
 program evaluation and review technique	schedule
 critical chain project management	schedule
 x ray burster	compact star
@@ -20626,7 +21062,9 @@ davies bouldin index	fuzzy clustering
 davies bouldin index	k means clustering
 eigengap	spectral clustering
 mobile rfid	radio frequency identification
+electronic product code	radio frequency identification
 epcglobal network	radio frequency identification
+epcis	electronic product code
 secure coding	software security assurance
 umlsec	software security assurance
 software quality assurance	software security assurance
@@ -20724,6 +21162,7 @@ amplitude distortion	nonlinear distortion
 spectral regrowth	nonlinear distortion
 spectral regrowth	predistortion
 hqx	pixel connectivity
+hqx	free boundary condition
 hqx	image scaling
 supersampling	pixel connectivity
 sum of absolute differences	pixel connectivity
@@ -20956,9 +21395,12 @@ dendrite	continuum
 isothermal coordinates	fisher information metric
 bures metric	fisher information metric
 category of metric spaces	metric map
+common lisp	lisp
 car and cdr	lisp
+car and cdr	cons
 eulisp	lisp
 eulisp	object oriented programming
+x3j13	common lisp
 azimuthal equidistant projection	graphical projection
 select	application programming interface
 ap computer science a	ap computer science
@@ -21182,6 +21624,9 @@ mpeg 2	operating system
 mask	real time computing
 mask	computer hardware
 mask	operating system
+response time	real time computing
+response time	operating system
+response time	computer graphics images
 backward compatibility	real time computing
 backward compatibility	computer network
 backward compatibility	operating system
@@ -21332,6 +21777,9 @@ fault tolerance	distributed computing
 data structure alignment	real time computing
 data structure alignment	computer hardware
 data structure alignment	parallel computing
+high availability	real time computing
+high availability	computer network
+high availability	distributed computing
 core dump	real time computing
 core dump	computer hardware
 core dump	operating system
@@ -21571,6 +22019,8 @@ exception handling	programming language
 data migration	real time computing
 data migration	data mining
 data migration	database
+virtual function	real time computing
+virtual function	programming language
 discrete event simulation	real time computing
 discrete event simulation	simulation
 lazy loading	real time computing
@@ -21592,6 +22042,9 @@ data center	real time computing
 data center	computer network
 data center	distributed computing
 soft error	real time computing
+computer multitasking	real time computing
+computer multitasking	distributed computing
+computer multitasking	parallel computing
 unspecified behavior	real time computing
 unspecified behavior	theoretical computer science
 unspecified behavior	programming language
@@ -21611,6 +22064,9 @@ deadlock	programming language
 executable	real time computing
 executable	operating system
 executable	programming language
+control flow	real time computing
+control flow	theoretical computer science
+control flow	programming language
 queue	real time computing
 queue	computer network
 queue	programming language
@@ -21670,6 +22126,8 @@ race condition	distributed computing
 race condition	programming language
 turnaround time	real time computing
 turnaround time	operating system
+global variable	real time computing
+global variable	programming language
 clock rate	real time computing
 clock rate	parallel computing
 nak	real time computing
@@ -21737,8 +22195,14 @@ inter process communication	operating system
 inter process communication	distributed computing
 callback	real time computing
 callback	programming language
+disassembler	real time computing
+disassembler	operating system
+disassembler	programming language
 airfield traffic pattern	real time computing
 airfield traffic pattern	computer network
+polling	real time computing
+polling	computer network
+polling	operating system
 return statement	real time computing
 return statement	programming language
 data recovery	real time computing
@@ -22095,6 +22559,7 @@ scp ecg	communications protocol
 scp ecg	interoperability
 network communication protocols	communications protocol
 idle reduction	idle
+application response measurement	response time
 application response measurement	java
 control store	microcode
 burroughs b1700	microcode
@@ -22159,6 +22624,7 @@ call setup success rate	call management
 call setup success rate	call control
 call parking	call management
 call parking	call control
+human resource management system	resource allocation
 max min fairness	resource allocation
 max min fairness	throughput
 process architecture	petri net
@@ -22318,6 +22784,7 @@ asynchronous circuit	clock signal
 asynchronous circuit	logic gate
 clock domain crossing	clock signal
 clk2	clock signal
+clk1	clock signal
 network emulation	network simulation
 exception handling syntax	exception handling
 exception handling syntax	software
@@ -22325,6 +22792,7 @@ exception handling syntax	java
 exception safety	exception handling
 exception safety	software
 exception safety	java
+virtual method table	virtual function
 virtual method table	object oriented programming
 asynchronous method invocation	asynchronous communication
 asynchronous operation	asynchronous communication
@@ -22336,6 +22804,7 @@ k set	asynchronous communication
 data redundancy	redundancy
 active redundancy	redundancy
 data center services	data center
+the multiprogramming system	computer multitasking
 initial approach fix	throughput
 initial approach fix	time of arrival
 initial approach fix	air traffic control
@@ -22345,12 +22814,14 @@ high frequency data link	throughput
 high frequency data link	data link
 high frequency data link	channel
 system level simulation	throughput
+control flow integrity	control flow
 control flow integrity	exploit
 control flow integrity	software
 palm calculus	queue
 estimated time of arrival	time of arrival
 timed automaton	finite state machine
 regular language	finite state machine
+pushdown automaton	finite state machine
 deterministic finite automaton	finite state machine
 moore machine	finite state machine
 finite state transducer	finite state machine
@@ -22377,6 +22848,7 @@ debugger	debugging
 debugger	software
 dynamic compilation	compiler
 dynamic compilation	java
+compiler construction	compiler
 memory safety	compiler
 memory safety	memory management
 memory safety	pointer
@@ -22403,6 +22875,7 @@ run time type information	pointer
 run time type information	const
 run time type information	object oriented programming
 machine code	compiler
+register allocation	compiler
 coral 66	compiler
 coral 66	high level programming language
 coral 66	software
@@ -22410,6 +22883,7 @@ loop fission	compiler
 bounds checking	compiler
 program optimization	compiler
 blocks	compiler
+static single assignment form	compiler
 specint	compiler
 ansi c	compiler
 ansi c	software
@@ -22417,8 +22891,10 @@ automatic parallelization	compiler
 array programming	compiler
 loop inversion	compiler
 optimizing compiler	compiler
+compile time	compiler
 ada	compiler
 ada	software
+c standard library	compiler
 cross compiler	compiler
 runtime library	compiler
 coco r	compiler
@@ -22437,6 +22913,7 @@ livermore loops	compiler
 livermore loops	fortran
 categorical abstract machine	compiler
 categorical abstract machine	functional programming
+categorical abstract machine	combinatory logic
 categorical abstract machine	abstract machine
 incremental compiler	compiler
 parallel language	compiler
@@ -22461,6 +22938,7 @@ text based protocol	voice over ip
 text based protocol	session initiation protocol
 text based protocol	the internet
 voip phone	voice over ip
+stub	remote procedure call
 c dynamic memory allocation	memory management
 physical address	memory management
 physical address	semiconductor memory
@@ -22472,6 +22950,7 @@ memory address	semiconductor memory
 memory address	overlay
 memory pool	memory management
 deterministic memory	memory management
+non local variable	global variable
 non local variable	local variable
 event loop	message broker
 publish subscribe pattern	message broker
@@ -22606,6 +23085,7 @@ asynchronous system	asynchronous circuit
 delay insensitive circuit	asynchronous circuit
 delay insensitive circuit	logic synthesis
 c element	asynchronous circuit
+serial decimal	quantum dot cellular automaton
 reversible computing	logic synthesis
 logic optimization	logic synthesis
 register transfer level	logic synthesis
@@ -22621,6 +23101,7 @@ udp hole punching	zeta tcp
 udp hole punching	ip address management
 lexical density	lexical functional grammar
 glue semantics	lexical functional grammar
+atlantic congo languages	niger congo languages
 proof of work system	cryptocurrency
 proof of stake	cryptocurrency
 proof of stake	database transaction
@@ -22643,10 +23124,12 @@ sargan test	endogeneity
 sargan test	instrumental variable
 precedence effect	binaural recording
 dummy head recording	binaural recording
+monaural	binaural recording
 interaural time difference	binaural recording
 head related transfer function	binaural recording
 perceptual based 3d sound localization	binaural recording
 franssen effect	precedence effect
+monaural beats	monaural
 3d sound localization	head related transfer function
 radio jamming	radio broadcasting
 mw dx	radio broadcasting
@@ -22659,11 +23142,13 @@ lambda mu calculus	natural deduction
 lambda mu calculus	classical logic
 lambda mu calculus	lambda calculus
 circle limit iii	escher
+kadir brady saliency detector	saliency map
 obstruent	vowel
 glottalization	vowel
 stress	vowel
 stress	syllable
 aspirated consonant	vowel
+place of articulation	vowel
 diphthong	vowel
 voice onset time	vowel
 voice onset time	voice
@@ -22702,6 +23187,7 @@ lexical set	vowel
 acoustic phonetics	vowel
 vowel harmony	vowel
 velar fricative	vowel
+nasal release	place of articulation
 monophthongization	diphthong
 close vowel	diphthong
 close vowel	open vowel
@@ -22767,6 +23253,8 @@ eberlein smulian theorem	approximation property
 lexical chain	lexical density
 generator matrix	decoding methods
 linear code	decoding methods
+viterbi algorithm	decoding methods
+viterbi algorithm	channel
 low density parity check code	decoding methods
 low density parity check code	channel
 differential coding	decoding methods
@@ -22774,6 +23262,8 @@ differential coding	modulation
 differential coding	channel
 universal product code	decoding methods
 ansi escape code	decoding methods
+turbo code	decoding methods
+turbo code	channel
 viterbi decoder	decoding methods
 viterbi decoder	channel
 parity bit	decoding methods
@@ -22785,6 +23275,7 @@ block code	decoding methods
 block code	channel
 convolutional code	decoding methods
 convolutional code	channel
+soft decision decoder	decoding methods
 video decoder	decoding methods
 spectral band replication	decoding methods
 spectral band replication	audio signal
@@ -22838,6 +23329,7 @@ space time code	mimo
 space time code	fading
 sequential decoding	block code
 full rate	block code
+valuation based system	possibility theory
 d m 1 queue	m d 1 queue
 d m 1 queue	m m c queue
 noncontracting grammar	link grammar
@@ -22882,6 +23374,7 @@ nearest neighbor chain algorithm	nearest neighbor search
 cluster hypothesis	document clustering
 idistance	clustering high dimensional data
 idistance	nearest neighbor search
+asymptotic computational complexity	computational resource
 complement	asymptotic computational complexity
 simon s problem	asymptotic computational complexity
 computational complexity of mathematical operations	asymptotic computational complexity
@@ -22902,6 +23395,7 @@ aceraceae	maple
 pulvinaria innumerabilis	maple
 acer velutinum	maple
 paraclemensia acerifoliella	maple
+contract manufacturer	original equipment manufacturer
 test driven development	software development
 test driven development	agile software development
 conway s law	software development
@@ -22922,6 +23416,8 @@ software maintenance	software system
 law of demeter	software development
 responsibility driven design	software development
 software quality	software development
+scrum	software development
+scrum	agile software development
 function point	software development
 pair programming	software development
 pair programming	agile software development
@@ -23125,6 +23621,7 @@ software system safety	software construction
 shotgun surgery	software quality
 shotgun surgery	software construction
 shotgun surgery	object
+scrumban	scrum
 presentation abstraction control	component based software engineering
 presentation abstraction control	software construction
 software visualization	component based software engineering
@@ -23378,7 +23875,9 @@ social visualization	data visualization
 brushing and linking	data visualization
 ggobi	data visualization
 mathematical visualization	information visualization
+geovisualization	information visualization
 chartjunk	information visualization
+exponential dispersion model	variance function
 exponential dispersion model	generalized linear model
 ballistic missile early warning system	early warning system
 strategic early warning system	early warning system
@@ -23399,17 +23898,20 @@ deflate	huffman coding
 lapped transform	transform coding
 reconfigurable video coding	transform coding
 track brake	relay valve
+proof of knowledge	zero knowledge proof
 blum integer	zero knowledge proof
 blum integer	public key cryptography
 interactive proof system	zero knowledge proof
 negligible function	zero knowledge proof
 negligible function	public key cryptography
 negligible function	one way function
+non interactive zero knowledge proof	proof of knowledge
 non interactive zero knowledge proof	random oracle
 super video graphics array	video graphics array
 vga connector	video graphics array
 clock position	clock domain crossing
 extensible application markup language	windows presentation foundation
+tactical communications system	communications system
 picture archiving and communication system	communications system
 meteor burst communications	communications system
 meteor burst communications	channel
@@ -23429,6 +23931,7 @@ aeronautical operational control	air traffic management
 amateur radio operator	two way communication
 defense satellite communications system	military communications
 universal approximation theorem	activation function
+universal approximation theorem	feedforward neural network
 phased array ultrasonics	phased array
 phased array optics	phased array
 phased array optics	beamforming
@@ -23455,6 +23958,7 @@ silicon burning process	horizontal branch
 silicon burning process	stellar mass loss
 red giant branch	horizontal branch
 moving cluster method	blue straggler
+moving cluster method	pleiades
 open cluster remnant	blue straggler
 social spam	spambot
 sping	spambot
@@ -23470,6 +23974,7 @@ spam reporting	spambot
 spam reporting	backscatter
 random self reducibility	polynomial hierarchy
 toda s theorem	polynomial hierarchy
+lagrange s theorem	lagrange polynomial
 metamathematics	mathematical logic
 semi structured data	data model
 semi structured data	relational database
@@ -23487,6 +23992,7 @@ tagged pointer	escape analysis
 pointer aliasing	pointer analysis
 pointer aliasing	smart pointer
 pointer aliasing	escape analysis
+pointer aliasing	pointer swizzling
 v speeds	flight simulator
 v speeds	cockpit
 fly by wire	flight simulator
@@ -23717,6 +24223,8 @@ light pen	operating system
 data logger	computer hardware
 data logger	operating system
 data logger	programming language
+hooking	computer hardware
+hooking	operating system
 keystroke logging	computer hardware
 keystroke logging	computer security
 keystroke logging	operating system
@@ -23840,6 +24348,8 @@ frame and panel	computer hardware
 calculator	computer hardware
 calculator	operating system
 toolroom	computer hardware
+barcode	computer hardware
+barcode	operating system
 rack	computer hardware
 shutter	computer hardware
 analog watch	computer hardware
@@ -23856,6 +24366,7 @@ combo box	operating system
 combo box	world wide web
 test card	computer hardware
 test card	telecommunications
+schrader valve	computer hardware
 membrane switch	computer hardware
 mechanical counter	computer hardware
 finger tip unit	computer hardware
@@ -24006,6 +24517,7 @@ link 22	computer hardware
 drive wheel	computer hardware
 digital data	computer hardware
 digital data	telecommunications
+phonograph	computer hardware
 check valve	computer hardware
 dynamic multipathing	computer hardware
 dynamic multipathing	operating system
@@ -24068,6 +24580,7 @@ key switch	computer hardware
 threshing machine	computer hardware
 input method	computer hardware
 input method	operating system
+plunger	computer hardware
 reference card	computer hardware
 reference card	world wide web
 reference card	programming language
@@ -24271,8 +24784,10 @@ valve stem	globe valve
 valve port	globe valve
 shock and vibration data logger	data logger
 temperature data logger	data logger
+dll injection	hooking
 pointer analysis	pointer
 smart pointer	pointer
+pointer swizzling	pointer
 escape analysis	pointer
 function pointer	pointer
 c date and time functions	pointer
@@ -24306,11 +24821,13 @@ software calculator	calculator
 scientific calculator	calculator
 mechanical calculator	calculator
 programmable calculator	calculator
+barcode reader	barcode
 shutter speed	shutter
 exposure	shutter
 hurricane shutter	shutter
 window shutter	shutter
 fill flash	shutter
+presta valve	schrader valve
 modified frequency modulation	floppy disk
 tapping rate	tapping
 reclaimer	stacker
@@ -24322,6 +24839,7 @@ favicon	web page
 icon design	icon
 semantic compaction	icon
 fishing line	reel
+safety syringe	plunger
 plural quantification	plural
 nasal hair	trimmer
 pocket cube	tray
@@ -24601,11 +25119,14 @@ crc based framing	longitudinal redundancy check
 polynomial representations of cyclic redundancy checks	longitudinal redundancy check
 isdn digital subscriber line	integrated services digital network
 isdn digital subscriber line	digital subscriber line
+d channel	integrated services digital network
+d channel	channel
 b channel	integrated services digital network
 b channel	channel
 t interface	integrated services digital network
 u interface	integrated services digital network
 basic rate interface	isdn digital subscriber line
+link access procedure	d channel
 iec 61883	ieee 1394
 odontoponera	paratrechina
 odontoponera	anoplolepis
@@ -24667,6 +25188,7 @@ seadatanet	data management
 seadatanet	metadata
 ray tracing	beam tracing
 ray tracing	computer graphics images
+ray tracing	cone tracing
 volinanserin	eplivanserin
 trochee	syllable
 syllabic verse	syllable
@@ -24697,6 +25219,7 @@ write barrier	manual memory management
 prince rupert s cube	pocket cube
 rubik s cube group	pocket cube
 loop optimization	optimizing compiler
+constant folding	optimizing compiler
 partial redundancy elimination	optimizing compiler
 partial redundancy elimination	data flow analysis
 common subexpression elimination	optimizing compiler
@@ -24707,6 +25230,7 @@ bigloo	optimizing compiler
 manifest expression	loop optimization
 array access analysis	loop optimization
 superoptimization	loop optimization
+sparse conditional constant propagation	constant folding
 global value numbering	partial redundancy elimination
 redonda	mesa
 rafetus	trionychidae
@@ -24915,6 +25439,9 @@ ontology	data mining
 ontology	ontology
 functional dependency	data mining
 functional dependency	database
+self organizing list	data mining
+self organizing list	algorithm
+self organizing list	database
 information integration	data mining
 information integration	database
 data integrity	data mining
@@ -25002,6 +25529,7 @@ netweaver developer	data mining
 netweaver developer	database
 netweaver developer	world wide web
 infographic	data mining
+item bank	data mining
 pivot table	data mining
 pivot table	database
 pivot table	operating system
@@ -25030,6 +25558,8 @@ data context and interaction	programming language
 terabyte	data mining
 terabyte	database
 terabyte	operating system
+data system	data mining
+data system	database
 collaborative mapping	data mining
 collaborative mapping	world wide web
 sql	data mining
@@ -25230,6 +25760,7 @@ numbering scheme	numbering
 netconf	xml
 netconf	network management
 xades	xml
+xades	electronic signature
 journal article tag suite	xml
 json	xml
 fpml	xml
@@ -25286,6 +25817,7 @@ antireductionism	ontology
 metametaphysics	ontology
 category of being	ontology
 ontological commitment	ontology
+list update problem	self organizing list
 data integrity field	data integrity
 wisdom of the crowd	crowdsourcing
 microwork	crowdsourcing
@@ -25323,14 +25855,17 @@ catamorphism	recursion
 database schema	database design
 view	database design
 codasyl	database design
+linear on the fly testing	item bank
 patent map	patent analysis
 bank statement	disbursement
 personal identification number	disbursement
 letter of credit	disbursement
 biltmore stick	arborist
 phaeolus schweinitzii	arborist
+tribonucleation	liquid bubble
 hexanitrobenzene	nitro
 lampworking	library catalog
+lampworking	ask a librarian
 melvyl	library catalog
 library acquisitions	resource description and access
 cataloging in publication	resource description and access
@@ -25368,6 +25903,7 @@ microstrip	antenna
 conical scanning	antenna
 conical scanning	radar
 dielectric resonator antenna	antenna
+feed line	antenna
 multi band device	antenna
 electromagnetic reverberation chamber	antenna
 beam steering	antenna
@@ -25414,6 +25950,7 @@ curtain array	antenna
 luneburg lens	antenna
 ground constants	antenna
 ground constants	surface wave
+direction finding	antenna
 swr meter	antenna
 antenna effect	antenna
 characteristic mode analysis	antenna
@@ -25439,6 +25976,7 @@ parasitic structure	patch antenna
 parasitic structure	microstrip antenna
 item level tagging	ultra high frequency
 inductive output tube	ultra high frequency
+twin lead	feed line
 benefield anechoic facility	anechoic chamber
 standing wave ratio	microstrip antenna
 axial ratio	microstrip antenna
@@ -25468,6 +26006,7 @@ ieee 802 11ay	mimo
 channel sounding	mimo
 rain fade	ka band
 rain fade	fading
+high frequency direction finding	direction finding
 stride of an array	hashed array tree
 dope vector	hashed array tree
 array slicing	dope vector
@@ -25478,10 +26017,12 @@ partial residual plot	variables
 partial residual plot	linear regression
 partial residual plot	regression analysis
 residual dipolar coupling	residual
+generalized minimal residual method	residual
 spectral modeling synthesis	residual
 errors and residuals	residual
 dipolar compound	residual dipolar coupling
 residual chemical shift anisotropy	residual dipolar coupling
+arnoldi iteration	generalized minimal residual method
 dual	connectionism
 dynamicism	connectionism
 parallel constraint satisfaction processes	connectionism
@@ -25537,6 +26078,7 @@ robot kinematics	mobile robot
 kinodynamic planning	mobile robot
 kinodynamic planning	motion planning
 simultaneous localization and mapping	mobile robot
+monte carlo localization	mobile robot
 boustrophedon	mobile robot
 boustrophedon	motion planning
 nonholonomic system	mobile robot
@@ -25544,6 +26086,7 @@ remotely operated underwater vehicle	mobile robot
 braitenberg vehicle	mobile robot
 braitenberg vehicle	robotics
 robotic mapping	mobile robot
+grid reference	mobile robot
 any angle path planning	mobile robot
 any angle path planning	motion planning
 swarm robotics	mobile robot
@@ -25604,6 +26147,7 @@ neuroarm	stereotaxy
 vibot	robotics
 situated robotics	robotics
 cloud robotics	robotics
+lego mindstorms nxt	robotics
 laboratory robotics	robotics
 zero moment point	humanoid robot
 icub	humanoid robot
@@ -25612,6 +26156,7 @@ hrp 4c	humanoid robot
 robocup 3d soccer simulation league	humanoid robot
 guroo	humanoid robot
 concertina movement	undulatory locomotion
+fast path	motion planning
 parallel parking problem	motion planning
 sphere world	motion planning
 dubins path	motion planning
@@ -25626,6 +26171,7 @@ telehaptic	teleoperation
 embodied cognitive science	cognitive robotics
 embodied embedded cognition	cognitive robotics
 asea irb	industrial robot
+brachiator	brachiation
 csu dsu	channel service unit
 abductive logic programming	abductive reasoning
 barycentric celestial reference system	astrometry
@@ -25670,6 +26216,7 @@ rasterisation	shader
 rasterisation	3d computer graphics
 reyes rendering	shader
 shading language	shader
+deferred shading	shader
 opengl shading language	shader
 renderman shading language	shader
 high level shading language	shading language
@@ -25721,6 +26268,7 @@ two ray ground reflection model	log distance path loss model
 speech error	speech production
 converging technologies for improving human performance	technological convergence
 clk3	clk2
+clk3	clk1
 statute of anne	common law copyright
 copyright clause	common law copyright
 neighborhood operation	feature detection
@@ -25740,7 +26288,13 @@ image histogram	feature detection
 image histogram	binary image
 image histogram	color image
 image histogram	image texture
+free boundary condition	feature detection
+free boundary condition	binary image
+free boundary condition	color image
+free boundary condition	image texture
+free boundary condition	digital image processing
 image moment	feature detection
+physical configuration audit	configuration item
 physical configuration audit	configuration management
 physical configuration audit	configuration management database
 hierarchical rbf	radial basis function network
@@ -25754,6 +26308,7 @@ unique key	encryption
 key management	encryption
 key management	cryptography
 data at rest	encryption
+plain text	encryption
 probabilistic encryption	encryption
 probabilistic encryption	cryptography
 plaintext	encryption
@@ -25840,6 +26395,7 @@ broadcast encryption	public key cryptography
 id based encryption	attribute based encryption
 id based encryption	probabilistic encryption
 id based encryption	public key cryptography
+ascii85	plain text
 hyper encryption	probabilistic encryption
 hyper encryption	one time pad
 hyper encryption	alice and bob
@@ -25922,6 +26478,7 @@ beale ciphers	cipher
 book cipher	cipher
 vigenere cipher	cipher
 beaufort cipher	cipher
+setar	star model
 discrete event dynamic system	discrete system
 discrete modelling	discrete system
 manifold decomposition	manifold alignment
@@ -26019,6 +26576,7 @@ computation	programming language
 truth value	algorithm
 mathematical logic	algorithm
 mathematical logic	programming language
+exact cover	algorithm
 sweep line algorithm	algorithm
 correctness	algorithm
 correctness	programming language
@@ -26064,6 +26622,8 @@ ephemeral key	computer security
 out of core algorithm	algorithm
 out of core algorithm	theoretical computer science
 out of core algorithm	parallel computing
+combinatory logic	algorithm
+combinatory logic	programming language
 prolog	algorithm
 prolog	theoretical computer science
 prolog	programming language
@@ -26099,6 +26659,7 @@ recursion	programming language
 recursion	recursion
 model checking	algorithm
 model checking	theoretical computer science
+computability theory	algorithm
 leibniz wheel	algorithm
 knapsack problem	algorithm
 decision problem	algorithm
@@ -26181,6 +26742,7 @@ quadratic growth	algorithm
 context free language	algorithm
 pivot element	algorithm
 approximate counting algorithm	algorithm
+recursively enumerable language	algorithm
 automated theorem proving	algorithm
 automated theorem proving	theoretical computer science
 baillie psw primality test	algorithm
@@ -26355,6 +26917,8 @@ straight line grammar	algorithm
 straight line grammar	programming language
 abstract logic	algorithm
 abstract logic	programming language
+capstone	algorithm
+capstone	computer security
 inductive type	algorithm
 rabin signature algorithm	algorithm
 rabin signature algorithm	computer security
@@ -26514,6 +27078,7 @@ spectral hash	computer security
 magicicada tredecula	algorithm
 conservative extension	algorithm
 conservative extension	programming language
+pinwheel	algorithm
 beap	algorithm
 beap	programming language
 unicode collation algorithm	algorithm
@@ -26701,6 +27266,8 @@ data access layer	database
 data access layer	programming language
 teletex	computer network
 teletex	telecommunications
+subnet	computer network
+subnet	distributed computing
 gigabit	computer network
 ipv6 brokenness and dns whitelisting	computer network
 ipv6 brokenness and dns whitelisting	computer security
@@ -26718,6 +27285,9 @@ wiring closet	computer network
 wiring closet	telecommunications
 dynamic host configuration protocol	computer network
 dynamic host configuration protocol	computer security
+ip multimedia subsystem	computer network
+ip multimedia subsystem	telecommunications
+ip multimedia subsystem	operating system
 uniform resource identifier	computer network
 uniform resource identifier	database
 uniform resource identifier	world wide web
@@ -26819,6 +27389,9 @@ syslog	operating system
 mobile agent	computer network
 mobile agent	distributed computing
 mobile agent	programming language
+backbone network	computer network
+backbone network	telecommunications
+backbone network	distributed computing
 mobile ad hoc network	computer network
 mobile ad hoc network	operating system
 mobile ad hoc network	distributed computing
@@ -27318,6 +27891,8 @@ trusted computing	computer security
 trusted computing	distributed computing
 internet bottleneck	computer network
 internet bottleneck	telecommunications
+iptv	computer network
+iptv	telecommunications
 link protection	computer network
 link protection	telecommunications
 link protection	distributed computing
@@ -28090,6 +28665,7 @@ sawtooth wave	telecommunications
 watershed	computer vision
 watershed	machine learning
 stars	computer vision
+sinc function	computer vision
 leveler	computer vision
 dbfs	computer vision
 decimation	computer vision
@@ -28210,6 +28786,8 @@ chain letter	computer security
 chain letter	world wide web
 dig	computer security
 dig	world wide web
+computer virus	computer security
+computer virus	operating system
 critical infrastructure	computer security
 data deduplication	computer security
 data deduplication	database
@@ -28309,6 +28887,7 @@ murmurhash	world wide web
 murmurhash	programming language
 acoustic cryptanalysis	computer security
 skein	computer security
+electronic signature	computer security
 zeus	computer security
 cyber attack	computer security
 random number generation	computer security
@@ -28430,6 +29009,7 @@ cheque guarantee card	computer security
 cheque guarantee card	world wide web
 first responder	computer security
 efficient probabilistic public key encryption scheme	computer security
+misinformation	computer security
 anti computer forensics	computer security
 anti computer forensics	operating system
 intel active management technology	computer security
@@ -28580,6 +29160,8 @@ geli	computer security
 geli	operating system
 protection mechanism	computer security
 protection mechanism	operating system
+electronic discovery	computer security
+electronic discovery	database
 time based one time password algorithm	computer security
 authorized domain	computer security
 authorized domain	internet privacy
@@ -28848,6 +29430,7 @@ mission control center	simulation
 cockpit	simulation
 modelica	simulation
 modelica	programming language
+precision approach radar	simulation
 flight simulator	simulation
 flight simulator	operating system
 flight instruments	simulation
@@ -28933,6 +29516,7 @@ ecosimpro	simulation
 ecosimpro	programming language
 heliodon	simulation
 pommel horse	simulation
+headway	simulation
 trampoline	simulation
 trampoline	operating system
 trampoline	programming language
@@ -28979,6 +29563,7 @@ transmission	telecommunications
 line filter	telecommunications
 pattress	telecommunications
 quadruplex telegraph	telecommunications
+intermediate frequency	telecommunications
 information transfer	telecommunications
 tuner	telecommunications
 radiotelephone	telecommunications
@@ -29223,6 +29808,7 @@ anisochronous	telecommunications
 administrative division	telecommunications
 hdcam	telecommunications
 hdcam	operating system
+fidelity	telecommunications
 justesen code	telecommunications
 information transfer transaction	telecommunications
 digital milliwatt	telecommunications
@@ -29630,6 +30216,8 @@ facsimile converter	telecommunications
 v band	telecommunications
 emergency vehicle	telecommunications
 performance measurement period	telecommunications
+whiteboard	telecommunications
+whiteboard	world wide web
 flexible rake receiver	telecommunications
 caustic pencil	telecommunications
 relative transmission level	telecommunications
@@ -29853,6 +30441,9 @@ data field	operating system
 integrative bioinformatics	database
 dynamic data	database
 dynamic data	programming language
+scalable vector graphics	database
+scalable vector graphics	operating system
+scalable vector graphics	world wide web
 active record pattern	database
 active record pattern	world wide web
 active record pattern	programming language
@@ -30228,6 +30819,8 @@ camlp4	theoretical computer science
 camlp4	programming language
 model transformation	theoretical computer science
 model transformation	programming language
+abstract interpretation	theoretical computer science
+abstract interpretation	programming language
 logical depth	theoretical computer science
 parallel generation	theoretical computer science
 parallel generation	parallel computing
@@ -30419,6 +31012,7 @@ wildcard character	operating system
 wildcard character	programming language
 table of contents	operating system
 table of contents	world wide web
+original equipment manufacturer	operating system
 flags register	operating system
 constant linear velocity	operating system
 geotagged photograph	operating system
@@ -30530,6 +31124,8 @@ doors	programming language
 sed	operating system
 sed	programming language
 liquid crystal display	operating system
+visual programming language	operating system
+visual programming language	programming language
 3d optical data storage	operating system
 disaster recovery	operating system
 ogg	operating system
@@ -30547,6 +31143,8 @@ symbols for zero	operating system
 tracing	operating system
 tracing	programming language
 speedwriting	operating system
+whetstone	operating system
+whetstone	programming language
 interactivity	operating system
 interactivity	world wide web
 glob	operating system
@@ -30593,6 +31191,8 @@ m 2	operating system
 loop device	operating system
 batch processing	operating system
 batch processing	programming language
+dialog box	operating system
+dialog box	world wide web
 offset	operating system
 offset	programming language
 year 10 000 problem	operating system
@@ -31064,6 +31664,8 @@ dr dobb s excellence in programming award	operating system
 dr dobb s excellence in programming award	programming language
 file alteration monitor	operating system
 calendar date	operating system
+srec	operating system
+srec	programming language
 clicker	operating system
 webnfs	operating system
 xcore xs1 g4	operating system
@@ -31541,6 +32143,8 @@ mmc 1	operating system
 mmc 1	parallel computing
 polarizing organic photovoltaics	operating system
 polarizing organic photovoltaics	computer graphics images
+unum	operating system
+unum	programming language
 o code	operating system
 o code	programming language
 pledm	operating system
@@ -31663,6 +32267,7 @@ bivariate analysis	machine learning
 score	machine learning
 sensor array	machine learning
 go no go	machine learning
+probit model	machine learning
 space mapping	machine learning
 ordered probit	machine learning
 latent class model	machine learning
@@ -31733,6 +32338,7 @@ least squares	machine learning
 computational statistics	machine learning
 nominal category	machine learning
 multiple correlation	machine learning
+varimax rotation	machine learning
 econometric model	machine learning
 shrinkage	machine learning
 logistic function	machine learning
@@ -32314,6 +32920,7 @@ library history	library science
 mohawk	library science
 library assessment	library science
 survey camp	library science
+ask a librarian	library science
 cultural resources management	library science
 law library	library science
 acid free paper	library science
@@ -32331,6 +32938,7 @@ mass deacidification	library science
 community archaeology	library science
 information history	library science
 language preservation	library science
+academic integrity	library science
 library circulation	library science
 realia	library science
 music librarianship	library science
@@ -32393,6 +33001,7 @@ function application	programming language
 programming paradigm	programming language
 tilde	programming language
 a normal form	programming language
+cons	programming language
 metatheory	programming language
 soundness	programming language
 assertion	programming language
@@ -32429,6 +33038,7 @@ continuation	programming language
 complete theory	programming language
 named parameter	programming language
 unification	programming language
+static analysis	programming language
 array data type	programming language
 man or boy test	programming language
 formal system	programming language
@@ -32439,6 +33049,7 @@ diagrammatic reasoning	programming language
 trait	programming language
 information flow	programming language
 dispose pattern	programming language
+goto	programming language
 automatic reference counting	programming language
 swift	programming language
 assembly	programming language
@@ -32460,6 +33071,7 @@ interesting number paradox	programming language
 reduced product	programming language
 metalanguage	programming language
 abstract type	programming language
+delegate	programming language
 theory	programming language
 array data structure	programming language
 eval	programming language
@@ -32487,6 +33099,7 @@ virtual class	programming language
 parkinson s law	programming language
 lisp	programming language
 effect system	programming language
+precondition	programming language
 local variable	programming language
 subtract with carry	programming language
 decorator pattern	programming language
@@ -32521,6 +33134,7 @@ multi pass compiler	programming language
 frechet inequalities	programming language
 higher order grammar	programming language
 haxe	programming language
+ampersand	programming language
 question mark	programming language
 hyphenation algorithm	programming language
 scope resolution operator	programming language
@@ -32794,6 +33408,7 @@ globalization management system	natural language processing
 retranslation	natural language processing
 meaningcloud	natural language processing
 voxforge	audio mining
+voxforge	speech analytics
 audio visual speech recognition	audio mining
 predictive inference	frequentist inference
 predictive inference	bayesian statistics
@@ -32927,6 +33542,7 @@ mass spectrometry data format	software
 design pattern	software
 layer	software
 readme	software
+arm architecture	software
 revision control	software
 codesys	software
 software architecture	software
@@ -32963,6 +33579,7 @@ computerized system validation	software
 structure chart	software
 legacy code	software
 capability maturity model	software
+simulation software	software
 dependency injection	software
 dependency injection	java
 feature model	software
@@ -32989,6 +33606,7 @@ acceptance testing	software
 numeric precision in microsoft excel	software
 transactional memory	software
 transactional memory	database transaction
+application software	software
 reusability	software
 dynamic program analysis	software
 dynamic program analysis	program analysis
@@ -33156,6 +33774,7 @@ test effort	software
 aimms	software
 test management	software
 typestate analysis	software
+typestate analysis	static analysis
 typestate analysis	java
 systems architect	software
 energy monitoring and targeting	software
@@ -33209,6 +33828,7 @@ singleton pattern	software design pattern
 lepus3	design pattern
 lepus3	object oriented design
 lepus3	software design pattern
+arm cortex m	arm architecture
 addresssanitizer	memory safety
 enterprise architecture framework	software architecture
 applications architecture	software architecture
@@ -33234,6 +33854,7 @@ ibm 8514	ibm pc compatible
 ibm pc series	ibm pc compatible
 service integration maturity model	capability maturity model
 program dependence graph	program slicing
+advanced simulation and computing program	simulation software
 open platform management architecture	open platform
 recursive acronym	unix
 recursive acronym	web server
@@ -33253,6 +33874,7 @@ concurrent euclid	unix
 system v interface definition	unix
 ifconfig	unix
 configuration management database	configuration management
+configuration item	configuration management
 x86 debug register	background debug mode interface
 software transactional memory	transactional memory
 software bloat	transactional memory
@@ -33401,6 +34023,7 @@ transaction code	distributed transaction
 transaction code	transaction processing system
 electronic harassment	cyberstalking
 servo bandwidth	servo drive
+pulse position modulation	pulse amplitude modulation
 delta modulation	pulse amplitude modulation
 pulse frequency modulation	pulse amplitude modulation
 pulse frequency modulation	frequency modulation
@@ -33409,6 +34032,7 @@ ethernet over copper	pulse amplitude modulation
 ethernet over copper	gigabit ethernet
 modulation transformer	pulse amplitude modulation
 modulation transformer	amplitude modulation
+time hopping	pulse position modulation
 modulation error ratio	delta modulation
 pulse density modulation	delta modulation
 double sideband suppressed carrier transmission	delta modulation
@@ -33594,6 +34218,7 @@ egyptian numerals	hindu arabic numeral system
 codd s theorem	relational calculus
 relvar	relational calculus
 candidate key	relational calculus
+fidelity bond	fidelity
 radio spectrum pollution	spectrum management
 united states 2008 wireless spectrum auction	spectrum management
 spectrum reallocation	spectrum management
@@ -33709,15 +34334,20 @@ identity fraud	identity theft
 video game graphics	video game development
 transformation language	model transformation
 viatra	model transformation
+demand side platform	display advertising
 standard model	random oracle
 trapdoor function	random oracle
 enhanced privacy id	random oracle
 diffie hellman problem	random oracle
 generic group model	random oracle
 full domain hash	random oracle
+network analyzer	transmission line
+network analyzer	microwave
 transposition	transmission line
 transposition	modus tollens
+transposition	backward chaining
 telegrapher s equations	transmission line
+characteristic impedance	transmission line
 stockbridge damper	transmission line
 goubau line	transmission line
 goubau line	surface wave
@@ -33726,6 +34356,7 @@ transposition tower	transmission line
 single wire transmission line	transmission line
 single wire transmission line	surface wave
 transmission line measurement	transmission line
+characteristic admittance	characteristic impedance
 iso 15686	durability
 zeroaccess botnet	srizbi botnet
 mariposa botnet	srizbi botnet
@@ -33803,6 +34434,7 @@ cache invalidation	cpu cache
 cache coloring	cpu cache
 sparc t4	cpu cache
 western digital raptor	disk buffer
+new car assessment program	crash test
 ancap	new car assessment program
 rmon	simple network management protocol
 management information base	simple network management protocol
@@ -33811,6 +34443,7 @@ canada geographic information system	local information systems
 animated mapping	computer animation
 computer facial animation	computer animation
 fall time	rise time
+polqa	pesq
 relay valve	valve actuator
 partial stroke testing	valve actuator
 continuous phase modulation	modulation
@@ -33826,6 +34459,9 @@ intensity modulation	modulation
 delta sigma modulation	modulation
 symbol rate	modulation
 symbol rate	channel
+line code	modulation
+line code	digital signal
+line code	baseband
 extinction ratio	modulation
 phase modulation	modulation
 optical carrier transmission rates	modulation
@@ -33866,6 +34502,7 @@ emphasis	frequency modulation
 modulated continuous wave	frequency modulation
 polynomial wigner ville distribution	frequency modulation
 fm transmitter	frequency modulation
+qam	quadrature amplitude modulation
 constellation diagram	quadrature amplitude modulation
 mdc 1200	symbol rate
 cross phase modulation	phase modulation
@@ -33922,6 +34559,7 @@ computable real function	computable analysis
 computable real function	recursive set
 computable isomorphism	computable analysis
 caffe	espresso
+multivariate probit model	probit model
 association	object based spatial database
 association	chain of responsibility pattern
 metropolitan area network	local area network
@@ -34005,6 +34643,7 @@ orphan works	fair use
 orphan works	intellectual property
 hypergiant	supergiant
 red supergiant	supergiant
+blue supergiant	supergiant
 betelgeuse	supergiant
 advanced access content system	broadcast encryption
 advanced access content system	traitor tracing
@@ -34046,6 +34685,7 @@ smart objects	internet of things
 smart objects	the internet
 smart connected products	internet of things
 coap protocol	constrained application protocol
+itea virginica	itea
 may s theorem	unrestricted domain
 programming language specification	programming domain
 language primitive	programming domain
@@ -34087,6 +34727,7 @@ precomputed radiance transfer	global illumination
 precomputed radiance transfer	real time rendering
 drop shadow	shadow mapping
 shadow volume	shadow mapping
+hemicube	radiosity
 bump mapping	texture mapping
 displacement mapping	texture mapping
 opengl utility library	texture mapping
@@ -34104,6 +34745,7 @@ bar x and r chart	ewma chart
 shewhart individuals control chart	ewma chart
 x bar chart	ewma chart
 money flow index	relative strength index
+cyclovergence	vergence
 accommodative infacility	vergence
 fixation disparity	vergence
 fusional vergence	vergence
@@ -34120,6 +34762,7 @@ secure multi party computation	computation
 pseudorandomness	cryptography
 modular arithmetic	cryptography
 modular arithmetic	modular design
+hardware security module	cryptography
 information theoretic security	cryptography
 information theoretic security	secrecy
 information theoretic security	channel
@@ -34157,6 +34800,7 @@ merkle tree	cryptographic hash function
 merkle tree	hash chain
 secure two party computation	secure multi party computation
 tonelli shanks algorithm	modular arithmetic
+fips 140 2	hardware security module
 timing attack	side channel attack
 addition chain	exponentiation
 composite image filter	low pass filter
@@ -34202,6 +34846,7 @@ cube connected cycles	interconnection
 snake in the box	hypercube
 snake in the box	gray code
 continuum structure function	hypercube
+richardson lucy deconvolution	wiener deconvolution
 heterophily	homophily
 national security area	national strategy to secure cyberspace
 national security area	network security policy
@@ -34220,6 +34865,8 @@ hit or miss transform	binary image
 hit or miss transform	mathematical morphology
 packed pixel	scan conversion
 voice browser	voice tag
+gprs tunnelling protocol	gprs core network
+line of sight propagation	ground wave propagation
 semantic equivalence	semantic grid
 semantic equivalence	semantic search
 semantic web rule language	semantic grid
@@ -34286,6 +34933,8 @@ asterisk gateway interface	asterisk
 inter asterisk exchange	asterisk
 aes instruction set	aes implementations
 anti aliasing filter	voltage controlled filter
+svg animation	scalable vector graphics
+stereopsis recovery	stereoblindness
 stereopsis recovery	autostereogram
 alpha centrality	network science
 random walk closeness centrality	alpha centrality
@@ -34302,6 +34951,7 @@ standard ml	functional programming
 icfp programming contest	functional programming
 haskell	functional programming
 supercombinator	graph reduction
+generalized algebraic data type	haskell
 template haskell	haskell
 fudgets	haskell
 haskell features	haskell
@@ -34353,6 +35003,7 @@ nouvelle ai	marketing and artificial intelligence
 philosophy of artificial intelligence	symbolic artificial intelligence
 recursive self improvement	symbolic artificial intelligence
 synthetic intelligence	symbolic artificial intelligence
+transmission line loudspeaker	acoustic transmission line
 base	strong topology
 base	comparison of topologies
 base	initial topology
@@ -34367,6 +35018,8 @@ autoregressive fractionally integrated moving average	autoregressive integrated 
 nonlinear autoregressive exogenous model	autoregressive integrated moving average
 box jenkins	autoregressive integrated moving average
 partial autocorrelation function	autoregressive integrated moving average
+star model	autoregressive integrated moving average
+wold s theorem	decomposition of time series
 navigation mesh	pathfinding
 jump point search	pathfinding
 pioneer neuron	pathfinding
@@ -34464,8 +35117,10 @@ join pattern	reactive programming
 inductive functional programming	reactive programming
 android wear	android
 privilege escalation	android
+android beam	android
 kotlin	android
 confused deputy problem	privilege escalation
+tectile	android beam
 timbre composition	timbre
 klangfarbenmelodie	timbre
 second normal form	first normal form
@@ -34473,6 +35128,7 @@ continuous spatial automaton	quantum finite automata
 nested word	quantum finite automata
 ω automaton	quantum finite automata
 hit testing	footmouse
+solar like oscillations	asteroseismology
 solar like oscillations	red giant
 cubehash	sha 2
 cubehash	sha 3
@@ -34485,7 +35141,9 @@ faraday wave	surface wave
 lamb waves	surface wave
 transverse wave	surface wave
 breaking wave	surface wave
+ground wave propagation	surface wave
 surface acoustic wave sensor	surface wave
+acoustic transmission line	surface acoustic wave sensor
 mobile data offloading	small cell
 trans european transport networks	transport network
 borel kolmogorov paradox	chain rule for kolmogorov complexity
@@ -34543,8 +35201,10 @@ lernmatrix	content addressable memory
 holographic associative memory	content addressable memory
 sparse distributed memory	content addressable memory
 content addressable storage	content addressable memory
+winnow	perceptron
 softmax function	convolutional neural network
 softmax function	deep learning
+radial basis function network	radial basis function
 google brain	deep learning
 deep belief network	deep learning
 autoencoder	deep learning
@@ -34565,11 +35225,13 @@ hindmarsh rose model	biological neuron model
 morris lecar model	biological neuron model
 semiconductor process simulation	semiconductor device modeling
 sercos iii	industrial ethernet
+sercos iii	sercos interface
 rapienet	industrial ethernet
 10 gigabit ethernet	gigabit ethernet
 frame bursting	gigabit ethernet
 outline of robotics	geography of robotics
 outline of robotics	future of robotics
+lego mindstorms nxt 2 0	lego mindstorms nxt
 recovery time objective	disaster recovery
 recovery time objective	business continuity
 recovery consistency objective	disaster recovery
@@ -34621,12 +35283,14 @@ ddos mitigation	application layer ddos attack
 deverbal noun	nominalization
 gerundive	gerund
 final obstruent devoicing	grammatical gender
+grammatical number	grammatical gender
 polysynthetic language	grammatical gender
 team diversity	team composition
 delete character	numeric character reference
 character	numeric character reference
 utf 16	numeric character reference
 utf 16	binary ordered compression for unicode
+wiener deconvolution	blind deconvolution
 logic probe	register transfer level
 logic probe	logic optimization
 logic probe	logic family
@@ -34758,6 +35422,7 @@ hilbert s second problem	hilbert manifold
 hilbert s second problem	hilbert series and hilbert polynomial
 hilbert s second problem	projective hilbert space
 hilbert s second problem	reproducing kernel hilbert space
+method stub	stub
 johnson s rule	flow shop scheduling
 open shop scheduling	flow shop scheduling
 open shop scheduling	two level scheduling
@@ -34829,6 +35494,7 @@ mac spoofing	ip address management
 interactive connectivity establishment	ip address management
 mac flooding	ip address management
 virtual ip address	ip address management
+zoomtext	screen magnifier
 suggested upper merged ontology	process ontology
 suggested upper merged ontology	upper ontology
 suggested upper merged ontology	ontology based data integration
@@ -34881,6 +35547,7 @@ noise figure meter	effective input noise temperature
 friis formulas for noise	effective input noise temperature
 carrier to receiver noise density	effective input noise temperature
 equivalent noise resistance	effective input noise temperature
+object class detection	face detection
 three dimensional face recognition	face detection
 haar like features	face detection
 quoted printable	base64
@@ -34909,6 +35576,8 @@ f test	linear regression
 f test	regression analysis
 polynomial regression	linear regression
 polynomial regression	regression analysis
+variance function	linear regression
+variance function	regression analysis
 mean and predicted response	linear regression
 mean and predicted response	regression analysis
 simple linear regression	linear regression
@@ -34917,6 +35586,8 @@ simple linear regression	regression analysis
 general linear model	linear regression
 general linear model	linear model
 general linear model	regression analysis
+multicollinearity	linear regression
+multicollinearity	regression analysis
 park test	linear regression
 park test	regression analysis
 design matrix	linear regression
@@ -34930,6 +35601,7 @@ ancillary statistic	f test
 brown forsythe test	f test
 theil sen estimator	simple linear regression
 epistemicism	sorites paradox
+starlight information visualization system	geovisualization
 starlight information visualization system	visual analytics
 ad hoc wireless distribution service	optimized link state routing protocol
 pointer jumping	communication complexity
@@ -34976,6 +35648,7 @@ preparata code	hamming code
 preparata code	concatenated error correction code
 microsoft interface definition language	vector markup language
 quirks mode	vector markup language
+ipv6 subnetting reference	subnet
 ipv6 subnetting reference	the internet
 electro optical sensor	wireless sensor network
 trilateration	wireless sensor network
@@ -34983,6 +35656,7 @@ sun spot	wireless sensor network
 data aggregator	wireless sensor network
 castalia	wireless sensor network
 nesc	wireless sensor network
+intelligent sensor	wireless sensor network
 location estimation in sensor networks	wireless sensor network
 local algorithm	wireless sensor network
 sybil attack	wireless sensor network
@@ -35054,6 +35728,8 @@ flat topology	network topology
 linear topology	network topology
 dead peer detection	peer to peer
 dead peer detection	the internet
+bittorrent	peer to peer
+bittorrent	the internet
 file sharing	peer to peer
 file sharing	the internet
 neurogrid	peer to peer
@@ -35113,6 +35789,7 @@ triad method	extended kalman filter
 filtering problem	extended kalman filter
 moving horizon estimation	extended kalman filter
 ensemble kalman filter	extended kalman filter
+fast kalman filter	extended kalman filter
 gps disciplined oscillator	precision lightweight gps receiver
 gps block iiia	precision lightweight gps receiver
 gps block iif	precision lightweight gps receiver
@@ -35352,6 +36029,9 @@ f script	query by example
 embedded sql	query by example
 sql 2003	query by example
 sql plus	query by example
+stochastic resonance	stochastic resonance
+stochastic resonance	signal to noise ratio
+synchronous cdma	multiuser detection
 sincgars	radio equipment
 sincgars	channel
 hilbert s twelfth problem	hilbert manifold
@@ -35463,8 +36143,10 @@ integrational linguistics	sociocultural linguistics
 integrational linguistics	media linguistics
 distributive law between monads	monad
 kleisli category	monad
+quadrant count ratio	rv coefficient
 fuzzy number	fuzzy set
 qualitative comparative analysis	fuzzy set
+possibility theory	fuzzy set
 vague set	fuzzy set
 relative scalar	fuzzy set
 degree of truth	fuzzy set
@@ -35485,6 +36167,7 @@ cal actor language	reconfigurable video coding
 hdri	high dynamic range imaging
 exposure fusion	high dynamic range imaging
 network forensics	digital forensics
+digital evidence	digital forensics
 traditional knowledge gis	gis day
 traditional knowledge gis	am fm gis
 arcexplorer	gis day
@@ -35505,8 +36188,13 @@ inertance	pulse
 autocorrelator	pulse
 pulsed power	pulse
 slowly varying envelope approximation	pulse
+thyratron	pulse
+pulse shaping	pulse
+q switching	pulse
 microwave auditory effect	pulse
 microwave auditory effect	microwave
+chirp	pulse
+pulse compression	pulse
 pulse duration	pulse
 pulse wave	pulse
 ultrashort pulse	pulse
@@ -35528,6 +36216,7 @@ linear transformer driver	pulsed power
 pseudospark switch	pulsed power
 z pulsed power facility	pulsed power
 water capacitor	pulsed power
+krytron	thyratron
 chirped pulse amplification	ultrashort pulse
 femtochemistry	ultrashort pulse
 optical autocorrelation	ultrashort pulse
@@ -35544,6 +36233,7 @@ humphrey cycle	pulse detonation engine
 function series	convergence
 stochastic approximation	convergence
 rate of convergence	convergence
+weak convergence	convergence
 symbolic convergence theory	convergence
 line search	convergence
 sequence transformation	convergence
@@ -35569,6 +36259,7 @@ potential game	convergence
 consensus dynamics	convergence
 parareal	convergence
 simultaneous perturbation stochastic approximation	stochastic approximation
+convergence of measures	weak convergence
 newton s method in optimization	local convergence
 newton fractal	local convergence
 pointwise convergence	uniform convergence
@@ -35689,6 +36380,7 @@ arbitrary waveform generator	signal generator
 arbitrary waveform generator	waveform
 block nested loop	recursive join
 edict of nantes	revocation
+compile time function execution	compile time
 mereotopology	mereology
 mereological essentialism	mereology
 mereological nihilism	mereology
@@ -35755,6 +36447,7 @@ broadband universal service	universal service
 broadband universal service	broadband
 ibm floating point architecture	industry standard architecture
 ibm high availability cluster multiprocessing	industry standard architecture
+backfitting algorithm	nonparametric regression
 fluency heuristic	recognition heuristic
 gaze heuristic	recognition heuristic
 simulation heuristic	recognition heuristic
@@ -35822,6 +36515,7 @@ carbon star	stars
 star cluster	stars
 star catalogue	stars
 open cluster	stars
+asteroseismology	stars
 main sequence	stars
 abundance of the chemical elements	stars
 k type main sequence star	stars
@@ -35854,6 +36548,7 @@ exoplanet	stars
 brown dwarf	stars
 solar mass	stars
 celestial cartography	stars
+superbubble	stars
 proper motion	stars
 t tauri star	stars
 stellar classification	stars
@@ -35921,6 +36616,7 @@ hyades stream	open cluster
 hyades stream	metallicity
 stellar isochrone	open cluster
 stellar isochrone	metallicity
+pleiades	open cluster
 chatoyancy	asterism
 emission nebula	planetary nebula
 dark nebula	planetary nebula
@@ -35956,10 +36652,13 @@ wide field infrared survey telescope	exoplanet
 gemini planet imager	exoplanet
 terrestrial planet finder	exoplanet
 deuterium burning	brown dwarf
+orion eridanus superbubble	superbubble
 orion eridanus superbubble	local bubble
 contact binary	binary star
 spectroscopic parallax	binary star
+spectroscopic parallax	stellar parallax
 o type star	binary star
+visual binary	binary star
 washington double star catalog	binary star
 wiyn observatory	binary star
 breakthrough starshot	alpha centauri
@@ -36040,6 +36739,7 @@ perq	workstation
 project athena	workstation
 convolutional deep belief networks	deep belief network
 convolutional deep belief networks	restricted boltzmann machine
+line plane intersection	intersection
 transaction processing system	transaction processing
 distributed transaction	transaction processing
 online transaction processing	transaction processing
@@ -36065,19 +36765,23 @@ optical transistor	optical switch
 multiple emitter transistor	optical transistor
 method of supplementary variables	stochastic petri net
 decorrelation theory	linear cryptanalysis
+stupendemys	podocnemididae
 araripemydidae	bothremydidae
 foxemys	bothremydidae
 polysternon	bothremydidae
+radar absorbent material	radar cross section
 dublin core	digital library
 hybrid library	digital library
 brochure	dublin core
 protocol for metadata harvesting	open archives initiative
 artin conductor	galois extension
 artin conductor	galois module
+glyptemys	clemmys
 dermatemydidae	kinosternidae
 macrochelys	chelydra
 chelydridae	chelydra
 placobdella parasitica	chelydra
+manouria	emys
 punctularia	geoemydidae
 punctularia	emydidae
 pangshura	geoemydidae
@@ -36107,6 +36811,7 @@ metadata management	metadata repository
 rote learning	learning sciences
 action learning	learning sciences
 design based learning	learning sciences
+ieee 1901	homeplug
 frequency resolved optical gating	bandwidth limited pulse
 frequency resolved optical gating	femtosecond pulse shaping
 multiphoton intrapulse interference phase scan	bandwidth limited pulse
@@ -36118,6 +36823,8 @@ prism compressor	bandwidth limited pulse
 prism compressor	femtosecond pulse shaping
 mental model theory of reasoning	psychology of reasoning
 catalytic bead sensor	electro optical sensor
+ieee 1451	intelligent sensor
+general group problem solving ggps model	adaptive reasoning
 nisnevich topology	initial topology
 particular point topology	initial topology
 weak topology	initial topology
@@ -36166,6 +36873,7 @@ mutual recursion	recursion
 corecursion	mutual recursion
 left recursion	mutual recursion
 misuse detection	anomaly based intrusion detection system
+multi standard television	intermediate frequency
 temperature entropy diagram	diagram
 one line diagram	diagram
 euler diagram	diagram
@@ -36203,6 +36911,7 @@ has a	object
 common lisp object system	object
 double compare and swap	software transactional memory
 informational listening	comprehension
+appreciative listening	comprehension
 reciprocal teaching	comprehension
 experimental pragmatics	comprehension
 transcortical sensory aphasia	comprehension
@@ -36212,6 +36921,7 @@ hyperlexia	comprehension
 iec 60870	dnp3
 stone mastic asphalt	sma
 supplementary motor area	sma
+jeavons syndrome	eyelid myoclonia
 spelling alphabet	gesture recognition
 chinese sign language	gesture recognition
 pakistan sign language	gesture recognition
@@ -36239,6 +36949,8 @@ double ended priority queue	multilevel queue
 double ended queue	multilevel queue
 hemipristis	galeocerdo
 hemipristis serra	galeocerdo
+google matrix	pagerank
+cheirank	google matrix
 isoxanthohumol	xanthohumol
 isoxanthohumol	humulus lupulus
 prenylflavonoid	xanthohumol
@@ -36247,6 +36959,7 @@ flexible organic light emitting diode	oled
 light emitting electrochemical cell	oled
 organic light emitting transistor	oled
 transport layer interface	oled
+ui data binding	composite ui application block
 image persistence	liquid crystal display
 liquid crystal on silicon	liquid crystal display
 contrast ratio	liquid crystal display
@@ -36262,6 +36975,7 @@ optical membrane	backlight
 sidelight	backlight
 frontlight	backlight
 burst dimming	backlight
+texas instruments tms320	texas instruments davinci
 total least squares	non linear least squares
 yadis	openid
 definite assignment analysis	type safety
@@ -36350,6 +37064,7 @@ ntrusign	cryptosystem
 longest alternating subsequence	longest increasing subsequence
 theme	title bar
 windowproc	title bar
+noisy text analytics	text graph
 young helmholtz theory	trichromacy
 dichromacy	trichromacy
 tetrachromacy	trichromacy
@@ -36358,6 +37073,7 @@ non inertial reference frame	rotating reference frame
 traffic bottleneck	traffic optimization
 canadian capacity guide for signalized intersections	traffic optimization
 traffic camera	traffic optimization
+hodge index theorem	atiyah singer index theorem
 random coordinate descent	stochastic gradient descent
 heteroscedasticity consistent standard errors	least squares
 least absolute deviations	least squares
@@ -36366,6 +37082,7 @@ non linear least squares	least squares
 explained sum of squares	least squares
 ordinary least squares	least squares
 ordinary least squares	regression analysis
+recursive least squares filter	least squares
 generalized least squares	least squares
 simultaneous equations model	least squares
 non negative least squares	least squares
@@ -36385,6 +37102,7 @@ self healing ring	wavelength division multiplexing
 dynamic synchronous transfer mode	ring network
 ring protection	ring network
 keyword advertising	search advertising
+associative containers	standard template library
 java card	real time java
 java card	java applet
 java annotation	real time java
@@ -36495,15 +37213,19 @@ t 52 enryu	rescue robot
 sphere mapping	reflection mapping
 joint compatibility branch and bound	simultaneous localization and mapping
 kidnapped robot problem	simultaneous localization and mapping
+kidnapped robot problem	monte carlo localization
 rheonomous	nonholonomic system
 openrov	remotely operated underwater vehicle
 explorer auv	remotely operated underwater vehicle
 irobot seaglider	remotely operated underwater vehicle
 intervention auv	remotely operated underwater vehicle
 auv abyss	remotely operated underwater vehicle
+military grid reference system	grid reference
 graphical path method	any angle path planning
 basis path testing	any angle path planning
+basis path testing	fast path
 symbrion	swarm robotics
+homeplug	power line communication
 markov kernel	variable order markov model
 forward backward algorithm	variable order markov model
 markov information source	variable order markov model
@@ -36554,6 +37276,7 @@ tukey s test of additivity	analysis of variance
 kruskal wallis one way analysis of variance	analysis of variance
 welch satterthwaite equation	analysis of variance
 welch satterthwaite equation	degrees of freedom
+one way analysis of variance	analysis of variance
 two way analysis of variance	analysis of variance
 variance	analysis of variance
 generalized randomized block design	analysis of variance
@@ -36628,6 +37351,7 @@ process gain	code division multiple access
 process gain	spread spectrum
 long code	code division multiple access
 short code	code division multiple access
+multiuser detection	code division multiple access
 quasi synchronous transmission	code division multiple access
 welch bounds	code division multiple access
 mchip	code division multiple access
@@ -36649,6 +37373,7 @@ urban beekeeping	marketing buzz
 vhf omnidirectional range	tactical air navigation system
 vor dme	tactical air navigation system
 vortac	tactical air navigation system
+pesq	speech enhancement
 listener fatigue	speech enhancement
 primitive recursive function	recursion
 structural induction	recursion
@@ -36670,6 +37395,7 @@ recursive language	μ operator
 μ recursive function	μ operator
 μ recursive function	computable function
 primitive recursive functional	primitive recursive function
+void type	recursive data type
 brzozowski derivative	kleene s recursion theorem
 white noise machine	white noise
 hermite transform	white noise
@@ -36721,6 +37447,7 @@ erpobdella	leech
 integrated test facility	facility information model
 windows forms	net framework
 windows forms	microsoft visual studio
+legal hold	electronic discovery
 backup battery	backup
 numerical wind tunnel	computer simulation
 realizable k e model	computer simulation
@@ -36784,6 +37511,9 @@ directory information tree	lightweight directory access protocol
 network information service	organizational unit
 network information service	directory service
 network information service	lightweight directory access protocol
+webserver directory index	organizational unit
+webserver directory index	directory service
+webserver directory index	lightweight directory access protocol
 export credit agency	credit card interest
 export credit agency	credit enhancement
 credit note	credit card interest
@@ -36867,6 +37597,7 @@ steinhaus johnson trotter algorithm	pseudorandom permutation
 sm4 algorithm	s box
 rijndael s box	s box
 shacal	nessie
+pilcrow	ampersand
 double checked locking	concurrency control
 giant lock	concurrency control
 distributed concurrency control	concurrency control
@@ -36885,6 +37616,7 @@ law of thought	paraconsistent logic
 connexive logic	paraconsistent logic
 matrix normal distribution	multivariate normal distribution
 matrix normal distribution	wishart distribution
+elliptical distribution	multivariate normal distribution
 folded normal distribution	matrix normal distribution
 language industry	comprehension approach
 language technology	comprehension approach
@@ -36938,6 +37670,7 @@ subnormal operator	finite rank operator
 superior oblique myokymia	oscillopsia
 family honor	honor
 youden s j statistic	receiver operating characteristic
+memory conformity	misinformation
 memory conformity	witness
 referring expression generation	natural language generation
 connection string	string
@@ -37007,6 +37740,7 @@ access modifiers	java
 multiple dispatch	object oriented programming
 late binding	object oriented programming
 double dispatch	object oriented programming
+multiple inheritance	object oriented programming
 method	object oriented programming
 trace diagram	object oriented programming
 metaclass	object oriented programming
@@ -37059,6 +37793,7 @@ marcinkiewicz interpolation theorem	operator
 tensor operator	operator
 banach space	operator
 fbi transform	operator
+bitwise operation	operator
 operator overloading	operator
 operator overloading	automatic differentiation
 particle number operator	operator
@@ -37080,6 +37815,7 @@ numerical range	operator
 schrodinger s cat	operator
 goms	operator
 resolvent	operator
+atiyah singer index theorem	operator
 p laplacian	operator
 group with operators	operator
 functional calculus	operator
@@ -37149,6 +37885,7 @@ model view controller	user interface
 user modeling	user interface
 user interface design	user interface
 interface description language	user interface
+composite ui application block	user interface
 scrollbar	user interface
 touch user interface	user interface
 voice user interface	user interface
@@ -37173,12 +37910,16 @@ lazy deletion	data structure
 hash chain	hash function
 siphash	hash function
 has 160	hash function
+herbrand s theorem	first order logic
+herbrand s theorem	automated theorem proving
 tarski s world	first order logic
 polyadic algebra	first order logic
 limiting similarity	trait
 trait activation theory	trait
+arithmetic if	goto
 redos	regular expression
 satin glass	doors
+agentsheets	visual programming language
 system f	lambda calculus
 typed lambda calculus	lambda calculus
 beta normal form	lambda calculus
@@ -37193,6 +37934,7 @@ disjoint set	data structure
 amortized analysis	data structure
 linked list	data structure
 bloom filter	data structure
+standard template library	data structure
 implicit data structure	data structure
 trie	data structure
 data structure diagram	data structure
@@ -37212,6 +37954,7 @@ normal moveout	offset
 base address	offset
 automatic variable	variable
 automatic variable	local variable
+crash test	crash
 crash reporter	crash
 advanced automatic collision notification	crash
 fatality analysis reporting system	crash
@@ -37282,6 +38025,7 @@ computable analysis	computable function
 recursive set	computable function
 random access stored program machine	computable function
 micropublishing	microform
+kaczmarz method	algebraic reconstruction technique
 semantic analytics	web intelligence
 web life	web intelligence
 pragmatic web	web intelligence
@@ -37293,6 +38037,9 @@ quasi property	misappropriation
 western electric rules	shewhart individuals control chart
 waterfall chart	shewhart individuals control chart
 multi vari chart	shewhart individuals control chart
+peptide spectral library	database search engine
+viola jones object detection framework	object class detection
+terabit	wavelength division multiplexing
 digital cross connect system	wavelength division multiplexing
 petabit	wavelength division multiplexing
 traffic grooming	wavelength division multiplexing
@@ -37341,6 +38088,7 @@ dataflow architecture	reference architecture
 data architect	reference architecture
 sonoluminescence	bubble
 bubble point	bubble
+liquid bubble	bubble
 maximum bubble pressure method	bubble
 local bubble	bubble
 chaotic bubble	bubble
@@ -37378,6 +38126,9 @@ loudness monitoring	loudness
 loudness monitoring	broadcasting
 equal loudness contour	loudness
 sound annoyance	loudness
+analog signal processing	digital signal processing
+analog signal processing	signal processing
+analog signal processing	analog signal
 omap	digital signal processing
 booth s multiplication algorithm	digital signal processing
 booth s multiplication algorithm	adder
@@ -37402,6 +38153,7 @@ analytic signal	signal processing
 statistical signal processing	signal processing
 higher order statistics	signal processing
 blanking and piercing	blanking
+sinc numerical methods	sinc function
 successive approximation adc	analog to digital converter
 successive approximation adc	cmos
 newspaper digitization	digitization
@@ -37453,6 +38205,7 @@ selmer group	galois module
 data journalism	technical journalism
 multimedia journalism	technical journalism
 computational journalism	data journalism
+ground expression	herbrand s theorem
 spider silk	silk
 capacitive micromachined ultrasonic transducers	capacitive sensing
 capacitive displacement sensor	capacitive sensing
@@ -37474,6 +38227,7 @@ camponotus modoc	carpenter ant
 viralzone	uniprot
 sword making	sword
 pattern welding	sword
+internet radio device	internet radio
 sse3	sse2
 intel gma	sse2
 intel gma	intel ipsc
@@ -37492,6 +38246,7 @@ time division multiplexing	multiplexing
 demultiplexer	multiplexing
 frequency division multiplexing	multiplexing
 frequency division multiplexing	orthogonal frequency division multiplexing
+statistical time division multiplexing	multiplexing
 an ucc 4	multiplexing
 elementary stream	multiplexing
 packetized elementary stream	multiplexing
@@ -37502,6 +38257,7 @@ delivery multimedia integration framework	multiplexing
 inverse multiplexing for atm	multiplexing
 spatial multiplexing gain	spatial multiplexing
 spatial multiplexing gain	diversity gain
+evolution data optimized	statistical time division multiplexing
 evolution data optimized	mimo ofdm
 bulb	shutter priority
 aperture priority	shutter priority
@@ -37573,6 +38329,7 @@ live virtual and constructive	interoperability
 interoperability problem	interoperability
 statistical graphics	graphics
 hpgl	graphics
+encapsulated postscript	graphics
 original chip set	graphics
 original chip set	chip
 graphics device interface	graphics
@@ -37678,7 +38435,9 @@ translinear circuit	cmos
 transmission gate	cmos
 common gate	cmos
 token bus network	security token
+token passing	security token
 vexillology	flags register
+green computing	cloud computing
 liquid water content	cloud computing
 cloud base	cloud computing
 cloud computing security	cloud computing
@@ -37707,6 +38466,7 @@ millimeter cloud radar	radar
 virtual hosting	cloud computing
 virtual hosting	the internet
 white hat	hacker
+certified ethical hacker	hacker
 offensive security certified professional	hacker
 hacking tool	hacker
 hacking tool	the internet
@@ -37726,9 +38486,11 @@ pheidole	ant
 myrmica rubra	ant
 lasius	ant
 pseudomyrmex	ant
+nylanderia	ant
 myrmica	ant
 formica fusca	ant
 prenolepis imparis	ant
+linepithema	ant
 tapinoma melanocephalum	ant
 cerapachys biroi	ant
 lasius fuliginosus	ant
@@ -37905,6 +38667,7 @@ netocracy	the internet
 simple mail transfer protocol	the internet
 affiliate marketing	the internet
 virtual pharmacy	the internet
+internet radio	the internet
 online and offline	the internet
 webring	the internet
 administrative domain	the internet
@@ -37951,6 +38714,7 @@ serial binary adder	adder
 signed number representations	adder
 subtractor	adder
 binary multiplier	adder
+dialog system	dialog box
 midrange computer	classes of computers
 terminal adapter	mobile station
 physical access	access control
@@ -38065,6 +38829,7 @@ deepface	three dimensional face recognition
 claim of right 1989	exclusive right
 limitations and exceptions to copyright	exclusive right
 equitable conversion	intangible property
+tangible property	intangible property
 intellectual property valuation	intangible property
 visual artists rights act	moral rights
 wipo copyright treaty	berne convention
@@ -38082,6 +38847,7 @@ individual movement techniques	platoon
 cooperative adaptive cruise control	platoon
 co occurrence networks	concept mining
 molecule mining	concept mining
+package on package	chip scale package
 demand assigned multiple access	time division multiple access
 demand assignment	time division multiple access
 quantitative feedback theory	robust control
@@ -38134,6 +38900,7 @@ industrial computed tomography	tomographic reconstruction
 current density imaging	electrical impedance tomography
 skew normal distribution	skew
 skew lattice	skew
+dynamical parallax	visual binary
 aircraft emergency frequency	wide area multilateration
 acousto optic programmable dispersive filter	femtosecond pulse shaping
 delay spread	fading
@@ -38182,6 +38949,7 @@ utility computing	cloud computing security
 security information and event management	cloud computing security
 network security policy	cloud computing security
 cloud testing	cloud computing security
+trusted computing base	cloud computing security
 economics of security	cloud computing security
 vendor lock in	cloud computing security
 storage security	cloud computing security
@@ -38234,12 +39002,14 @@ interrupt vector table	interrupt handler
 triple fault	interrupt vector table
 generalized hebbian algorithm	competitive learning
 oja s rule	competitive learning
+low basis theorem	computability theory
 bluejacking	object exchange
 bluejacking	bluesnarfing
 pseudorandom noise	spread spectrum
 frequency agility	spread spectrum
 direct sequence spread spectrum	spread spectrum
 trellis quantization	quantization
+rasberry crazy ant	nylanderia
 stochastic universal sampling	fitness proportionate selection
 subspace gaussian mixture model	acoustic model
 industrial process imaging	industrial computed tomography
@@ -38278,6 +39048,7 @@ machine olfaction	sensor array
 traffic congestion reconstruction with kerner s three phase theory	traffic flow
 floating car data	traffic flow
 cell transmission model	traffic flow
+vehicle information and communication system	traffic flow
 traffic generation model	traffic flow
 uncontrolled intersection	traffic flow
 road traffic control	traffic flow
@@ -38289,6 +39060,7 @@ traffic simulation	traffic flow
 one way traffic	traffic flow
 traffic count	traffic flow
 traffic optimization	floating car data
+vehicle infrastructure integration	vehicle information and communication system
 software rendering	3d computer graphics
 real time computer graphics	3d computer graphics
 texture mapping unit	real time computer graphics
@@ -38309,6 +39081,7 @@ graphics pipeline	real time computer graphics
 signal to interference plus noise ratio	signal to noise ratio
 signal to interference plus noise ratio	channel
 privilege separation	principle of least privilege
+near vertical incidence skywave	skywave
 signedness	signed number representations
 adder subtractor	subtractor
 stochastic diffusion search	swarm intelligence
@@ -38336,7 +39109,9 @@ inside outside algorithm	synchronous context free grammar
 spambot	spamming
 can spam act of 2003	spamming
 webrtc gateway	webrtc
+crematogaster peringueyi	linepithema
 ptp protocol	precision time protocol
+reprojection error	bundle adjustment
 structuring element	mathematical morphology
 closing	mathematical morphology
 opening	mathematical morphology
@@ -38350,6 +39125,7 @@ produsage	citizen journalism
 participatory video	citizen journalism
 participatory modeling	citizen journalism
 traffic island	pedestrian
+pedestrian crossing	pedestrian
 jaywalking	pedestrian
 street hierarchy	pedestrian
 complete streets	pedestrian
@@ -38377,6 +39153,7 @@ datafly algorithm	data publishing
 hostile witness	cross examination
 witness impeachment	cross examination
 sky quality meter	sky brightness
+contract cheating	academic integrity
 advanced continuous simulation language	continuous simulation
 synthetic vision system	situation awareness
 controlled flight into terrain	situation awareness
@@ -38401,6 +39178,7 @@ area control center	air traffic control
 small aircraft transportation system	air traffic control
 missed approach	air traffic control
 international cospas sarsat programme	search and rescue
+bus bunching	headway
 euromod	microsimulation
 steffensen s method	newton s method in optimization
 halley s method	newton s method in optimization
@@ -38420,6 +39198,7 @@ costas array	radar
 incoherent scatter	radar
 squall line	radar
 anomalous propagation	radar
+skywave	radar
 stealth technology	radar
 ground penetrating radar	radar
 snow bridge	radar
@@ -38429,6 +39208,7 @@ identification friend or foe	radar
 ale 50 towed decoy system	radar
 weather radar	radar
 x band	radar
+radar cross section	radar
 secondary surveillance radar	radar
 disdrometer	radar
 rain gauge	radar
@@ -38553,6 +39333,7 @@ dyspan	ieee 802 11
 timing synchronization function	ieee 802 11
 interquartile mean	contraharmonic mean
 frechet mean	contraharmonic mean
+frechet mean	weighted geometric mean
 content clause	non finite clause
 false sharing	cache coloring
 write once	cache coloring
@@ -38621,6 +39402,7 @@ multiton pattern	singleton pattern
 multiton pattern	state pattern
 analog device	analog signal
 analog device	digital signal
+analog multiplier	analog signal
 signal transfer function	analog signal
 common mode signal	analog signal
 analog delay line	analog signal
@@ -38775,6 +39557,7 @@ audio watermark	watermark
 packet layer protocol	x 25
 zonal polynomial	wishart distribution
 opportunistic reasoning	model based reasoning
+adaptive reasoning	model based reasoning
 psychology of reasoning	model based reasoning
 hol	automated theorem proving
 computer assisted proof	automated theorem proving
@@ -38848,6 +39631,7 @@ photonic chip	chip
 chipset	chip
 flip chip	chip
 system on a chip	chip
+chip scale package	chip
 network on a chip	chip
 southbridge	chip
 power network design	chip
@@ -38870,6 +39654,7 @@ thermal copper pillar bump	flip chip
 thermosonic bonding	flip chip
 wormhole switching	network on a chip
 glasspack	system in package
+enterprise social software	social software
 usability goals	usability lab
 system usability scale	usability lab
 seasonal lag	seasonality
@@ -38877,6 +39662,7 @@ sell in may	seasonality
 seasonal adjustment	seasonality
 northern pipefish	seasonality
 seasonally adjusted annual rate	seasonal adjustment
+texas instruments davinci	digital signal processor
 media processor	digital signal processor
 code composer studio	digital signal processor
 comfort noise	background noise
@@ -38896,6 +39682,7 @@ service delivery platform	service provider
 application enablement	service provider
 laser warning receiver	warning system
 lane departure warning system	warning system
+ground proximity warning system	warning system
 early warning score	warning system
 early warning system	warning system
 tsunami warning system	warning system
@@ -38927,6 +39714,7 @@ relative intensity noise	noise
 n connector	coaxial
 bipolar violation	digital signal
 multiplex baseband	baseband
+frequency mixer	radio frequency
 grid leak detector	radio frequency
 radio frequency induction	radio frequency
 atomic broadcast	broadcasting
@@ -38984,6 +39772,7 @@ interference	channel
 orthogonal frequency division multiplexing	channel
 wetted perimeter	channel
 carrier to noise ratio	channel
+kcsa potassium channel	channel
 code division multiple access	channel
 return channel	channel
 channelized	channel
@@ -39100,6 +39889,7 @@ payment processor	payment service provider
 tone sandhi	mandarin chinese
 hokkien	mandarin chinese
 tenseless language	mandarin chinese
+gilbert cell	frequency mixer
 gilbert cell	dbm
 stun	nat
 next generation firewall	firewall
@@ -39119,6 +39909,7 @@ humanoid animation	computer facial animation
 procedural animation	computer facial animation
 face animation parameter	computer facial animation
 animation database	computer facial animation
+scale free network	complex network
 evolving networks	complex network
 evolving networks	social network
 degree distribution	complex network
@@ -39131,7 +39922,9 @@ network science	social network
 weighted network	complex network
 small world network	complex network
 complex network zeta function	complex network
+preferential attachment	complex network
 scientific collaboration network	complex network
+capstone course	capstone
 library of congress classification	library classification
 colon classification	library classification
 universal decimal classification	library classification
@@ -39204,12 +39997,14 @@ negative cache	cache invalidation
 dragon protocol	cache coherence
 arachnocampa luminosa	glowworm
 arachnocampa	glowworm
+pinwheel tiling	pinwheel
 post silicon validation	integrated circuit design
 repeater insertion	integrated circuit design
 m tree	nearest neighbor search
 large margin nearest neighbor	nearest neighbor search
 best bin first	nearest neighbor search
 polymorphic recursion	bytecode
+higher order factor analysis	varimax rotation
 effective input noise temperature	low noise amplifier
 third order intercept point	low noise amplifier
 third order intercept point	dbm
@@ -39236,6 +40031,7 @@ field of sets	parity function
 consensus theorem	parity function
 cook levin theorem	parity function
 symmetric boolean function	parity function
+frequency extender	network analyzer
 cavity perturbation theory	microwave cavity
 data signaling rate	transmission time
 complementary code keying	multipath propagation
@@ -39262,6 +40058,7 @@ common camellia	camellia
 three schema approach	database schema
 schema matching	database schema
 physical schema	database schema
+media independent interface	phy
 mass customization	personalization
 customerization	personalization
 radix tree	trie
@@ -39297,6 +40094,7 @@ banner blindness	online advertising
 search advertising	online advertising
 advertising account executive	online advertising
 advertising in south korea	online advertising
+display advertising	online advertising
 ad blocking	online advertising
 digital strategy	online advertising
 internet censorship circumvention	internet censorship
@@ -39306,12 +40104,14 @@ crowd analysis	crowds
 symbolic integration	symbolic computation
 holonomic function	symbolic computation
 openmath	symbolic computation
+scale space axioms	scale space
 bipolar transistor biasing	multiple emitter transistor
 open collector	multiple emitter transistor
 darlington transistor	multiple emitter transistor
 sziklai pair	multiple emitter transistor
 capitation fee	capitation
 capitation payment	capitation
+knuth s algorithm x	exact cover
 identity economics	social identity approach
 identity control theory	social identity approach
 dynamic html	dynamic web page
@@ -39320,6 +40120,7 @@ javascript syntax	dynamic web page
 dom scripting	dynamic web page
 unobtrusive javascript	dynamic web page
 beam tracing	distributed ray tracing
+cone tracing	distributed ray tracing
 sub pixel resolution	digital image processing
 standard test image	digital image processing
 automatic image annotation	digital image processing
@@ -39345,6 +40146,7 @@ cookie stuffing	web page
 html element	web page
 cascading style sheets	web page
 webgraph	web page
+rasdaman	raster data
 convention over configuration	javabeans
 skew heap	binary heap
 skew binomial heap	binary heap
@@ -39377,6 +40179,7 @@ berkson error model	regression analysis
 semiparametric regression	regression analysis
 generalized linear model	regression analysis
 mixed data sampling	regression analysis
+nonparametric regression	regression analysis
 ramsey reset test	regression analysis
 studentized residual	regression analysis
 marginal model	regression analysis
@@ -39422,6 +40225,7 @@ viral marketing	social network
 social identity approach	social network
 social simulation	social network
 communicative ecology	social network
+social software	social network
 social shopping	social network
 social graph	social network
 dunbar s number	social network
